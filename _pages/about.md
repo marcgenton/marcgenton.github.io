@@ -25,24 +25,22 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # Education
-- *1996*, Ph.D. in Statistics, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland.
-- *1994*, Certificate in Applied Mathematics Teaching, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland. 
-- *1992*, Degree in Applied Mathematics Engineering, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland. 
+- *1996*, Ph.D. in Statistics, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland
+- *1994*, Certificate in Applied Mathematics Teaching, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland 
+- *1992*, Degree in Applied Mathematics Engineering, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland 
 
 # Academic Positions
-- *2012-20xx*, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia.
-- *2009-2012*, Texas A&M University (TAMU), College Station, USA.
-- *2006-2009*, University of Geneva (UNIGE), Geneva, Switzerland.
-- *2004-2006*, Texas A&M University (TAMU), College Station, USA.
-- *2000-2004*, North Carolina State University (NCSU), Raleigh, USA.
-- *1997-2000*, Massachusetts Institute of Technology (MIT), Boston, USA.
+- *2012-20xx*, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
+- *2009-2012*, Texas A&M University (TAMU), College Station, USA
+- *2006-2009*, University of Geneva (UNIGE), Geneva, Switzerland
+- *2004-2006*, Texas A&M University (TAMU), College Station, USA
+- *2000-2004*, North Carolina State University (NCSU), Raleigh, USA
+- *1997-2000*, Massachusetts Institute of Technology (MIT), Boston, USA
 
 # Publications
-
 [Publications Link](https://marcgenton.github.io/)
 
 # Talks
-
 [Talks Link](https://marcgenton.github.io/)
 
 # Honors and Awards
