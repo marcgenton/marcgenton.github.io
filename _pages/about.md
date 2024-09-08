@@ -40,6 +40,10 @@ My research interests include **spatio-temporal statistics**, **computational st
 # Publications
 [Publications Link](https://marcgenton.github.io/)
 
+# Books
+- *2026*
+- *2004*
+
 # Talks
 [Talks Link](https://marcgenton.github.io/)
 
