@@ -30,7 +30,6 @@ My research interests include **spatio-temporal statistics**, **subsampling meth
 - *1992*, Degree in Applied Mathematics Engineering, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland. 
 
 # Academic Positions
-
 - *2012-20xx*, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia.
 - *2009-2012*, Texas A&M University (TAMU), College Station, USA.
 - *2006-2009*, University of Geneva (UNIGE), Geneva, Switzerland.
@@ -45,9 +44,23 @@ My research interests include **spatio-temporal statistics**, **subsampling meth
 
 
 # Honors and Awards
-- *2024* Gordon Bell Prize for Climate Modelling fanalist for exascale climate emulator at SC24.
-- *2020.12* The second prize of Outstanding Papers, National Forum for Doctoral Students in Statistics.
-- *2020.11* Outstanding Poster, RUC Youth Forum on Statistics and Data Science.
+- *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
+- *2024* Don Owen Award from the American Statistical Association's San Antonio Chapter
+- *2023* Barnett Award from the Royal Statistical Society, UK
+- *2022* Gordon Bell Prize  finalist for ExaGeoStat software at SC22
+- *2020* Georges Matheron Lecturer Award of the International Association for Mathematical Geosciences
+- *2019* Service Award from the International Statistical Institute (ISI) for serving as Editor-in-Chief of the journal Stat from January 2015 to December 2017
+- *2018* JRSS-A paper read before the Royal Statistical Society, UK
+- *2018* Award for Best 2016 Paper in JABES
+- *2017* Wilcoxon Award for Best Applications Paper in Technometrics
+- *2012* Fellow of the American Association for the Advancement of Science
+- *2011* ADVANCE Distinguished Lecture from Kansas State University, USA
+- *2010* Distinguished Achievement Award from the Section on Statistics and the Environment of the American Statistical Association
+- *2010* El-Shaarawi Award for Excellence from the International Environmetrics Society
+- *2010* Fellow of the Institute of Mathematical Statistics
+- *2009* Fellow of the Royal Statistical Society
+- *2008* Elected to the International Statistical Institute
+- *2007* Fellow of the American Statistical Association
 
  
 
