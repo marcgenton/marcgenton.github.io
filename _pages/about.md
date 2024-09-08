@@ -30,12 +30,16 @@ For more details, please refer to my [CV](CV.pdf).
 - *2018.09 - 2023.06*, Ph.D. in Statistics, Renmin University of China, Beijing, China. 
 - *2014.09 - 2018.06*, B.S. in Statistics, Beijing Institute of Technology, Beijing, China. 
 
+# Publications
+
+
+
 # Honors and Awards
 - *2024.07* Gordon Bell Prize for Climate Modelling fanalist for exascale climate emulator at SC24.
 - *2020.12* The second prize of Outstanding Papers, National Forum for Doctoral Students in Statistics.
 - *2020.11* Outstanding Poster, RUC Youth Forum on Statistics and Data Science.
 
-# Publications 
+ 
 - **Yan Song**, Wenlin Dai, and Marc G. Genton (2024), "Large-scale low-rank Gaussian process prediction with support points," *Journal of the American Statistical Association, Theory and Methods*, to appear, arXiv: 2207.12804.
 - Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun (2024), "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," *ACM Gordon Bell Prize for Climate Modelling finalist, International Journal of High Performance Computing Applications*, to appear, arXiv: 2408.04440.
 - **Yan Song**, Zubair Khalid, and Marc G. Genton (2024), "[Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666)," *Journal of the American Statistical Association*, published online.
@@ -53,13 +57,5 @@ For more details, please refer to my [CV](CV.pdf).
 - *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
 - *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
-# Teaching 
-- *2024* Half part of short course "Large-Scale Spatial Data Science" at JSM.
-- *2024* A part of short course for the Applied Mathematics and Computational Science and Statistics (AMCS-STAT) school.
-- *2024.08* One lesson of course STAT 330: Multivariate Statistics at KAUST.
-- *2023.04* Teaching assistant of course Spatial Statistics at RUC.
-- *2022Fall* Teaching assistant of course Asymptotic Statistics at RUC.
-- *2021Fall* Teaching assistant of course Asymptotic Statistics at RUC.
-- *2021Spring* Teaching assistant of course Statistical Learning at RUC.
-- *2020Spring* Teaching assistant of course Stochastic Process at RUC.
+
 
