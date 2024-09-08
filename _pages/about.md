@@ -19,7 +19,7 @@ redirect_from:
 
 I am the Al-Khawarizmi Distinguished Professor of Statistics at King Abdullah University of Science and Technology (KAUST). I lead the Spatio-Temporal Statistics and Data Science (STSDS) research group.
 
-My research interests include **spatio-temporal statistics**, **subsampling methods**, **nonparametric statistics**, and **Computational Statistics and HPC**. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data from Climate and Environmental Sciences and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. I have also developed subsampling techniques for various data types and statistical models, with an emphasis on nonparametric statistics.
+My research interests include **spatio-temporal statistics**, **computational statistics**, **HPC**, and **skewed non-Gaussian multivariate distributions**, with applications in **Environmental and Climate Sciences**, as well as **renewable energy**. 
 
 # News
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
