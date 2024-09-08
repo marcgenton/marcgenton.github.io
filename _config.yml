@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yan Song"
-description              : "Postdoctoral Fellow in Statistics"
-repository               : "YanSong996/YanSong996.github.io"
+title                    : "Marc G. Genton"
+description              : "Al-Khawarizmi Distinguished Professor of Statistics"
+repository               : "marcgenton/marcgenton.github.io"
 google_scholar_stats_use_cdn : FALSE
 
 # google analytics
@@ -21,15 +21,15 @@ google_scholar_stats_use_cdn : FALSE
 
 # Site Author
 author:
-  name             : "Yan Song"
+  name             : "Marc G. Genton"
   avatar           : "images/1718244465035.jpeg"
   bio              : "King Abdullah University of Science and Technology"
-  location         : "Jeddah, KSA"
+  location         : "Thuwal, KSA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Em4gMRoAAAAJ"
-  email            : "yan.song@kaust.edu.sa"
-  researchgate     :  "https://www.researchgate.net/profile/Yan-Song-58"
+  email            : "marc.genton@kaust.edu.sa"
+  researchgate     :  "https://www.researchgate.net/profile/Marc G. Genton"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YanSong996"
+  github           : "marcgenton"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yan-song-828494311"
+  linkedin         : "marc-genton-80289210b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9854-7749"
+  orcid            : "https://orcid.org/0000-0001-6467-2998"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Riyadh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
