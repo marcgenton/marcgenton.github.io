@@ -39,9 +39,11 @@ My research interests include **spatio-temporal statistics**, **subsampling meth
 
 # Publications
 
+[Publications Link](https://marcgenton.github.io/)
 
 # Talks
 
+[Talks Link](https://marcgenton.github.io/)
 
 # Honors and Awards
 - *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
