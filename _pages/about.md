@@ -41,8 +41,8 @@ My research interests include **spatio-temporal statistics**, **computational st
 [Publications Link](https://marcgenton.github.io/)
 
 # Books
-- *2026*
-- *2004*
+- *2026* Arellano-Valle, R. B., and Genton, M. G., Multivariate Statistics Beyond Normality, Chapman & Hall/CRC, in preparation
+- *2004* Genton, M. G., Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality, Edited Volume, Chapman & Hall/CRC, Boca Raton, FL, 416 pp
 
 # Talks
 [Talks Link](https://marcgenton.github.io/)
