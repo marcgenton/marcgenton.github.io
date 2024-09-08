@@ -34,7 +34,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2009-2012*, Texas A&M University (TAMU), College Station, USA.
 - *2006-2009*, University of Geneva (UNIGE), Geneva, Switzerland.
 - *2004-2006*, Texas A&M University (TAMU), College Station, USA.
-- *2000-2004*, North Carolina Stat University (NCSU), Raleigh, USA.
+- *2000-2004*, North Carolina State University (NCSU), Raleigh, USA.
 - *1997-2000*, Massachusetts Institute of Technology (MIT), Boston, USA.
 
 # Publications
@@ -69,10 +69,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 
 
 - Maoyu Zhang, **Yan Song**, and Wenlin Dai (2024), "[Fast robust location and scatter estimation: a depth-based method](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2216246)," *Technometrics*, 66, 14-27.
-- Yan Song and Wenlin Dai (2024), "[Deterministic subsampling for logistic regression with massive data](https://doi.org/10.1007/s00180-022-01319-z)," *Computational Statistics*, 39, 707-732.
-- Xiaoyu Liu, **Yan Song**, and Kun Zhang (2024), "[An exact bootstrap-based bandwidth selection rule for kernel quantile estimators](https://doi.org/10.1080/03610918.2022.2110595)," *Communications in Statistics - Simulation and Computation*, 53, 3699--3720.
-- Yiping Hong, Yan Song, Sameh Abdulah, Ying Sun, Hatem Ltaief, David E.Keyes, and Marc G. Genton (2023),"[The third competition on spatial statistics for large datasets](https://doi.org/10.1007/s13253-023-00584-9)," *Journal of Agricultural, Biological and Environmental Statistics*, 28, 618-635.
-- Wenlin Dai, **Yan Song(co-first)**, and Dianpeng Wang (2023), "[A subsampling method for regression problems based on minimum energy criterion](https://doi.org/10.1080/00401706.2022.2127915)," *Technometrics*, 65, 192-205.
+
 
 
 
