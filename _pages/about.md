@@ -53,7 +53,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2023* Barnett Award from the Royal Statistical Society, UK
 - *2022* Gordon Bell Prize  finalist for ExaGeoStat software at SC22
 - *2020* Georges Matheron Lecturer Award of the International Association for Mathematical Geosciences
-- *2019* Service Award from the International Statistical Institute (ISI) for serving as Editor-in-Chief of the journal Stat from January 2015 to December 2017
+- *2019* Service Award from the International Statistical Institute (ISI) for serving as Editor-in-Chief of the journal Stat from Jan. 2015 to Dec. 2017
 - *2018* JRSS-A paper read before the Royal Statistical Society, UK
 - *2018* Award for Best 2016 Paper in JABES
 - *2017* Wilcoxon Award for Best Applications Paper in Technometrics
