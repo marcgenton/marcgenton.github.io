@@ -17,15 +17,15 @@ main:
 
   - title: "Books"
     url: "/#-books"
-    
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
   - title: "Codes"
     url: "/#-codes"
 
   - title: "Talks"
     url: "/#-talks"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
 
 
