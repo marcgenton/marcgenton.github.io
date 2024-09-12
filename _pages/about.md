@@ -5,6 +5,8 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
+  - /publications/
+  - /publications.html/
   - /about.html
 ---
 
