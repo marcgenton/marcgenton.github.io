@@ -38,7 +38,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *1997-2000*, Massachusetts Institute of Technology (MIT), Boston, USA
 
 # Publications
-[Publications Link](https://marcgenton.github.io/)
+[Publications Link](https://marcgenton.github.io/_pages/publications.md)
 
 # Books
 - Arellano-Valle, R. B., and Genton, M. G. (2026), Multivariate Statistics Beyond Normality, Chapman & Hall/CRC, in preparation
