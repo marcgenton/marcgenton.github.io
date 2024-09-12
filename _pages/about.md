@@ -47,6 +47,9 @@ My research interests include **spatio-temporal statistics**, **computational st
 # Talks
 [Talks Link](https://marcgenton.github.io/)
 
+# Codes
+[Codes Link](https://marcgenton.github.io/)
+
 # Honors and Awards
 - *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
 - *2024* Don Owen Award from the American Statistical Association's San Antonio Chapter
