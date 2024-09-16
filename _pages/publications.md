@@ -40,6 +40,39 @@ title: Publications
 
 **2022**
 
+**[287]** Abdulah, S., Castruccio, S., Genton, M. G., and Sun, Y. (2022), ["Editorial: Large-scale spatial data science,"]() *Journal of Data Science*, **20**, 437-438.
+
+**[286]** Abdulah, S., Alamri, F., Nag, P., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2022), ["The second competition on spatial statistics for large datasets,"]() *Journal of Data Science*, **20**, 439-460.
+
+**[285]** Abdulah, S., Cao, Q., Pei, Y., Bosilca, G., Dongarra, J., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y., (2022), ["Accelerating geostatistical modeling and prediction with mixed-precision computations: A high-productivity approach with PaRSEC,"]() *IEEE Transactions on Parallel and Distributed Systems*, **33**, 964-976.
+
+**[284]** Bastos, F., Barreto-Souza, W., and Genton, M. G. (2022), ["A generalized Heckman model with varying sample selection bias and dispersion parameters,"]() *Statistica Sinica*, **32**, 1911-1938.
+
+**[283]** Cao, J., Durante, D., and Genton, M. G. (2022), ["Scalable computation of predictive probabilities in probit models with Gaussian process priors,"]() *Journal of Computational and Graphical Statistics*, **31**, 709-720.
+
+**[282]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2022), ["tlrmvnmvt: Computing highdimensional multivariate normal and Student-t probabilities with low-rank methods in R,"]() *Journal of Statistical Software*, **101**:4.
+
+**[281]** Cao, J., Guinness, J., Genton, M. G., and Katzfuss, M. (2022), ["Scalable Gaussian-process regression and variable selection using Vecchia approximations,"]() *Journal of Machine Learning Research*, **23** (348), 1-30.
+
+**[280]** Cao, Q., Abdulah, S., Alomairy, R., Pei, Y., Nag, P., Bosilca, G., Dongarra, J., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y. (2022), ["Reshaping geostatistical modeling and prediction for extreme-scale environmental applications,"]() in *International Conference for High Performance Computing, Networking, Storage and Analysis (SC22)*, Dallas, TX, US, 13-24.
+
+**[279]** Chowdhury, J., Dutta, S., Arellano-Valle, R. B., and Genton, M. G. (2022), ["Sub-dimensional Mardia measures of multivariate skewness and kurtosis,"]() *Journal of Multivariate Analysis*, **192**:105089.
+
+**[278]** Genton, M. G., and Sun, Y. (2022), ["Functional data visualization,"]() in Piegorsch, W. W., Levine, R. A., Zhang, H. H., and Lee, T. C. M. (eds), *Computational Statistics in Data Science*, pp. 457-467, Chichester: John Wiley & Sons, ISBN: 978-1-119-56107-1.
+
+**[277]** Giani P., Genton, M. G., and Crippa, P. (2022), ["Modeling the convective boundary layer in the Terra Incognita: Evaluation of di erent strategies with real-case simulations,"]() *Monthly Weather Review*, **150**, 981-1001.
+
+**[276]** Huang, H., Castruccio, S., and Genton, M. G. (2022), ["Forecasting high-frequency spatiotemporal wind power with dimensionally reduced echo state networks,"]() *Journal of the Royal Statistical Society - Series C*, **71**, 449-466.
+
+**[275]** Ltaief, H., Genton, M. G., Gratadour, D., Keyes, D. E., and Ravasi, M. (2022), ["Responsibly reckless matrix algorithms for HPC scienti c applications,"]() *Computing in Science & Engineering*, **24**, 12-22.
+
+**[274]** Mondal, S., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel approximations of the Tukey g-and-h likelihoods and predictions for non-Gaussian geostatistics,"]() *International Parallel and Distributed Processing Symposium*, 379-389.
+
+**[273]** Qu, Z., and Genton, M. G. (2022), ["Sparse functional boxplots for multivariate curves,"]() *Journal of Computational and Graphical Statistics*, **31**, 976-989.
+
+**[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"]() in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
+
 **2021**
+
 
 **2020**
