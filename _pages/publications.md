@@ -38,6 +38,7 @@ title: Publications
 
 **[288]** Zhang, Z., Arellano-Valle, R. B., Genton, M. G., and Huser, R. (2023), ["Tractable Bayes of skew-elliptical link models for correlated binary data,"](https://marcgenton.github.io/2023.ZAGH.Biometrics.pdf) *Biometrics*, **79**, 1788-1800.
 
+
 **2022**
 
 **[287]** Abdulah, S., Castruccio, S., Genton, M. G., and Sun, Y. (2022), ["Editorial: Large-scale spatial data science,"](https://marcgenton.github.io/2022.ACGS.JDS.Editorial.pdf) *Journal of Data Science*, **20**, 437-438.
@@ -71,6 +72,7 @@ title: Publications
 **[273]** Qu, Z., and Genton, M. G. (2022), ["Sparse functional boxplots for multivariate curves,"](https://marcgenton.github.io/2022.QG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **31**, 976-989.
 
 **[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"](https://marcgenton.github.io/2022.SALSGK.PASC.pdf) in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
+
 
 **2021**
 
@@ -114,6 +116,7 @@ title: Publications
 
 **[252]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2021), ["Assessing the reliability of wind power operations under a changing climate with a non-Gaussian bias correction,"](https://marcgenton.github.io/2021.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **15**, 1831-1849.
 
+
 **2020**
 
 **[251]** Bachoc, F., Genton, M. G., Nordhausen, K., Ruiz-Gazen, A., and Virta, J. (2020), ["Spatial blind source separation,"](https://marcgenton.github.io/2020.BGNRV.Biometrika.pdf) *Biometrika*, **107**, 627-646.
@@ -140,13 +143,14 @@ title: Publications
 
 **[240]** Tagle, F., Castruccio, S., and Genton, M. G. (2020), ["A hierarchical bi-resolution spatial skew-t model,"](https://marcgenton.github.io/2020.TCG.SpatStat.pdf) *Spatial Statistics*, **35**:100398.
 
-**[239]** Tagle, F., Genton, M. G., Yip, A., Mostamandi, S., Stenchikov, G., and Castruccio, S. (2020), ["A high-resolution bi-level skew-t stochastic generator for assessing Saudi Arabia's wind energy resources (with discussion),"](https://marcgenton.github.io/.pdf) *Environmetrics*, **31**:e2628.
+**[239]** Tagle, F., Genton, M. G., Yip, A., Mostamandi, S., Stenchikov, G., and Castruccio, S. (2020), ["A high-resolution bi-level skew-t stochastic generator for assessing Saudi Arabia's wind energy resources (with discussion),"](https://marcgenton.github.io/2020.TGYMSC.Environmetrics.pdf) *Environmetrics*, **31**:e2628.
 
 **[238]** Vettori, S., Huser, R., Segers, J., and Genton, M. G. (2020), ["Bayesian model averaging over tree-based dependence structures for multivariate extremes,"](https://marcgenton.github.io/2020.VHSG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **29**, 174-190.
 
 **[237]** Yan, Y., Jeong, J., and Genton, M. G. (2020), ["Multivariate transformed Gaussian processes,"](https://marcgenton.github.io/2020.YJG.JJSDS.pdf) *Japanese Journal of Statistics and Data Science*, **3**, 129-152.
 
 **[236]** Yao, Z., Dai, W., and Genton, M. G. (2020), ["Trajectory functional boxplots,"](https://marcgenton.github.io/2020.YDG.Stat.pdf) *Stat*, **9**:e289.
+
 
 **2019**
 
