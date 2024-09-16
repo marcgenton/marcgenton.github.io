@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-**2023**
+**--2023--**
 
 **[303]** Abdulah, S., Li, Y., Cao, J., Ltaief, H., Keyes, D. E., Genton, M. G., and Sun, Y. (2023), ["Large-scale environmental data science with ExaGeoStatR,"](https://marcgenton.github.io/2023.ALCLKGS.Environmetrics.pdf) *Environmetrics*, **34**:e2770.
 
@@ -39,7 +39,7 @@ title: Publications
 **[288]** Zhang, Z., Arellano-Valle, R. B., Genton, M. G., and Huser, R. (2023), ["Tractable Bayes of skew-elliptical link models for correlated binary data,"](https://marcgenton.github.io/2023.ZAGH.Biometrics.pdf) *Biometrics*, **79**, 1788-1800.
 
 
-**2022**
+**--2022--**
 
 **[287]** Abdulah, S., Castruccio, S., Genton, M. G., and Sun, Y. (2022), ["Editorial: Large-scale spatial data science,"](https://marcgenton.github.io/2022.ACGS.JDS.Editorial.pdf) *Journal of Data Science*, **20**, 437-438.
 
@@ -74,7 +74,7 @@ title: Publications
 **[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"](https://marcgenton.github.io/2022.SALSGK.PASC.pdf) in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
 
 
-**2021**
+**--2021--**
 
 **[271]** Arellano-Valle, R. B., Harnik, S. B., and Genton, M. G. (2021), ["On the asymptotic joint distribution of multivariate sample moments,"](https://marcgenton.github.io/2021.AHG.bookchap.pdf) in *Advances in Statistics - Theory and Applications: Honoring the Contributions of Barry C. Arnold in Statistical Science*, I. Ghosh, N. Balakrishnan, H. K. T. Ng (eds), 181-206.
 
@@ -117,7 +117,7 @@ title: Publications
 **[252]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2021), ["Assessing the reliability of wind power operations under a changing climate with a non-Gaussian bias correction,"](https://marcgenton.github.io/2021.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **15**, 1831-1849.
 
 
-**2020**
+**--2020--**
 
 **[251]** Bachoc, F., Genton, M. G., Nordhausen, K., Ruiz-Gazen, A., and Virta, J. (2020), ["Spatial blind source separation,"](https://marcgenton.github.io/2020.BGNRV.Biometrika.pdf) *Biometrika*, **107**, 627-646.
 
