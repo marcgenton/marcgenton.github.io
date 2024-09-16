@@ -5,6 +5,8 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
+  - /publications/
+  - /publications.html/
   - /about.html
 ---
 
@@ -38,17 +40,11 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *1997-2000*, Massachusetts Institute of Technology (MIT), Boston, USA
 
 # Publications
-[Publications Link](https://marcgenton.github.io/)
+[Publications Link](./publications.md)
 
 # Books
 - Arellano-Valle, R. B., and Genton, M. G. (2026), Multivariate Statistics Beyond Normality, Chapman & Hall/CRC, in preparation
 - Genton, M. G. (2004), Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality, Edited Volume, Chapman & Hall/CRC, Boca Raton, FL, 416 pp
-
-# Talks
-[Talks Link](https://marcgenton.github.io/)
-
-# Codes
-[Codes Link](https://marcgenton.github.io/)
 
 # Honors and Awards
 - *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
@@ -69,13 +65,11 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2008* Elected to the International Statistical Institute
 - *2007* Fellow of the American Statistical Association
 
- 
+# Codes
+[Codes Link](https://marcgenton.github.io/_pages/codes.md)
 
-
-
-- Maoyu Zhang, **Yan Song**, and Wenlin Dai (2024), "[Fast robust location and scatter estimation: a depth-based method](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2216246)," *Technometrics*, 66, 14-27.
-
-
+# Talks
+[Talks Link](https://marcgenton.github.io/_pages/talks.md)
 
 
 

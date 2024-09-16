@@ -9,15 +9,27 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Academic Positions"
+    url: "/#-academic-positions"
 
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Books"
+    url: "/#-books"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Codes"
+    url: "/#-codes"
+
   - title: "Talks"
     url: "/#-talks"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+
+
+
+
+
 
