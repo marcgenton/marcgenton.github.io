@@ -58,7 +58,7 @@ title: Publications
 
 **[279]** Chowdhury, J., Dutta, S., Arellano-Valle, R. B., and Genton, M. G. (2022), ["Sub-dimensional Mardia measures of multivariate skewness and kurtosis,"](https://marcgenton.github.io/2022.CDAG.JMVA.pdf) *Journal of Multivariate Analysis*, **192**:105089.
 
-**[278]** Genton, M. G., and Sun, Y. (2022), ["Functional data visualization,"](https://marcgenton.github.io/) in Piegorsch, W. W., Levine, R. A., Zhang, H. H., and Lee, T. C. M. (eds), *Computational Statistics in Data Science*, pp. 457-467, Chichester: John Wiley & Sons, ISBN: 978-1-119-56107-1.
+**[278]** Genton, M. G., and Sun, Y. (2022), ["Functional data visualization,"](https://marcgenton.github.io/2020.GS.WileyStatsRef.pdf) in Piegorsch, W. W., Levine, R. A., Zhang, H. H., and Lee, T. C. M. (eds), *Computational Statistics in Data Science*, pp. 457-467, Chichester: John Wiley & Sons, ISBN: 978-1-119-56107-1.
 
 **[277]** Giani P., Genton, M. G., and Crippa, P. (2022), ["Modeling the convective boundary layer in the Terra Incognita: Evaluation of different strategies with real-case simulations,"](https://marcgenton.github.io/2022.GGC.MWR.pdf) *Monthly Weather Review*, **150**, 981-1001.
 
@@ -70,9 +70,56 @@ title: Publications
 
 **[273]** Qu, Z., and Genton, M. G. (2022), ["Sparse functional boxplots for multivariate curves,"](https://marcgenton.github.io/2022.QG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **31**, 976-989.
 
-**[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"](https://marcgenton.github.io/) in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
+**[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"](https://marcgenton.github.io/2022.SALSGK.PASC.pdf) in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
 
 **2021**
 
+**[271]** Arellano-Valle, R. B., Harnik, S. B., and Genton, M. G. (2021), ["On the asymptotic joint distribution of multivariate sample moments,"]() in *Advances in Statistics - Theory and Applications: Honoring the Contributions of Barry C. Arnold in Statistical Science*, I. Ghosh, N. Balakrishnan, H. K. T. Ng (eds), 181-206.
+
+**[270]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2021), ["Sum of Kronecker products representation and its Cholesky factorization for spatial covariance matrices from large grids,"]() *Computational Statistics and Data Analysis, Annals of Statistical Data Science*, **157**:107165.
+
+**[269]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2021), ["Exploiting low-rank covariance structures for computing high-dimensional normal and Student-t probabilities,"]() *Statistics and Computing*, **31**:2, 1-16.
+
+**[268]** Chen, W., Castruccio, S., and Genton, M. G. (2021), ["Assessing the risk of disruption of wind turbine operations in Saudi Arabia using Bayesian spatial extremes,"]() *Extremes*, **24**, 267-292.
+
+**[267]** Chen, W., Genton, M. G., and Sun, Y. (2021), ["Space-time covariance structures and models,"]() *Annual Review of Statistics and Its Application*, **8**, 191-215.
+
+**[266]** Crippa, P., Alifa, M., Bolster, D., Genton, M. G., and Castruccio, S. (2021), ["A temporal model for vertical extrapolation of wind speed and wind energy assessment,"]() *Applied Energy*, **301**:117378.
+
+**[265]** Dao, A., and Genton, M. G. (2021), ["Skew-elliptical cluster processes,"]() in *Advances in Statistics - Theory and Applications: Honoring the Contributions of Barry C. Arnold in Statistical Science*, I. Ghosh, N. Balakrishnan, H. K. T. Ng (eds), 365-393.
+
+**[264]** Das, S., Genton, M. G., Alshehri, Y. M., and Stenchikov, G. L. (2021), ["A cyclostationary model for temporal forecasting and simulation of solar global horizontal irradiance,"]() *Environmetrics*, **32**:e2700.
+
+**[263]** Das, S., and Genton, M. G. (2021), ["Cyclostationary processes with evolving periods and amplitudes,"]() *IEEE Transactions on Signal Processing*, **69**, 1579-1590.
+
+**[262]** Hong, Y., Abdulah, S., Genton, M. G., and Sun, Y. (2021), ["Efficiency assessment of approximated spatial predictions for large datasets,"]() *Spatial Statistics*, **43**:100517.
+
+**[261]** Huang, H., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), ["Competition on spatial statistics for large datasets (with discussion),"]() *Journal of Agricultural, Biological, and Environmental Statistics*, **26**, 580-595.
+
+**[260]** Huang, J., Cao, J., Fang, F., Genton, M. G., Keyes, D. E., and Turkiyyah, G. (2021), ["An O(N) algorithm for computing expectation of N-dimensional truncated multi-variate normal distribution I: Fundamentals,"]() *Advances in Computational Mathematics*, **47**:65.
+
+**[259]** Krupskii, P., and Genton, M. G. (2021), ["Conditional normal extreme-value copulas,"]() *Extremes*, **24**, 403-431.
+
+**[258]** Lenzi, A., Castruccio, S., Rue, H., and Genton, M. G. (2021), ["Improving Bayesian local spatial models in large data sets,"]() *Journal of Computational and Graphical Statistics*, **30**, 349-359.
+
+**[257]** Martinez-Hernandez, I., and Genton, M. G. (2021), ["Nonparametric trend estimation in functional time series with application to annual mortality rates,"]() *Biometrics*, **77**, 866-878.
+
+**[256]** Qu, Z., Dai, W., and Genton, M. G. (2021), ["Robust functional multivariate analysis of variance with environmental applications,"]() *Environmetrics*, **32**:e2641.
+
+**[255]** Salvana, M. L., Abdulah, S., Huang, H., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2021), ["High performance multivariate geospatial statistics on manycore systems,"]() *IEEE Transactions on Parallel and Distributed Systems*, **32**, 2719-2733.
+
+**[254]** Salvana, M., and Genton, M. G. (2021), ["Lagrangian spatio-temporal nonstationary covariance functions,"]() in *Advances in Contemporary Statistics and Econometrics - Festschrift in Honor of Christine Thomas-Agnan*, A. Daouia, A. Ruiz-Gazen (eds), 427-447.
+
+**[253]** Yan, Y., Huang, H.-C., and Genton, M. G. (2021), ["Vector autoregressive models with spatially structured coefficients for time series on a spatial grid,"]() *Journal of Agricultural, Biological, and Environmental Statistics*, **26**, 387-408.
+
+**[252]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2021), ["Assessing the reliability of wind power operations under a changing climate with a non-Gaussian bias correction,"]() *Annals of Applied Statistics*, **15**, 1831-1849.
 
 **2020**
+
+**2019**
+
+**2018**
+
+**2017**
+
+**2016**
