@@ -116,6 +116,38 @@ title: Publications
 
 **2020**
 
+**[251]** Bachoc, F., Genton, M. G., Nordhausen, K., Ruiz-Gazen, A., and Virta, J. (2020), ["Spatial blind source separation,"](https://marcgenton.github.io/2020.BGNRV.Biometrika.pdf) *Biometrika*, **107**, 627-646.
+
+**[250]** Dai, W., Mrkvicka, T., Sun, Y., and Genton, M. G. (2020), ["Functional outlier detection and taxonomy by sequential transformations,"](https://marcgenton.github.io/2020.DMSG.CSDA.pdf) *Computational Statistics and Data Analysis*, **149**:106960.
+
+**[249]** Das, S., and Genton, M. G. (2020), ["On the stationary marginal distributions of subclasses of multivariate SETAR processes of order one,"](https://marcgenton.github.io/2020.DG.JTSA.pdf) *Journal of Time Series Analysis*, **41**, 406-420.
+
+**[248]** Genton, M. G., and Sun, Y. (2020), ["Functional data visualization,"](https://marcgenton.github.io/2020.GS.WileyStatsRef.pdf) in *Wiley StatsRef: Statistics Reference Online*, Davidian, M., Kenett, R. S., Longford, N. T., Molenberghs, G., Piegorsch, W. W., and Ruggeri, F. (eds), Chichester: John Wiley & Sons, Article No. stat08290, DOI:10.1002/9781118445112.stat08290.
+
+**[247]** Giani, P., Tagle, F., Genton, M. G., Castruccio, S., and Crippa, P. (2020), ["Closing the gap between wind energy targets and implementation for emerging countries,"](https://marcgenton.github.io/2020.GTGCC.APEN.pdf) *Applied Energy*, **269**:115085.
+
+**[246]** Lenzi, A., and Genton, M. G. (2020), ["Spatio-temporal probabilistic wind vector forecasting over Saudi Arabia,"](https://marcgenton.github.io/2020.LG.AOAS.pdf) *Annals of Applied Statistics*, **14**, 1359-1378.
+
+**[245]** Litvinenko, A., Kriemann, R., Genton, M. G., Sun, Y., and Keyes, D. E. (2020), ["HLIBCov: Parallel hierarchical matrix approximation of large covariance matrices and likelihoods with applications in parameter identification,"](https://marcgenton.github.io/2020.LKGSK.MethodsX.pdf) *MethodsX*, **7**:100600.
+
+**[244]** Martinez-Hernandez, I., and Genton, M. G. (2020), ["Recent developments in complex and spatially correlated functional data,"](https://marcgenton.github.io/2020.MG.BJPS.pdf) *Brazilian Journal of Probability and Statistics*, **34**, 204-229.
+
+**[243]** Porcu, E., Bevilacqua, M., and Genton, M. G. (2020), ["Nonseparable, dynamically and compactly supported space-time covariance functions,"](https://marcgenton.github.io/2020.PBG.SS.pdf) *Statistica Sinica*, **30**, 719-739.
+
+**[242]** Salvana, M. L., and Genton, M. G. (2020), ["Nonstationary cross-covariance functions for multivariate spatio-temporal random  fields,"](https://marcgenton.github.io/2020.SG.SpatStat.pdf) *Spatial Statistics*, **37**:100411.
+
+**[241]** Shi, J., Tong, T., Wang, Y., and Genton, M. G. (2020), ["Estimating the mean and variance from the five-number summary of a log-normal distribution,"](https://marcgenton.github.io/2020.STWG.SII.pdf) *Statistics and Its Interface*, **13**, 519-531.
+
+**[240]** Tagle, F., Castruccio, S., and Genton, M. G. (2020), ["A hierarchical bi-resolution spatial skew-t model,"](https://marcgenton.github.io/2020.TCG.SpatStat.pdf) *Spatial Statistics*, **35**:100398.
+
+**[239]** Tagle, F., Genton, M. G., Yip, A., Mostamandi, S., Stenchikov, G., and Castruccio, S. (2020), ["A high-resolution bi-level skew-t stochastic generator for assessing Saudi Arabia's wind energy resources (with discussion),"](https://marcgenton.github.io/.pdf) *Environmetrics*, **31**:e2628.
+
+**[238]** Vettori, S., Huser, R., Segers, J., and Genton, M. G. (2020), ["Bayesian model averaging over tree-based dependence structures for multivariate extremes,"](https://marcgenton.github.io/2020.VHSG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **29**, 174-190.
+
+**[237]** Yan, Y., Jeong, J., and Genton, M. G. (2020), ["Multivariate transformed Gaussian processes,"](https://marcgenton.github.io/2020.YJG.JJSDS.pdf) *Japanese Journal of Statistics and Data Science*, **3**, 129-152.
+
+**[236]** Yao, Z., Dai, W., and Genton, M. G. (2020), ["Trajectory functional boxplots,"](https://marcgenton.github.io/2020.YDG.Stat.pdf) *Stat*, **9**:e289.
+
 **2019**
 
 **2018**
