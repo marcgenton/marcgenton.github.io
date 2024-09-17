@@ -156,7 +156,7 @@ title: Publications
 
 **[235]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2019), ["Geostatistical modeling and prediction using mixed-precision tile Cholesky factorization,"](https://marcgenton.github.io/2019.ALSGK.HiPC.pdf) *IEEE 26th International Conference on High-Performance Computing, Data, Analytics, and Data Science*, 152-162.
 
-**[234]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2019), ["Hierarchical-block conditioning approximations for high-dimensional multivariate normal probabilities,"](https://marcgenton.github.io/2019.CGKT.SC.pdf) *Statistics and Computing, **29**, 585-598.
+**[234]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2019), ["Hierarchical-block conditioning approximations for high-dimensional multivariate normal probabilities,"](https://marcgenton.github.io/2019.CGKT.SC.pdf) *Statistics and Computing*, **29**, 585-598.
 
 **[233]** Castruccio, S., Genton, M. G., and Sun, Y. (2019), ["Visualising spatio-temporal models with virtual reality: From fully immersive environments to apps in stereoscopic view,"](https://marcgenton.github.io/2019.CGS.JRSSA.pdf) *Journal of the Royal Statistical Society - Series A*, **182**, 379-387. (paper read before the RSS)
 
@@ -193,6 +193,42 @@ title: Publications
 
 
 **--2018--------------------------**
+
+**[217]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes., D. E. (2018), ["ExaGeoStat: A high performance unified software for geostatistics on manycore systems,"](https://marcgenton.github.io/2018.ALSGK.IEEETPDS.pdf) *IEEE Transactions on Parallel and Distributed Systems*, **29**, 2771-2784.
+
+**[216]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes., D. E. (2018), ["Parallel approximation of the maximum likelihood estimation for the prediction of large-scale geostatistics simulations,"](https://marcgenton.github.io/2018.ALSGK.IEEEcluster.pdf) *IEEE International Conference on Cluster Computing*, 98-108.
+
+**[215]** Arellano-Valle, R. B., Ferreira, C. S., and Genton, M. G. (2018), [*Scale and shape mixtures of multivariate skew-normal distributions,"](https://marcgenton.github.io/2018.AFG.JMVA.pdf) *Journal of Multivariate Analysis*, **166**, 98-110.
+
+**[214]** Castruccio, S., and Genton, M. G. (2018), ["Principles for statistical inference on big spatiotemporal data from climate models,"](https://marcgenton.github.io/2018.COG.Biometrics.pdf) *Statistics and Probability Letters*, Special Issue on The role of Statistics in the era of big data, **136**, 92-96.
+
+**[213]** Castruccio, S., Ombao, H., and Genton, M. G. (2018), ["A scalable multi-resolution model for activation and brain connectivity in fMRI data,"](https://marcgenton.github.io/) *Biometrics*, **74**, 823-833.
+
+**[212]** Chen, W., Castruccio, S., Genton, M. G., and Crippa, P. (2018), ["Current and future estimates of wind energy potential over Saudi Arabia,"](https://marcgenton.github.io/2018.CCGC.JGRA.pdf) *Journal of Geophysical Research: Atmospheres*, **123**, 6443-6459.
+
+**[211]** Dai, W., and Genton, M. G. (2018), ["Functional boxplots for multivariate curves,"](https://marcgenton.github.io/2018.DG.Stat.pdf) *Stat*, **7**:e190.
+
+**[210]** Dai, W., and Genton, M. G. (2018), ["Multivariate functional data visualization and outlier detection,"](https://marcgenton.github.io/2018.DG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **27**, 923-934.
+
+**[209]** Dai, W., and Genton, M. G. (2018), ["An outlyingness matrix for multivariate functional data classification,"](https://marcgenton.github.io/2018.DG.SS.pdf) *Statistica Sinica*, **28**, 2435-2454.
+
+**[208]** Genton, M. G., and Jeong, J. (2018), ["discussion of Mission CO2ntrol: A statistical scientist's
+role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.github.io/2018.GJ.JASA.pdf) by N. Cressie, *Journal of the American Statistical Association*, **113**, 176-178.
+
+**[207]** Genton, M. G., Keyes, D., and Turkiyyah, G. (2018), ["Hierarchical decompositions for the computation of high-dimensional multivariate normal probabilities,"](https://marcgenton.github.io/2018.GKT.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **27**, 268-277.
+
+**[206]** Jeong, J., Castruccio, S., Crippa, P., and Genton, M. G. (2018), ["Reducing storage of global wind ensembles with stochastic generators,"](https://marcgenton.github.io/2018.JCCG.AOAS.pdf) *Annals of Applied Statistics*, **12**, 490-509.
+
+**[205]** Krupskii, P., and Genton, M. G. (2018), ["Linear factor copula models and their properties,"](https://marcgenton.github.io/2018.KG.SJS.pdf) *Scandinavian Journal of Statistics*, **45**, 861-878.
+
+**[204]** Krupskii, P., Huser, R., and Genton, M. G. (2018), ["Factor copula models for replicated spatial data,"](https://marcgenton.github.io/2018.KHG.JASA.pdf) *Journal of the American Statistical Association*, **113**, 467-479.
+
+**[203]** Krupskii, P., Joe, H., Lee, D., and Genton, M. G. (2018), ["Extreme value limit of convolution of exponential and multivariate normal distribution: Link to the Huesler-Reiss distribution,"](https://marcgenton.github.io/2018.KJLG.JMVA.pdf) *Journal of Multivariate Analysis*, **163**, 80-95.
+
+**[202]** Vettori, S., Huser, R., and Genton, M. G. (2018), ["A comparison of dependence function estimators in multivariate extremes,"](https://marcgenton.github.io/2018.VHG.SC.pdf) *Statistics and Computing*, **58**, 525-538.
+
+**[201]** Yan, Y., and Genton, M. G. (2018), ["Gaussian likelihood inference on data from trans-Gaussian random fields with Matern covariance function,"](https://marcgenton.github.io/2018.YG.Environmetrics.pdf) *Environmetrics*, **29**, e2458.
+
 
 **--2017--------------------------**
 
