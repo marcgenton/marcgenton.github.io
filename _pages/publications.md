@@ -168,7 +168,7 @@ title: Publications
 
 **[229]** Hernandez-Magallanes, I., and Genton, M. G. (2019), ["A point process analysis of cloud-to-ground lightning strikes in urban and rural Oklahoma areas,"](https://marcgenton.github.io/2019.HG.Environmetrics.pdf) *Environmetrics*, **30**:e2535.
 
-**[228]** Hu, Z., Tong, T., and Genton, M. G. (2019), ["A diagonal likelihood ratio test for the equality of mean vectors in high-dimensional data,"](https://marcgenton.github.io/2019.HTG.Biometrics.pdf) *Biometrics*, **75**, 256-267.
+**[228]** Hu, Z., Tong, T., and Genton, M. G. (2019), ["Diagonal likelihood ratio test for the equality of mean vectors in high-dimensional data,"](https://marcgenton.github.io/2019.HTG.Biometrics.pdf) *Biometrics*, **75**, 256-267.
 
 **[227]** Huser, R., Dombry, C., Ribatet, M., and Genton, M. G. (2019), ["Full likelihood inference for max-stable data,"](https://marcgenton.github.io/2019.HDRG.Stat.pdf) *Stat*, **8**:e218.
 
