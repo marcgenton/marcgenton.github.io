@@ -198,11 +198,11 @@ title: Publications
 
 **[216]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes., D. E. (2018), ["Parallel approximation of the maximum likelihood estimation for the prediction of large-scale geostatistics simulations,"](https://marcgenton.github.io/2018.ALSGK.IEEEcluster.pdf) *IEEE International Conference on Cluster Computing*, 98-108.
 
-**[215]** Arellano-Valle, R. B., Ferreira, C. S., and Genton, M. G. (2018), [*Scale and shape mixtures of multivariate skew-normal distributions,"](https://marcgenton.github.io/2018.AFG.JMVA.pdf) *Journal of Multivariate Analysis*, **166**, 98-110.
+**[215]** Arellano-Valle, R. B., Ferreira, C. S., and Genton, M. G. (2018), ["Scale and shape mixtures of multivariate skew-normal distributions,"](https://marcgenton.github.io/2018.AFG.JMVA.pdf) *Journal of Multivariate Analysis*, **166**, 98-110.
 
-**[214]** Castruccio, S., and Genton, M. G. (2018), ["Principles for statistical inference on big spatiotemporal data from climate models,"](https://marcgenton.github.io/2018.COG.Biometrics.pdf) *Statistics and Probability Letters*, Special Issue on The role of Statistics in the era of big data, **136**, 92-96.
+**[214]** Castruccio, S., and Genton, M. G. (2018), ["Principles for statistical inference on big spatiotemporal data from climate models,"](https://marcgenton.github.io/2018.CG.SPL.pdf) *Statistics and Probability Letters*, Special Issue on The role of Statistics in the era of big data, **136**, 92-96.
 
-**[213]** Castruccio, S., Ombao, H., and Genton, M. G. (2018), ["A scalable multi-resolution model for activation and brain connectivity in fMRI data,"](https://marcgenton.github.io/) *Biometrics*, **74**, 823-833.
+**[213]** Castruccio, S., Ombao, H., and Genton, M. G. (2018), ["A scalable multi-resolution model for activation and brain connectivity in fMRI data,"](https://marcgenton.github.io/2018.COG.Biometrics.pdf) *Biometrics*, **74**, 823-833.
 
 **[212]** Chen, W., Castruccio, S., Genton, M. G., and Crippa, P. (2018), ["Current and future estimates of wind energy potential over Saudi Arabia,"](https://marcgenton.github.io/2018.CCGC.JGRA.pdf) *Journal of Geophysical Research: Atmospheres*, **123**, 6443-6459.
 
