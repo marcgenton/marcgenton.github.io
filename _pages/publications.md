@@ -154,6 +154,44 @@ title: Publications
 
 **--2019--------------------------**
 
+**[235]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2019), ["Geostatistical modeling and prediction using mixed-precision tile Cholesky factorization,"](https://marcgenton.github.io/2019.ALSGK.HiPC.pdf) *IEEE 26th International Conference on High-Performance Computing, Data, Analytics, and Data Science*, 152-162.
+
+**[234]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2019), ["Hierarchical-block conditioning approximations for high-dimensional multivariate normal probabilities,"](https://marcgenton.github.io/2019.CGKT.SC.pdf) *Statistics and Computing, **29**, 585-598.
+
+**[233]** Castruccio, S., Genton, M. G., and Sun, Y. (2019), ["Visualising spatio-temporal models with virtual reality: From fully immersive environments to apps in stereoscopic view,"](https://marcgenton.github.io/2019.CGS.JRSSA.pdf) *Journal of the Royal Statistical Society - Series A*, **182**, 379-387. (paper read before the RSS)
+
+**[232]** Chen, W., and Genton, M. G. (2019), ["Parametric variogram matrices incorporating both bounded and unbounded functions,"](https://marcgenton.github.io/2019.CG.SERRA.pdf) *Stochastic Environmental Research and Risk Assessment*, **33**, 1669-1679.
+
+**[231]** Dai, W., and Genton, M. G. (2019), ["Directional outlyingness for multivariate functional data,"](https://marcgenton.github.io/2019.DG.CSDA.pdf) *Computational Statistics and Data Analysis*, **131**, 50-65.
+
+**[230]** Genton, M. G., and Sun, Y. (2019), ["discussion of Data science, big data, and statistics,"](https://marcgenton.github.io/2019.GS.TEST.pdf) by P. Galeano and D. Pena, *TEST*, **28**, 338-341.
+
+**[229]** Hernandez-Magallanes, I., and Genton, M. G. (2019), ["A point process analysis of cloud-to-ground lightning strikes in urban and rural Oklahoma areas,"](https://marcgenton.github.io/2019.HG.Environmetrics.pdf) *Environmetrics*, **30**:e2535.
+
+**[228]** Hu, Z., Tong, T., and Genton, M. G. (2019), ["A diagonal likelihood ratio test for the equality of mean vectors in high-dimensional data,"](https://marcgenton.github.io/2019.HTG.Biometrics.pdf) *Biometrics*, **75**, 256-267.
+
+**[227]** Huser, R., Dombry, C., Ribatet, M., and Genton, M. G. (2019), ["Full likelihood inference for max-stable data,"](https://marcgenton.github.io/2019.HDRG.Stat.pdf) *Stat*, **8**:e218.
+
+**[226]** Jeong, J., Yan, Y., Castruccio, S., and Genton, M. G. (2019), ["A stochastic generator of global monthly wind energy with Tukey g-and-h autoregressive processes,"](https://marcgenton.github.io/2019.JYCG.SS.pdf) *Statistica Sinica*, **29**, 1105-
+1126.
+
+**[225]** Krupskii, P., and Genton, M. G. (2019), ["A copula model for non-Gaussian multivariate spatial data,"](https://marcgenton.github.io/2019.KG.JMVA.pdf) *Journal of Multivariate Analysis*, **169**, 264-277.
+
+**[224]** Litvinenko, A., Sun, Y., Genton, M. G., and Keyes, D. E. (2019), ["Likelihood approximation with hierarchical matrices for large spatial datasets,"](https://marcgenton.github.io/2019.LSGK.CSDA.pdf) *Computational Statistics and Data Analysis*, **137**, 115-132.
+
+**[223]** Martinez-Hernandez, I., Genton, M. G., and Gonzalez-Farias, G. (2019), ["Robust depth-based estimation of the functional autoregressive model,"](https://marcgenton.github.io/2019.MGG.CSDA.pdf) *Computational Statistics and Data Analysis*, **131**, 66-79.
+
+**[222]** Militino, A. F., Ugarte, M. D., P erez-Goya, U., and Genton, M. G. (2019), ["Interpolation of the mean anomalies for cloud-filling in land surface temperature and normalized difference vegetation index,"](https://marcgenton.github.io/2019.MUPG.IEEETGRS.pdf) *IEEE Transactions on Geoscience and Remote Sensing*, **57**, 6068-6078.
+
+**[221]** Tagle, F., Castruccio, S., Crippa, P., and Genton, M. G. (2019), ["A non-Gaussian spatiotemporal model for daily wind speeds based on a multivariate skew-t distribution,"](https://marcgenton.github.io/2019.TCCG.JTSA.pdf) *Journal of Time Series Analysis*, **40**, 312-326.
+
+**[220]** Vettori, S., Huser, R., and Genton, M. G. (2019), ["Bayesian modeling of air pollution extremes using nested multivariate max-stable processes,"](https://marcgenton.github.io/2019.VHG.Biometrics.pdf) *Biometrics*, **75**, 831-841.
+
+**[219]** Yan, Y., and Genton, M. G. (2019), ["The Tukey g-and-h distribution,"](https://marcgenton.github.io/2019.YG.Significance.pdf) *Significance*, **16**(3), 10-11.
+
+**[218]** Yan, Y., and Genton, M. G. (2019), ["Non-Gaussian autoregressive processes with Tukey g-and-h transformations,"](https://marcgenton.github.io/2019.YG.Environmetrics.pdf) *Environmetrics*, **30**, e2503.
+
+
 **--2018--------------------------**
 
 **--2017--------------------------**
