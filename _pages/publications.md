@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: publications
 title: Publications
 ---
 
@@ -287,7 +287,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[194]** Azzalini, A., Browne, R., Genton, M. G., and McNicholas, P. (2016), ["On nomenclature for, and the relative merits of, two formulations of skew distributions,"]() *Statistics and Probability Letters*, **110**, 201-206.
+**[194]** Azzalini, A., Browne, R., Genton, M. G., and McNicholas, P. (2016), ["On nomenclature for, and the relative merits of, two formulations of skew distributions,"](https://marcgenton.github.io/) *Statistics and Probability Letters*, **110**, 201-206.
 
 **[193]** Ben Taieb, S., Huser, R., Hyndman, R. J., and Genton, M. G. (2016), ["Forecasting uncertainty in electricity smart meter data by boosting additive quantile regression,"]() *IEEE Transactions on Smart Grid*, **7**, 2448-2455.
 
@@ -309,22 +309,19 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[184]** Huser, R., and Genton, M. G. (2016), ["Non-stationary dependence structures for spatial extremes,"]() *Journal of Agricultural, Biological and Environmental Statistics*, **21**, 470-491.
 
-[183] Kim, H.-M., Maadooliat, M., Arellano-Valle, R., and Genton, M. G. (2016), \Skewed factor
-models using selection mechanisms," Journal of Multivariate Analysis, 145, 162-177.
-[182] Lee, M., Genton, M. G., and Jun, M. (2016), \Testing self-similarity through Lamperti transformations,"
-Journal of Agricultural, Biological and Environmental Statistics, 21, 426-447.
-[181] Porcu, E., Bevilacqua, M., and Genton, M. G. (2016), \Spatio-temporal covariance and crosscovariance
-functions of great circle distance on the sphere," Journal of the American Statistical
-Association, 111, 888-898.
-[180] Prihartato, P. K., Irigoien, X., Genton, M. G., and Kaartvedt, S. (2016), \Global e ects of moon
-phase on nocturnal acoustic scattering layers," Marine Ecology Progress Series, 544, 65-75.
-12
-[179] Rubio, F. J., and Genton, M. G. (2016), \Bayesian linear regression with skew-symmetric error
-distributions, with applications to survival analysis," Statistics in Medicine, 35, 2441-2454.
-[178] Xu, G., and Genton, M. G. (2016), \Tukey max-stable processes for spatial extremes," Spatial
-Statistics, 18, 431-443.
-[177] Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2016), \Robust inference in sample selection
-models," Journal of the Royal Statistical Society Series B, 78, 805-827.
+**[183]** Kim, H.-M., Maadooliat, M., Arellano-Valle, R., and Genton, M. G. (2016), ["Skewed factor models using selection mechanisms,"]() *Journal of Multivariate Analysis*, **145**, 162-177.
+
+**[182]** Lee, M., Genton, M. G., and Jun, M. (2016), ["Testing self-similarity through Lamperti transformations,"]() *Journal of Agricultural, Biological and Environmental Statistics*, **21**, 426-447.
+
+**[181]** Porcu, E., Bevilacqua, M., and Genton, M. G. (2016), ["Spatio-temporal covariance and cross-covariance functions of great circle distance on the sphere,"]() *Journal of the American Statistical Association*, **111**, 888-898.
+
+**[180]** Prihartato, P. K., Irigoien, X., Genton, M. G., and Kaartvedt, S. (2016), ["Global effects of moon phase on nocturnal acoustic scattering layers,"]() *Marine Ecology Progress Series*, **544**, 65-75.
+
+**[179]** Rubio, F. J., and Genton, M. G. (2016), ["Bayesian linear regression with skew-symmetric error distributions, with applications to survival analysis,"]() *Statistics in Medicine*, **35**, 2441-2454.
+
+**[178]** Xu, G., and Genton, M. G. (2016), ["Tukey max-stable processes for spatial extremes,"]() *Spatial Statistics*, **18**, 431-443.
+
+**[177]** Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2016), ["Robust inference in sample selection models,"]() *Journal of the Royal Statistical Society - Series B*, **78**, 805-827.
 
 **---**
 
