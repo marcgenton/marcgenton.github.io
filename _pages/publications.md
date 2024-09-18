@@ -345,7 +345,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[169]** Lee, G., Ding, Y., Genton, M. G., and Xie, L. (2015), ["Power curve estimation with multivariate environmental factors for inland and off-shore wind farms,"](https://marcgenton.github.io/2015.LDGX.JASA.pdf) *Journal of the American Statistical Association*, **110**, 56-67.
 
-**[168]** Lee, G., Ding, Y., Xie, L., and Genton, M. G. (2015), ["Kernel plus method for quantifying wind turbine upgrades,"](https://marcgenton.github.io/2015.LDXG.WE.pdf) *Wind Energy*, **18**, 1207-1219.
+**[168]** Lee, G., Ding, Y., Xie, L., and Genton, M. G. (2015), ["A kernel plus method for quantifying wind turbine upgrades,"](https://marcgenton.github.io/2015.LDXG.WE.pdf) *Wind Energy*, **18**, 1207-1219.
 
 **[167]** Lee, M., Jun, M., and Genton, M. G. (2015), ["Validation of CMIP5 multi-model ensembles through the smoothness of climate variables,"](https://marcgenton.github.io/2015.LJG.TellusA.pdf) *Tellus A*, **67**, 23880.
 
@@ -365,9 +365,9 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[159]** Yan, Y., and Genton, M. G. (2015), ["discussion of Multivariate functional outlier detection"](https://marcgenton.github.io/2015.YG.SMA.pdf) by M. Hubert, P. Rousseeuw, and P. Segaert, *Statistical Methods and Applications*, **24**, 245-251.
 
-**[158]** Zenger, K., Dutta, S., Wol , H., Genton, M. G., and Kraus, B. (2015), ["Structure-toxicity relationship of chalcones in human hepatic stellate cells,"](https://marcgenton.github.io/2015.ZDWGK.Toxicology.pdf) *Toxicology*, **336**, 26-33.
+**[158]** Zenger, K., Dutta, S., Wol , H., Genton, M. G., and Kraus, B. (2015), ["In vitro structure-toxicity relationship of chalcones in human hepatic stellate cells,"](https://marcgenton.github.io/2015.ZDWGK.Toxicology.pdf) *Toxicology*, **336**, 26-33.
 
-**[157]** Zhang, l., Mai, P. M., Thingbaijam, K., Raza ndrakoto, H., and Genton, M. G. (2015), ["Comparing earthquake slip models with the spatial prediction comparison test,"](https://marcgenton.github.io/2015.ZMTRG.GJI.pdf) *Geophysical Journal International*, **200**, 185-198.
+**[157]** Zhang, l., Mai, P. M., Thingbaijam, K., Raza ndrakoto, H., and Genton, M. G. (2015), ["Analysing earthquake slip models with the spatial prediction comparison test,"](https://marcgenton.github.io/2015.ZMTRG.GJI.pdf) *Geophysical Journal International*, **200**, 185-198.
 
 **---**
 
