@@ -116,8 +116,9 @@ title: Publications
 
 **[252]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2021), ["Assessing the reliability of wind power operations under a changing climate with a non-Gaussian bias correction,"](https://marcgenton.github.io/2021.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **15**, 1831-1849.
 
-
+**--**
 **--2020--------------------------**
+**--**
 
 **[251]** Bachoc, F., Genton, M. G., Nordhausen, K., Ruiz-Gazen, A., and Virta, J. (2020), ["Spatial blind source separation,"](https://marcgenton.github.io/2020.BGNRV.Biometrika.pdf) *Biometrika*, **107**, 627-646.
 
@@ -151,8 +152,9 @@ title: Publications
 
 **[236]** Yao, Z., Dai, W., and Genton, M. G. (2020), ["Trajectory functional boxplots,"](https://marcgenton.github.io/2020.YDG.Stat.pdf) *Stat*, **9**:e289.
 
-
+**--**
 **--2019--------------------------**
+**--**
 
 **[235]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2019), ["Geostatistical modeling and prediction using mixed-precision tile Cholesky factorization,"](https://marcgenton.github.io/2019.ALSGK.HiPC.pdf) *IEEE 26th International Conference on High-Performance Computing, Data, Analytics, and Data Science*, 152-162.
 
@@ -192,7 +194,9 @@ title: Publications
 **[218]** Yan, Y., and Genton, M. G. (2019), ["Non-Gaussian autoregressive processes with Tukey g-and-h transformations,"](https://marcgenton.github.io/2019.YG.Environmetrics.pdf) *Environmetrics*, **30**, e2503.
 
 
+**--**
 **--2018--------------------------**
+**--**
 
 **[217]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes., D. E. (2018), ["ExaGeoStat: A high performance unified software for geostatistics on manycore systems,"](https://marcgenton.github.io/2018.ALSGK.IEEETPDS.pdf) *IEEE Transactions on Parallel and Distributed Systems*, **29**, 2771-2784.
 
@@ -230,9 +234,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 **[201]** Yan, Y., and Genton, M. G. (2018), ["Gaussian likelihood inference on data from trans-Gaussian random fields with Matern covariance function,"](https://marcgenton.github.io/2018.YG.Environmetrics.pdf) *Environmetrics*, **29**, e2458.
 
 
+**--**
 **--2017--------------------------**
+**--**
 
-**[200]** Dutta, S., and Genton, M. G. (2017), ["Depth-weighted robust multivariate regression with application to sparse data,"](https://marcgenton.github.io/2017.DG.CJS) *Canadian Journal of Statistics*, **45**, 164-184.
+**[200]** Dutta, S., and Genton, M. G. (2017), ["Depth-weighted robust multivariate regression with application to sparse data,"](https://marcgenton.github.io/2017.DG.CJS.pdf) *Canadian Journal of Statistics*, **45**, 164-184.
 
 **[199]** Genton, M. G., and Hering, A. (2017), ["discussion of Spatiotemporal models for skewed processes,"](https://marcgenton.github.io/2017.GH.Environmetrics.pdf) by A. Schmidt, K. Gon calves, P. Velozo, *Environmetrics*, **28**, e2430.
 
@@ -245,7 +251,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 **[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249.
 
 
+**--**
 **--2016--------------------------**
+**--**
+
+
 
 **--2015--------------------------**
 
