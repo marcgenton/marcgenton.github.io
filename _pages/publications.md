@@ -235,7 +235,9 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 
 **--**
+
 **--2017--------------------------**
+
 **--**
 
 **[200]** Dutta, S., and Genton, M. G. (2017), ["Depth-weighted robust multivariate regression with application to sparse data,"](https://marcgenton.github.io/2017.DG.CJS.pdf) *Canadian Journal of Statistics*, **45**, 164-184.
@@ -252,7 +254,9 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 
 **--**
+
 **--2016--------------------------**
+
 **--**
 
 
