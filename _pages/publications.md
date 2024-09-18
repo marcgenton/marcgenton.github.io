@@ -3,8 +3,27 @@ layout: page
 title: Publications
 ---
 
+**---**
 
-**--2023--------------------------**
+**---2025---------------------------**
+
+**---** 
+
+
+
+**---**
+
+**---2024---------------------------**
+
+**---** 
+
+
+
+**---**
+
+**---2023---------------------------**
+
+**---** 
 
 **[303]** Abdulah, S., Li, Y., Cao, J., Ltaief, H., Keyes, D. E., Genton, M. G., and Sun, Y. (2023), ["Large-scale environmental data science with ExaGeoStatR,"](https://marcgenton.github.io/2023.ALCLKGS.Environmetrics.pdf) *Environmetrics*, **34**:e2770.
 
@@ -38,8 +57,11 @@ title: Publications
 
 **[288]** Zhang, Z., Arellano-Valle, R. B., Genton, M. G., and Huser, R. (2023), ["Tractable Bayes of skew-elliptical link models for correlated binary data,"](https://marcgenton.github.io/2023.ZAGH.Biometrics.pdf) *Biometrics*, **79**, 1788-1800.
 
+**---**
 
-**--2022--------------------------**
+**---2022---------------------------**
+
+**---** 
 
 **[287]** Abdulah, S., Castruccio, S., Genton, M. G., and Sun, Y. (2022), ["Editorial: Large-scale spatial data science,"](https://marcgenton.github.io/2022.ACGS.JDS.Editorial.pdf) *Journal of Data Science*, **20**, 437-438.
 
@@ -73,8 +95,11 @@ title: Publications
 
 **[272]** Salvana, M. L., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2022), ["Parallel space-time likelihood optimization for air pollution prediction on large-scale systems,"](https://marcgenton.github.io/2022.SALSGK.PASC.pdf) in *Platform for Advanced Scientific Computing Conference (PASC '22)*, Basel, Switzerland, Article No. 17, 1-11.
 
+**---**
 
-**--2021--------------------------**
+**---2021---------------------------**
+
+**---** 
 
 **[271]** Arellano-Valle, R. B., Harnik, S. B., and Genton, M. G. (2021), ["On the asymptotic joint distribution of multivariate sample moments,"](https://marcgenton.github.io/2021.AHG.bookchap.pdf) in *Advances in Statistics - Theory and Applications: Honoring the Contributions of Barry C. Arnold in Statistical Science*, I. Ghosh, N. Balakrishnan, H. K. T. Ng (eds), 181-206.
 
@@ -116,9 +141,11 @@ title: Publications
 
 **[252]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2021), ["Assessing the reliability of wind power operations under a changing climate with a non-Gaussian bias correction,"](https://marcgenton.github.io/2021.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **15**, 1831-1849.
 
-**--**
-**--2020--------------------------**
-**--**
+**---**
+
+**---2020---------------------------**
+
+**---** 
 
 **[251]** Bachoc, F., Genton, M. G., Nordhausen, K., Ruiz-Gazen, A., and Virta, J. (2020), ["Spatial blind source separation,"](https://marcgenton.github.io/2020.BGNRV.Biometrika.pdf) *Biometrika*, **107**, 627-646.
 
@@ -152,9 +179,11 @@ title: Publications
 
 **[236]** Yao, Z., Dai, W., and Genton, M. G. (2020), ["Trajectory functional boxplots,"](https://marcgenton.github.io/2020.YDG.Stat.pdf) *Stat*, **9**:e289.
 
-**--**
-**--2019--------------------------**
-**--**
+**---**
+
+**---2019---------------------------**
+
+**---** 
 
 **[235]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2019), ["Geostatistical modeling and prediction using mixed-precision tile Cholesky factorization,"](https://marcgenton.github.io/2019.ALSGK.HiPC.pdf) *IEEE 26th International Conference on High-Performance Computing, Data, Analytics, and Data Science*, 152-162.
 
@@ -193,10 +222,11 @@ title: Publications
 
 **[218]** Yan, Y., and Genton, M. G. (2019), ["Non-Gaussian autoregressive processes with Tukey g-and-h transformations,"](https://marcgenton.github.io/2019.YG.Environmetrics.pdf) *Environmetrics*, **30**, e2503.
 
+**---**
 
-**--**
-**--2018--------------------------**
-**--**
+**---2018---------------------------**
+
+**---** 
 
 **[217]** Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes., D. E. (2018), ["ExaGeoStat: A high performance unified software for geostatistics on manycore systems,"](https://marcgenton.github.io/2018.ALSGK.IEEETPDS.pdf) *IEEE Transactions on Parallel and Distributed Systems*, **29**, 2771-2784.
 
@@ -233,12 +263,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[201]** Yan, Y., and Genton, M. G. (2018), ["Gaussian likelihood inference on data from trans-Gaussian random fields with Matern covariance function,"](https://marcgenton.github.io/2018.YG.Environmetrics.pdf) *Environmetrics*, **29**, e2458.
 
+**---**
 
-**--**
+**---2017---------------------------**
 
-**--2017--------------------------**
-
-**--**
+**---** 
 
 **[200]** Dutta, S., and Genton, M. G. (2017), ["Depth-weighted robust multivariate regression with application to sparse data,"](https://marcgenton.github.io/2017.DG.CJS.pdf) *Canadian Journal of Statistics*, **45**, 164-184.
 
@@ -252,12 +281,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249.
 
-
 **---**
 
 **---2016---------------------------**
 
-**---**
+**---** 
 
 **[194]** Azzalini, A., Browne, R., Genton, M. G., and McNicholas, P. (2016), ["On nomenclature for, and the relative merits of, two formulations of skew distributions,"]() *Statistics and Probability Letters*, **110**, 201-206.
 
@@ -269,20 +297,18 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[190]** Castruccio, S., Huser, R., and Genton, M. G. (2016), ["High-order composite likelihood inference for max-stable distributions and processes,"]() *Journal of Computational and Graphical Statistics*, **25**, 1212-1229.
 
-**[189] Cochran, J., Hardenstine, R., Braun, C., Skomal, G., Thorrold, S., Xu, K., Genton, M. G., and Berumen, M. (2016), ["Population structure of a whale shark Rhincodon typus aggregation in the Red Sea,"]() *Journal of Fish Biology*, **89**, 1570-1582.
+**[189]** Cochran, J., Hardenstine, R., Braun, C., Skomal, G., Thorrold, S., Xu, K., Genton, M. G., and Berumen, M. (2016), ["Population structure of a whale shark Rhincodon typus aggregation in the Red Sea,"]() *Journal of Fish Biology*, **89**, 1570-1582.
 
-[188] Dai, W., Tong, T., and Genton, M. G. (2016), \Optimal estimation of derivatives in nonparametric
-regression," Journal of Machine Learning Research, 17(164), 1-25.
-[187] Dong, K., Pang, H., Tong, T., and Genton, M. G. (2016), \Shrinkage-based diagonal Hotelling
-tests for high-dimensional small sample size data," Journal of Multivariate Analysis, 143, 127-
-142.
-[186] Genton, M. G., and Hall, P. (2016), \A tilting approach to ranking in
-uence," Journal of the
-Royal Statistical Society Series B, 78, 77-97.
-[185] Huser, R., Davison, A. C., and Genton, M. G. (2016), \Likelihood estimators for multivariate
-extremes," Extremes, 19, 79-103.
-[184] Huser, R., and Genton, M. G. (2016), \Non-stationary dependence structures for spatial extremes,"
-Journal of Agricultural, Biological and Environmental Statistics, 21, 470-491.
+**[188]** Dai, W., Tong, T., and Genton, M. G. (2016), ["Optimal estimation of derivatives in nonparametric regression,"]() *Journal of Machine Learning Research*, **17**(164), 1-25.
+
+**[187]** Dong, K., Pang, H., Tong, T., and Genton, M. G. (2016), ["Shrinkage-based diagonal Hotelling tests for high-dimensional small sample size data,"]() *Journal of Multivariate Analysis*, **143**, 127-142.
+
+**[186]** Genton, M. G., and Hall, P. (2016), ["A tilting approach to ranking influence,"]() *Journal of the Royal Statistical Society - Series B*, **78**, 77-97.
+
+**[185]** Huser, R., Davison, A. C., and Genton, M. G. (2016), ["Likelihood estimators for multivariate extremes,"]() *Extremes*, **19**, 79-103.
+
+**[184]** Huser, R., and Genton, M. G. (2016), ["Non-stationary dependence structures for spatial extremes,"]() *Journal of Agricultural, Biological and Environmental Statistics*, **21**, 470-491.
+
 [183] Kim, H.-M., Maadooliat, M., Arellano-Valle, R., and Genton, M. G. (2016), \Skewed factor
 models using selection mechanisms," Journal of Multivariate Analysis, 145, 162-177.
 [182] Lee, M., Genton, M. G., and Jun, M. (2016), \Testing self-similarity through Lamperti transformations,"
@@ -300,50 +326,152 @@ Statistics, 18, 431-443.
 [177] Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2016), \Robust inference in sample selection
 models," Journal of the Royal Statistical Society Series B, 78, 805-827.
 
+**---**
+
+**---2015---------------------------**
+
+**---** 
 
 
-**--2015--------------------------**
+**---**
 
-**--2014--------------------------**
+**---2014---------------------------**
 
-**--2013--------------------------**
-
-**--2012--------------------------**
-
-**--2011--------------------------**
-
-**--2010--------------------------**
+**---** 
 
 
-**--2009--------------------------**
+**---**
 
-**--2008--------------------------**
+**---2013---------------------------**
 
-**--2007--------------------------**
-
-**--2006--------------------------**
-
-**--2005--------------------------**
-
-**--2004--------------------------**
-
-**--2003--------------------------**
-
-**--2002--------------------------**
-
-**--2001--------------------------**
-
-**--2000--------------------------**
-
-**--1999--------------------------**
-
-**--1998--------------------------**
-
-**--1997--------------------------**
-
-**--1996--------------------------**
+**---** 
 
 
-**--1995--------------------------**
+**---**
+
+**---2012---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2011---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2010---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2009---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2008---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2007---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2006---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2005---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2004---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2003---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2002---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2001---------------------------**
+
+**---** 
+
+
+**---**
+
+**---2000---------------------------**
+
+**---** 
+
+
+**---**
+
+**---1999---------------------------**
+
+**---** 
+
+
+**---**
+
+**---1998---------------------------**
+
+**---** 
+
+
+**---**
+
+**---1997---------------------------**
+
+**---** 
+
+
+**---**
+
+**---1996---------------------------**
+
+**---** 
+
+
+**---**
+
+**---1995---------------------------**
+
+**---** 
+
+
 
 
