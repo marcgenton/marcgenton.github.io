@@ -329,6 +329,45 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[176]** Azzalini, A., and Genton, M. G. (2015), ["discussion of On families of distributions with shape parameters"](https://marcgenton.github.io/2015.AG.ISR.pdf) by M. C. Jones, *International Statistical Review*, **83**, 198-202.
+
+**[175]** Castruccio, S., and Genton, M. G. (2015), ["discussion of Comparing and selecting spatial predictors using local criteria"](https://marcgenton.github.io/2015.CG.TEST.pdf) by Jonathan R. Bradley, Noel Cressie and Tao Shi, *TEST*, **24**, 31-34.
+
+**[174]** Chakraborty, A., De, S., Bowman, K. P., Sang, H., Genton, M. G., and Mallick, B. K. (2015), ["An adaptive spatial model for precipitation data from multiple satellites over large regions,"](https://marcgenton.github.io/2015.CDBSGM.SC.pdf) *Statistics and Computing*, **25**, 389-405.
+
+**[173]** Genton, M. G., Castruccio, S., Crippa, P., Dutta, S., Huser, R., Sun, Y., and Vettori, S. (2015), ["Visuanimations in statistics,"](https://marcgenton.github.io/2015.GCCDHSV.Stat.pdf) *Stat*, **4**, 81-96.
+
+**[172]** Genton, M. G., and Kleiber, W. (2015), ["Cross-covariance functions for multivariate geostatistics (with discussion and rejoinder),"](https://marcgenton.github.io/2015.GK.StatSci.pdf) *Statistical Science*, **30**, 147-163.
+
+**[171]** Genton, M. G., Padoan, S., and Sang, H. (2015), ["Multivariate max-stable spatial processes,"](https://marcgenton.github.io/2015.GPS.Biometrika.pdf) *Biometrika*, **102**, 215-230.
+
+**[170]** Goddard, S., Genton, M. G., Hering, M., and Sain, S. (2015), ["Evaluating the impacts of climate change on diurnal wind power cycles using multiple regional climate models,"](https://marcgenton.github.io/2015.GGHS.Environmetrics.pdf) *Environmetrics*, **26**, 192-201.
+
+**[169]** Lee, G., Ding, Y., Genton, M. G., and Xie, L. (2015), ["Power curve estimation with multivariate environmental factors for inland and off-shore wind farms,"](https://marcgenton.github.io/2015.LDGX.JASA.pdf) *Journal of the American Statistical Association*, **110**, 56-67.
+
+**[168]** Lee, G., Ding, Y., Xie, L., and Genton, M. G. (2015), ["Kernel plus method for quantifying wind turbine upgrades,"](https://marcgenton.github.io/2015.LDXG.WE.pdf) *Wind Energy*, **18**, 1207-1219.
+
+**[167]** Lee, M., Jun, M., and Genton, M. G. (2015), ["Validation of CMIP5 multi-model ensembles through the smoothness of climate variables,"](https://marcgenton.github.io/2015.LJG.TellusA.pdf) *Tellus A*, **67**, 23880.
+
+**[166]** Militino, A., Ugarte, M., Goicoa, T., and Genton, M. G. (2015), ["Interpolation of daily rainfall using spatiotemporal models and clustering,"](https://marcgenton.github.io/2015.MUGG.IJC.pdf) *International Journal of Climatology*, **35**, 1453-1464.
+
+**[165]** Ngo, D., Sun, Y., Genton, M. G.,Wu, J., Cramer, S. C., and Ombao, H. (2015), ["An exploratory data analysis of electroencephalograms using the functional boxplot approach,"](https://marcgenton.github.io/2015.NSGWSCO.FN.pdf) *Frontiers in Neuroscience*, **9**, Article 282, 1-18.
+
+**[164]** Razafindrakoto, H., Mai, P. M., Zhang, l., Genton, M. G., and Thingbaijam, K. (2015), ["Quantifying variability in earthquake rupture models using multidimensional scaling: Stability analysis and application to the 2011 Tohoku earthquake,"](https://marcgenton.github.io/2015.RMGZT.GJI.pdf) *Geophysical Journal International*, **202**, 17-40.
+
+**[163]** Roh, S., Jun, M., Szunyogh, I., and Genton, M. G. (2015), ["Multivariate localization methods for ensemble Kalman filtering,"](https://marcgenton.github.io/2015.RJSG.NPG.pdf) *Nonlinear Processes in Geophysics*, **22**, 723-735.
+
+**[162]** Sun, Y., Bowman, K., Genton, M. G., and Tokay, A. (2015), ["A Matern model of the spatial covariance structure of point rain rates,"](https://marcgenton.github.io/2015.SBGT.SERRA.pdf) *Stochastic Environmental Research and Risk Assessment*, **29**, 411-416.
+
+**[161]** Xu, G., and Genton, M. G. (2015), ["Efficient maximum approximated likelihood inference for Tukey's g-and-h distribution,"](https://marcgenton.github.io/2015.XG.CSDA.pdf) *Computational Statistics and Data Analysis*, **91**, 78-91.
+
+**[160]** Xu, G., Liang, F., and Genton, M. G. (2015), ["A Bayesian spatio-temporal geostatistical model with an auxiliary lattice for large datasets,"](https://marcgenton.github.io/2015.XLG.SS.pdf) *Statistica Sinica*, **25**, 61-79.
+
+**[159]** Yan, Y., and Genton, M. G. (2015), ["discussion of Multivariate functional outlier detection"](https://marcgenton.github.io/2015.YG.SMA.pdf) by M. Hubert, P. Rousseeuw, and P. Segaert, *Statistical Methods and Applications*, **24**, 245-251.
+
+**[158]** Zenger, K., Dutta, S., Wol , H., Genton, M. G., and Kraus, B. (2015), ["Structure-toxicity relationship of chalcones in human hepatic stellate cells,"](https://marcgenton.github.io/2015.ZDWGK.Toxicology.pdf) *Toxicology*, **336**, 26-33.
+
+**[157]** Zhang, l., Mai, P. M., Thingbaijam, K., Raza ndrakoto, H., and Genton, M. G. (2015), ["Comparing earthquake slip models with the spatial prediction comparison test,"](https://marcgenton.github.io/2015.ZMTRG.GJI.pdf) *Geophysical Journal International*, **200**, 185-198.
 
 **---**
 
