@@ -232,4 +232,63 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **--2017--------------------------**
 
+**[200]** Dutta, S., and Genton, M. G. (2017), ["Depth-weighted robust multivariate regression with application to sparse data,"](https://marcgenton.github.io/2017.DG.CJS) *Canadian Journal of Statistics*, **45**, 164-184.
+
+**[199]** Genton, M. G., and Hering, A. (2017), ["discussion of Spatiotemporal models for skewed processes,"](https://marcgenton.github.io/2017.GH.Environmetrics.pdf) by A. Schmidt, K. Gon calves, P. Velozo, *Environmetrics*, **28**, e2430.
+
+**[198]** Ghosh, S., Dutta, S., and Genton, M. G. (2017), ["A note on inconsistent families of discrete multivariate distributions,"](https://marcgenton.github.io/2017.GDG.JSDA.pdf) *Journal of Statistical Distributions and Applications*, **4**, 7.
+
+**[197]** Jeong, J., Jun, M., and Genton, M. G. (2017), ["Spherical process models for global spatial statistics,"](https://marcgenton.github.io/2017.JJG.StatSci.pdf) *Statistical Science*, **32**, 501-513.
+
+**[196]** Krupskii, P., and Genton, M. G. (2017), ["Factor copula models for data with spatio-temporal dependence,"](https://marcgenton.github.io/2017.KG.SpaStat.pdf) *Spatial Statistics*, **22**, 180-195.
+
+**[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249.
+
+
 **--2016--------------------------**
+
+**--2015--------------------------**
+
+**--2014--------------------------**
+
+**--2013--------------------------**
+
+**--2012--------------------------**
+
+**--2011--------------------------**
+
+**--2010--------------------------**
+
+
+**--2009--------------------------**
+
+**--2008--------------------------**
+
+**--2007--------------------------**
+
+**--2006--------------------------**
+
+**--2005--------------------------**
+
+**--2004--------------------------**
+
+**--2003--------------------------**
+
+**--2002--------------------------**
+
+**--2001--------------------------**
+
+**--2000--------------------------**
+
+**--1999--------------------------**
+
+**--1998--------------------------**
+
+**--1997--------------------------**
+
+**--1996--------------------------**
+
+
+**--1995--------------------------**
+
+
