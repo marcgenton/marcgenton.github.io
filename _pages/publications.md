@@ -253,11 +253,52 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 **[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249.
 
 
-**--**
+**---**
 
-**--2016--------------------------**
+**---2016---------------------------**
 
-**--**
+**---**
+
+**[194]** Azzalini, A., Browne, R., Genton, M. G., and McNicholas, P. (2016), ["On nomenclature for, and the relative merits of, two formulations of skew distributions,"]() *Statistics and Probability Letters*, **110**, 201-206.
+
+**[193]** Ben Taieb, S., Huser, R., Hyndman, R. J., and Genton, M. G. (2016), ["Forecasting uncertainty in electricity smart meter data by boosting additive quantile regression,"]() *IEEE Transactions on Smart Grid*, **7**, 2448-2455.
+
+**[192]** Castrillon-Candas, J., Genton, M. G., and Yokota, R. (2016), ["Multi-level restricted maximum likelihood covariance estimation and kriging for large non-gridded spatial datasets,"]() *Spatial Statistics*, **18**, 105-124.
+
+**[191]** Castruccio, S., and Genton, M. G. (2016), ["Compressing an ensemble with statistical models: An algorithm for global 3D spatio-temporal temperature,"]() *Technometrics*, **58**, 319-328.
+
+**[190]** Castruccio, S., Huser, R., and Genton, M. G. (2016), ["High-order composite likelihood inference for max-stable distributions and processes,"]() *Journal of Computational and Graphical Statistics*, **25**, 1212-1229.
+
+**[189] Cochran, J., Hardenstine, R., Braun, C., Skomal, G., Thorrold, S., Xu, K., Genton, M. G., and Berumen, M. (2016), ["Population structure of a whale shark Rhincodon typus aggregation in the Red Sea,"]() *Journal of Fish Biology*, **89**, 1570-1582.
+
+[188] Dai, W., Tong, T., and Genton, M. G. (2016), \Optimal estimation of derivatives in nonparametric
+regression," Journal of Machine Learning Research, 17(164), 1-25.
+[187] Dong, K., Pang, H., Tong, T., and Genton, M. G. (2016), \Shrinkage-based diagonal Hotelling
+tests for high-dimensional small sample size data," Journal of Multivariate Analysis, 143, 127-
+142.
+[186] Genton, M. G., and Hall, P. (2016), \A tilting approach to ranking in
+uence," Journal of the
+Royal Statistical Society Series B, 78, 77-97.
+[185] Huser, R., Davison, A. C., and Genton, M. G. (2016), \Likelihood estimators for multivariate
+extremes," Extremes, 19, 79-103.
+[184] Huser, R., and Genton, M. G. (2016), \Non-stationary dependence structures for spatial extremes,"
+Journal of Agricultural, Biological and Environmental Statistics, 21, 470-491.
+[183] Kim, H.-M., Maadooliat, M., Arellano-Valle, R., and Genton, M. G. (2016), \Skewed factor
+models using selection mechanisms," Journal of Multivariate Analysis, 145, 162-177.
+[182] Lee, M., Genton, M. G., and Jun, M. (2016), \Testing self-similarity through Lamperti transformations,"
+Journal of Agricultural, Biological and Environmental Statistics, 21, 426-447.
+[181] Porcu, E., Bevilacqua, M., and Genton, M. G. (2016), \Spatio-temporal covariance and crosscovariance
+functions of great circle distance on the sphere," Journal of the American Statistical
+Association, 111, 888-898.
+[180] Prihartato, P. K., Irigoien, X., Genton, M. G., and Kaartvedt, S. (2016), \Global e ects of moon
+phase on nocturnal acoustic scattering layers," Marine Ecology Progress Series, 544, 65-75.
+12
+[179] Rubio, F. J., and Genton, M. G. (2016), \Bayesian linear regression with skew-symmetric error
+distributions, with applications to survival analysis," Statistics in Medicine, 35, 2441-2454.
+[178] Xu, G., and Genton, M. G. (2016), \Tukey max-stable processes for spatial extremes," Spatial
+Statistics, 18, 431-443.
+[177] Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2016), \Robust inference in sample selection
+models," Journal of the Royal Statistical Society Series B, 78, 805-827.
 
 
 
