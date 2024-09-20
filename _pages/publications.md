@@ -427,39 +427,39 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[136]** Apanasovich, T. V., Genton, M. G., and Sun, Y. (2012), “A valid Mat ́ern class of cross- covariance functions for multivariate random fields with any number of components,” Journal of the American Statistical Association, 107, 180-193.
+**[136]** Apanasovich, T. V., Genton, M. G., and Sun, Y. (2012), [“A valid Matern class of cross-covariance functions for multivariate random fields with any number of components,”](https://marcgenton.github.io/2012.AGS.JASA.pdf) *Journal of the American Statistical Association*, **107**, 180-193.
 
-**[135]** Bliznyuk, N., Carroll, R. J., Genton, M. G., and Wang, Y. (2012), “Variogram estimation in the presence of trend,” Statistics and its Interface, 5, 159-168.
+**[135]** Bliznyuk, N., Carroll, R. J., Genton, M. G., and Wang, Y. (2012), [“Variogram estimation in the presence of trend,”](https://marcgenton.github.io/2012.BCGW.SII.pdf) *Statistics and Its Interface*, **5**, 159-168.
 
-**[134]** Furrer, R., Genton, M. G., and Nychka, D. (2012), Erratum and Addendum to: “Covariance Tapering for Interpolation of Large Spatial Datasets” published in the Journal of Computational and Graphical Statistics, 15, 502–523, Journal of Computational and Graphical Statistics, 21, 823-824.
+**[134]** Furrer, R., Genton, M. G., and Nychka, D. (2012), ["Erratum and Addendum to Covariance Tapering for Interpolation of Large Spatial Datasets published in the Journal of Computational and Graphical Statistics, 15, 502–523,"](https://marcgenton.github.io/2012.FGN.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **21**, 823-824.
 
-**[133]** Genton, M. G., Kim, M., and Ma, Y. (2012), “Semiparametric location estimation under non- random sampling,” Stat, 1, 1-11.
+**[133]** Genton, M. G., Kim, M., and Ma, Y. (2012), [“Semiparametric location estimation under non-random sampling,”](https://marcgenton.github.io/2012.GKM.Stat.pdf) *Stat*, **1**, 1-11.
 
-**[132]** Genton, M. G., and Zhang, H. (2012), “Identifiability problems in some non-Gaussian spatial random fields,” Chilean Journal of Statistics, 3, 61-69.
+**[132]** Genton, M. G., and Zhang, H. (2012), [“Identifiability problems in some non-Gaussian spatial random fields,”](https://marcgenton.github.io/2012.GZ.ChJS.pdf) *Chilean Journal of Statistics*, **3**, 61-69.
 
-**[131]** Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), “A non-Gaussian spatial generalized linear latent variable model,” Journal of Agricultural, Biological and Environmental Statistics, 17, 332-353.
+**[131]** Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), [“A non-Gaussian spatial generalized linear latent variable model,”](https://marcgenton.github.io/2012.ICG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **17**, 332-353.
 
-**[130]** Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), “Generalized linear latent variable models with flexible distribution of latent variables,” Scandinavian Journal of Statistics, 39, 663-680.
+**[130]** Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), [“Generalized linear latent variable models with flexible distribution of latent variables,”](https://marcgenton.github.io/2012.ICG.SJS.pdf) *Scandinavian Journal of Statistics*, **39**, 663-680.
 
-**[129]** Jun, M., and Genton, M. G. (2012), “A test for stationarity of spatio-temporal random fields on planar and spherical,” Statistica Sinica, 22, 1737-1764.
+**[129]** Jun, M., and Genton, M. G. (2012), [“A test for stationarity of spatio-temporal random fields on planar and spherical,”](https://marcgenton.github.io/2012.JG.SS.pdf) *Statistica Sinica*, **22**, 1737-1764.
 
-**[128]** Mahajan, S., North, G. R., Saravanan, R., and Genton, M. G. (2012), “Statistical significance of trends in monthly heavy precipitation over the US,” Climate Dynamics, 38, 1375-1387.
+**[128]** Mahajan, S., North, G. R., Saravanan, R., and Genton, M. G. (2012), [“Statistical significance of trends in monthly heavy precipitation over the US,”](https://marcgenton.github.io/2012.MNSG.CD.pdf) *Climate Dynamics*, **38**, 1375-1387.
 
-**[127]** Marchenko, Y., and Genton, M. G. (2012), “A Heckman selection-t model,” Journal of the American Statistical Association, 107, 304-317.
+**[127]** Marchenko, Y., and Genton, M. G. (2012), [“A Heckman selection-t model,”](https://marcgenton.github.io/2012.MG.JASA.pdf) *Journal of the American Statistical Association*, **107**, 304-317.
 
-**[126]** Sun, Y., and Genton, M. G. (2012), “Functional median polish,” Journal of Agricultural, Biological and Environmental Statistics, 17, 354-376.
+**[126]** Sun, Y., and Genton, M. G. (2012), [“Functional median polish,”](https://marcgenton.github.io/2012.SG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **17**, 354-376.
 
-**[125]** Sun, Y., and Genton, M. G. (2012), “Adjusted functional boxplots for spatio-temporal data visualization and outlier detection,” Environmetrics, 23, 54-64.
+**[125]** Sun, Y., and Genton, M. G. (2012), [“Adjusted functional boxplots for spatio-temporal data visualization and outlier detection,”](https://marcgenton.github.io/2012.SG.Environmetrics.pdf) *Environmetrics*, **23**, 54-64.
 
-**[124]** Sun, Y., Genton, M. G., and Nychka, D. (2012), “Exact fast computation of band depth for large functional datasets: How quickly can one million curves be ranked?,” Stat, 1, 68-74.
+**[124]** Sun, Y., Genton, M. G., and Nychka, D. (2012), [“Exact fast computation of band depth for large functional datasets: How quickly can one million curves be ranked?,”](https://marcgenton.github.io/2012.SGN.Stat.pdf) *Stat*, **1**, 68-74.
 
-**[123]** Sun, Y., Hart, J. D., and Genton, M. G. (2012), “Nonparametric inference for periodic se- quences,” Technometrics, 54, 83-96.
+**[123]** Sun, Y., Hart, J. D., and Genton, M. G. (2012), [“Nonparametric inference for periodic sequences,”](https://marcgenton.github.io/2012.SHG.Technometrics.pdf) *Technometrics*, **54**, 83-96.
 
-**[122]** Sun, Y., Li, B., and Genton, M. G. (2012), “Geostatistics for large datasets,” in Space-Time Processes and Challenges Related to Environmental Problems, E. Porcu, J. M. Montero, M. Schlather (eds), Springer, 207, Chapter 3, 55-77.
+**[122]** Sun, Y., Li, B., and Genton, M. G. (2012), [“Geostatistics for large datasets,”](https://marcgenton.github.io/2012.SLG.chapter3.final.pdf) in *Space-Time Processes and Challenges Related to Environmental Problems*, E. Porcu, J. M. Montero, M. Schlather (eds), Springer, **207**, Chapter 3, 55-77.
 
-**[121]** Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2012), “On the robustness of two-stage estimators,” Statistics and Probability Letters, 82, 726-732.
+**[121]** Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2012), [“On the robustness of two-stage estimators,”](https://marcgenton.github.io/2012.ZGR.SPL.pdf) *Statistics and Probability Letters*, **82**, 726-732.
 
-**[120]** Zhu, X., and Genton, M. G. (2012), “Short-term wind speed forecasting for power system operations,” International Statistical Review, 80, 2-23.
+**[120]** Zhu, X., and Genton, M. G. (2012), [“Short-term wind speed forecasting for power system operations,”](https://marcgenton.github.io/2012.ZG.ISR.pdf) *International Statistical Review*, **80**, 2-23.
 
 **---**
 
