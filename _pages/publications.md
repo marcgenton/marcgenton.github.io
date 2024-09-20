@@ -747,15 +747,15 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[15]** Eyer, L., and Genton, M. G. (1999), [“Characterization of variable stars by robust wave vari- ograms: an application to Hipparcos mission”, Astronomy and Astrophysics Supplement Series, 136, 421-428.
+**[15]** Eyer, L., and Genton, M. G. (1999), [“Characterization of variable stars by robust wave variograms: An application to Hipparcos mission,”](https://marcgenton.github.io/1999.EG.AA.pdf) *Astronomy and Astrophysics Supplement Series*, **136**, 421-428.
 
-**[14]** Genton, M. G. (1999), “The correlation structure of the sample autocovariance function for a particularclassoftimeserieswithellipticallycontoureddistribution”, StatisticsandProbability Letters, 41, 131-137.
+**[14]** Genton, M. G. (1999), [“The correlation structure of the sample autocovariance function for a particular class of time series with elliptically contoured distribution,”](https://marcgenton.github.io/1999.G.SPL.pdf) *Statistics and Probability Letters*, **41**, 131-137.
 
-**[13]** Genton, M. G., and de Luna, X. (1999), “Indirect inference for spatio-temporal autoregression models”, proceedings of Spatial-temporal modeling and its application, Leeds, UK, 61-64.
+**[13]** Genton, M. G., and de Luna, X. (1999), [“Indirect inference for spatio-temporal autoregression models,”](https://marcgenton.github.io/) in proceedings of *Spatial-temporal modeling and its application*, Leeds, UK, 61-64.
 
-**[12]** Genton, M. G., and Ma, Y. (1999), “Robustness properties of dispersion estimators”, Statistics and Probability Letters, 44, 343-350.
+**[12]** Genton, M. G., and Ma, Y. (1999), [“Robustness properties of dispersion estimators,”](https://marcgenton.github.io/1999.GM.SPL.pdf) *Statistics and Probability Letters*, **44**, 343-350.
 
-**[11]** Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), “Target versus back- ground characterization: second generation wavelets and support vector machines”, proceedings of SPIE, 12p.
+**[11]** Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), [“Target versus back-ground characterization: Second generation wavelets and support vector machines,”](https://marcgenton.github.io/) in proceedings of *SPIE*, 12p.
 
 **---**
 
@@ -763,14 +763,19 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[10] Genton, M. G., and Furrer, R. (1998), “Analysis of rainfall data by simple good sense: is spatial statistics worth the trouble?”, Journal of Geographic Information and Decision Analysis, 2, 11-17.
-[9] Genton, M. G., and Furrer, R. (1998), “Analysis of rainfall data in Switzerland by robust spatial statistics using S+SpatialStats”, Journal of Geographic Information and Decision Analysis, 2, 126-136.
-[8] Genton, M. G. (1998), “Highly robust variogram estimation”, Mathematical Geology, 30, 213- 221.
-21
-[7] Genton, M. G. (1998), “Variogram fitting by generalized least squares using an explicit formula for the covariance structure”, Mathematical Geology, 30, 323-345.
-[6] Genton, M. G. (1998), “Spatial breakdown point of variogram estimators”, Mathematical Geology, 30, 853-871.
-[5] Genton, M. G. (1998), “Asymptotic variance of M-estimators for dependent Gaussian random variables”, Statistics and Probability Letters, 38, 255-261.
-[4] Furrer, R., and Genton, M. G. (1998), “Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats”, Systems Research and Information Systems, special issue on Spatial Data Analysis and Modeling, 8, 257-272.
+**[10]** Furrer, R., and Genton, M. G. (1998), [“Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats,”](https://marcgenton.github.io/) *Systems Research and Information Systems*, special issue on Spatial Data Analysis and Modeling, **8**, 257-272.
+
+**[9]** Genton, M. G. (1998), [“Highly robust variogram estimation,”](https://marcgenton.github.io/1998.G.MG.1.pdf) *Mathematical Geology*, **30**, 213- 221.
+
+**[8]** Genton, M. G. (1998), [“Variogram fitting by generalized least squares using an explicit formula for the covariance structure,”](https://marcgenton.github.io/1998.G.MG.2.pdf) *Mathematical Geology*, **30**, 323-345.
+
+**[7]** Genton, M. G. (1998), [“Spatial breakdown point of variogram estimators,”](https://marcgenton.github.io/1998.G.MG.3.pdf) *Mathematical Geology*, **30**, 853-871.
+
+**[6]** Genton, M. G. (1998), [“Asymptotic variance of M-estimators for dependent Gaussian random variables,”](https://marcgenton.github.io/1998.G.SPL.pdf) *Statistics and Probability Letters*, **38**, 255-261.
+
+**[5]** Genton, M. G., and Furrer, R. (1998), [“Analysis of rainfall data by simple good sense: Is spatial statistics worth the trouble?,”](https://marcgenton.github.io/) *Journal of Geographic Information and Decision Analysis*, **2**, 11-17.
+
+**[4]** Genton, M. G., and Furrer, R. (1998), [“Analysis of rainfall data in Switzerland by robust spatial statistics using S+SpatialStats,”](https://marcgenton.github.io/) *Journal of Geographic Information and Decision Analysis*, **2**, 126-136.
 
 **---**
 
