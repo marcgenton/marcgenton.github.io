@@ -375,25 +375,25 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[156]** Castruccio, S., and Genton, M. G. (2014), [“Beyond axial symmetry: An improved class of models for global data,”]() *Stat*, **3**, 48-55.
+**[156]** Castruccio, S., and Genton, M. G. (2014), [“Beyond axial symmetry: An improved class of models for global data,”](https://marcgenton.github.io/2014.CG.Stat.pdf) *Stat*, **3**, 48-55.
 
-**[155]** Dao, A., and Genton, M. G. (2014), [“A Monte Carlo goodness-of-fit test for parametric models describing spatial point patterns,”]() *Journal of Computational and Graphical Statistics*, **23**, 497-517.
+**[155]** Dao, A., and Genton, M. G. (2014), [“A Monte Carlo goodness-of-fit test for parametric models describing spatial point patterns,”](https://marcgenton.github.io/2014.DG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **23**, 497-517.
 
-**[154]** Dutta, S., and Genton, M. G. (2014), [“A non-Gaussian multivariate distribution with all lower- dimensional Gaussians and related families,”]() *Journal of Multivariate Analysis*, **132**, 82-93.
+**[154]** Dutta, S., and Genton, M. G. (2014), [“A non-Gaussian multivariate distribution with all lower- dimensional Gaussians and related families,”](https://marcgenton.github.io/2014.DG.JMVA.pdf) *Journal of Multivariate Analysis*, **132**, 82-93.
 
-**[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”]() *Stat*, **3**, 1-11.
+**[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”](https://marcgenton.github.io/2014.GJPSS.Stat.pdf) *Stat*, **3**, 1-11.
 
-**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”]() Journal of Multivariate Analysis*, **123**, 228-251.
+**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) Journal of Multivariate Analysis*, **123**, 228-251.
 
-**[151]** L ́opez-Pintado, S., Sun, Y., Lin, J. K., and Genton, M. G. (2014), “Simplicial band depth for multivariate functional data,” Advances in Data Analysis and Classification, 8, 321-338.
+**[151]** Lopez-Pintado, S., Sun, Y., Lin, J. K., and Genton, M. G. (2014), [“Simplicial band depth for multivariate functional data,”](https://marcgenton.github.io/2014.LSLG.ADAC.pdf) *Advances in Data Analysis and Classification*, **8**, 321-338.
 
-**[150]** Sang, H., and Genton, M. G. (2014), “Tapered composite likelihood for spatial max-stable models,” Spatial Statistics, 8, 86-103.
+**[150]** Sang, H., and Genton, M. G. (2014), [“Tapered composite likelihood for spatial max-stable models,”](https://marcgenton.github.io/2014.SG.SStat.pdf) *Spatial Statistics*, **8**, 86-103.
 
-**[149]** Xie, L., Gu, Y., Zhu, X., and Genton, M. G. (2014), “Short-term spatio-temporal wind forecast for enhanced power system dispatch,” IEEE Transactions on Smart Grid, 5, 511-520.
+**[149]** Xie, L., Gu, Y., Zhu, X., and Genton, M. G. (2014), [“Short-term spatio-temporal wind forecast for enhanced power system dispatch,”](https://marcgenton.github.io/2014.XGZG.IEEESG.pdf) *IEEE Transactions on Smart Grid*, **5**, 511-520.
 
-**[148]** Zhu, X., Bowman, K., and Genton, M. G. (2014), “Incorporating geostrophic wind information for improved space-time short-term wind speed forecasting,” Annals of Applied Statistics, 8, 1782-1799.
+**[148]** Zhu, X., Bowman, K., and Genton, M. G. (2014), [“Incorporating geostrophic wind information for improved space-time short-term wind speed forecasting,”](https://marcgenton.github.io/2014.ZBG.AOAS.pdf) *Annals of Applied Statistics*, **8**, 1782-1799.
 
-**[147]** Zhu, X., Genton, M. G., Gu, Y., and Xie, L. (2014), “Space-time wind speed forecasting for improved power system dispatch (with discussion),” TEST, 23, 1-25.
+**[147]** Zhu, X., Genton, M. G., Gu, Y., and Xie, L. (2014), [“Space-time wind speed forecasting for improved power system dispatch (with discussion),”](https://marcgenton.github.io/2014.ZGGX.TEST.pdf) *TEST*, **23**, 1-25.
 
 **---**
 
