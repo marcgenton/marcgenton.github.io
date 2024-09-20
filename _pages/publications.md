@@ -707,21 +707,21 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[29]** de Luna, X., and Genton, M. G. (2001), [“Robust simulation-based estimation of ARMA mod- els”, Journal of Computational and Graphical Statistics, 10, 370-387.
+**[29]** de Luna, X., and Genton, M. G. (2001), [“Robust simulation-based estimation of ARMA models,”](https://marcgenton.github.io/2001.dLG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **10**, 370-387.
 
-**[28]** Genton, M. G. (2001), “Classes of kernels for machine learning: a statistics perspective,” Journal of Machine Learning Research, Special issue on Kernel Methods, 2, 299-312.
+**[28]** Genton, M. G. (2001), [“Classes of kernels for machine learning: A statistics perspective,”](https://marcgenton.github.io/2001.G.JMLR.pdf) *Journal of Machine Learning Research*, Special issue on Kernel Methods, **2**, 299-312.
 
-**[27]** Genton, M. G. (2001), “The change-of-variance function: a tool to explore the effects of depen- dencies in spatial statistics”, Journal of Statistical Planning and Inference, 98, 191-209.
+**[27]** Genton, M. G. (2001), [“The change-of-variance function: A tool to explore the effects of dependencies in spatial statistics,”](https://marcgenton.github.io/2001.G.JSPI.pdf) *Journal of Statistical Planning and Inference*, **98**, 191-209.
 
-**[26]** Genton, M. G. (2001), “Robustness problems in the analysis of spatial data”, in Spatial Statis- tics: Methodological Aspects and Some Applications, M. Moore (ed.), Springer Lecture Notes in Statistics, 159, 21-37.
+**[26]** Genton, M. G. (2001), [“Robustness problems in the analysis of spatial data,”](https://marcgenton.github.io/2001.G.SSbookchap.pdf) in *Spatial Statistics: Methodological Aspects and Some Applications*, M. Moore (ed.), Springer Lecture Notes in Statistics, **159**, 21-37.
 
-**[25]** Genton, M. G., He, L., and Liu, X. (2001), “Moments of skew-normal random vectors and their quadratic forms”, Statistics and Probability Letters, 51, 319-325.
+**[25]** Genton, M. G., He, L., and Liu, X. (2001), [“Moments of skew-normal random vectors and their quadratic forms,”](https://marcgenton.github.io/2001.GHL.SPL.pdf) *Statistics and Probability Letters*, **51**, 319-325.
 
-**[24]** Ma, Y., and Genton, M. G. (2001), “Highly robust estimation of dispersion matrices”, Journal of Multivariate Analysis, 78, 11-36.
+**[24]** Ma, Y., and Genton, M. G. (2001), [“Highly robust estimation of dispersion matrices,”](https://marcgenton.github.io/2001.MG.JMVA.pdf) *Journal of Multivariate Analysis*, **78**, 11-36.
 
-**[23]** Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2001), “Plasma homocysteine, fasting insulin, and androgen patterns among women with polycystic ovaries and infertility,” Journal of Obstetrics and Gynaecology Research, 27, 163-168.
+**[23]** Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2001), [“Plasma homocysteine, fasting insulin, and androgen patterns among women with polycystic ovaries and infertility,”](https://marcgenton.github.io/2001.SGPSBT.JOGR.pdf) *Journal of Obstetrics and Gynaecology Research*, **27**, 163-168.
 
-**[22]** Sills, E. S., Perloe, M., Tucker, M. J., Kaplan, C. R., Genton, M. G., and Schattman, G. L. (2001), “Diagnostic and treatment characteristics of polycystic ovary syndrome: descriptive measurements of patient perception and awareness from 657 confidential self-reports,” BMC Women’s Health, 1, 1-5.
+**[22]** Sills, E. S., Perloe, M., Tucker, M. J., Kaplan, C. R., Genton, M. G., and Schattman, G. L. (2001), [“Diagnostic and treatment characteristics of polycystic ovary syndrome: Descriptive measurements of patient perception and awareness from 657 confidential self-reports,”](https://marcgenton.github.io/2001.SPTKGS.BMCW.pdf) *BMC Women’s Health*, **1**, 1-5.
 
 **---**
 
@@ -729,12 +729,17 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[21] Ma, Y., and Genton, M. G. (2000), “Highly robust estimation of the autocovariance function”, Journal of Time Series Analysis, 21, 663-684.
-[20] Genton, M. G. (2000), “The correlation structure of Matheron’s classical variogram estimator under elliptically contoured distributions”, Mathematical Geology, 32, 127-137.
-[19] Gorsich, D. J., and Genton, M. G. (2000), “Variogram model selection via nonparametric derivative estimation”, Mathematical Geology, 32, 249-270.
-[18] Genton, M. G., and de Luna, X.(2000), “Robust simulation-based estimation”, Statistics and Probability Letters, 48, 253-259.
-[17] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), “Patient perception and awareness regarding diagnosis and treatment of polycystic ovary syndrome (PCOS) as measured by confidential self-reports ,” Fertility and Sterility, 74, S190-S191.
-[16] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), “Plasminogen activator inhibitor-1 levels, prothrombin G20210A and methyltetrahydro- folate reductase C677T gene polymorphism frequencies, and reproductive history: Correlations with ultrasonographic ovarian morphology ,” Fertility and Sterility, 74, S13-S14.
+**[21]** Genton, M. G. (2000), [“The correlation structure of Matheron’s classical variogram estimator under elliptically contoured distributions,”](https://marcgenton.github.io/2000.G.MG.pdf) *Mathematical Geology*, **32**, 127-137.
+
+**[20]** Genton, M. G., and de Luna, X. (2000), [“Robust simulation-based estimation,”](https://marcgenton.github.io/2000.GdL.SPL.pdf) *Statistics and Probability Letters*, **48**, 253-259.
+
+**[19]** Gorsich, D. J., and Genton, M. G. (2000), [“Variogram model selection via nonparametric derivative estimation,”](https://marcgenton.github.io/2000.GG.MG.pdf) *Mathematical Geology*, **32**, 249-270.
+
+**[18]** Ma, Y., and Genton, M. G. (2000), [“Highly robust estimation of the autocovariance function,”](https://marcgenton.github.io/2000.MG.JTSA.pdf) *Journal of Time Series Analysis*, **21**, 663-684.
+
+**[17]** Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), [“Patient perception and awareness regarding diagnosis and treatment of polycystic ovary syndrome (PCOS) as measured by confidential self-reports,”](https://marcgenton.github.io/2000.SPLGST.SF.1.pdf) *Fertility and Sterility*, **74**, S190-S191.
+
+**[16]** Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), [“Plasminogen activator inhibitor-1 levels, prothrombin G20210A and methyltetrahydro-folate reductase C677T gene polymorphism frequencies, and reproductive history: Correlations with ultrasonographic ovarian morphology,”](https://marcgenton.github.io/2000.SPLGST.SF.2.pdf) *Fertility and Sterility*, **74**, S13-S14.
 
 **---**
 
@@ -742,11 +747,15 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[15] Genton, M. G., and de Luna, X. (1999), “Indirect inference for spatio-temporal autoregression models”, proceedings of Spatial-temporal modeling and its application, Leeds, UK, 61-64.
-[14] Genton, M. G. (1999), “The correlation structure of the sample autocovariance function for a particularclassoftimeserieswithellipticallycontoureddistribution”, StatisticsandProbability Letters, 41, 131-137.
-[13] Eyer, L., and Genton, M. G. (1999), “Characterization of variable stars by robust wave vari- ograms: an application to Hipparcos mission”, Astronomy and Astrophysics Supplement Series, 136, 421-428.
-[12] Genton, M. G., and Ma, Y. (1999), “Robustness properties of dispersion estimators”, Statistics and Probability Letters, 44, 343-350.
-[11] Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), “Target versus back- ground characterization: second generation wavelets and support vector machines”, proceedings of SPIE, 12p.
+**[15]** Eyer, L., and Genton, M. G. (1999), [“Characterization of variable stars by robust wave vari- ograms: an application to Hipparcos mission”, Astronomy and Astrophysics Supplement Series, 136, 421-428.
+
+**[14]** Genton, M. G. (1999), “The correlation structure of the sample autocovariance function for a particularclassoftimeserieswithellipticallycontoureddistribution”, StatisticsandProbability Letters, 41, 131-137.
+
+**[13]** Genton, M. G., and de Luna, X. (1999), “Indirect inference for spatio-temporal autoregression models”, proceedings of Spatial-temporal modeling and its application, Leeds, UK, 61-64.
+
+**[12]** Genton, M. G., and Ma, Y. (1999), “Robustness properties of dispersion estimators”, Statistics and Probability Letters, 44, 343-350.
+
+**[11]** Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), “Target versus back- ground characterization: second generation wavelets and support vector machines”, proceedings of SPIE, 12p.
 
 **---**
 
