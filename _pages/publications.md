@@ -657,7 +657,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[46]** Genton, M. G., and Perrin, O. (2004), [“On a time deformation reducing nonstationary stochastic processes to local stationarity,”](https://marcgenton.github.io/2004.GP.JAP.pdf) *Journal of Applied Probability*, **41**, 236-249.
 
-**[45]** Genton, M. G., and Thompson, K. (2004), [“Skew-elliptical time series with application to flooding risk,”]() in *Time Series Analysis and Applications to Geophysical Systems*, D. R. Brillinger, E. A. Robinson, F. P. Schoenberg (eds), IMA Volume in Mathematics and its Applications **139**, Springer, 169-186.
+**[45]** Genton, M. G., and Thompson, K. (2004), [“Skew-elliptical time series with application to flooding risk,”](https://marcgenton.github.io/2004.GT.TSAbookchap.pdf) in *Time Series Analysis and Applications to Geophysical Systems*, D. R. Brillinger, E. A. Robinson, F. P. Schoenberg (eds), IMA Volume in Mathematics and its Applications **139**, Springer, 169-186.
 
 **[44]** Gorsich, D. J., and Genton, M. G. (2004), [“On the discretization of nonparametric covariogram estimators,”](https://marcgenton.github.io/2004.GG.SC.pdf) *Statistics and Computing*, **14**, 99-108.
 
@@ -677,19 +677,17 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”]() *Bernoulli*, **9**, 1-9.
+**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”](https://marcgenton.github.io/2003.EGG.Bernoulli.pdf) *Bernoulli*, **9**, 1-9.
 
-**[38]** Genton, M. G., and Ronchetti, E. (2003), [“Robust indirect inference,”]() *Journal of the American Statistical Association*, **98**, 67-76.
+**[37]** Genton, M. G. (2003), [“Breakdown-point for spatially and temporally correlated observations,”](https://marcgenton.github.io/2003.G.RSbookchapter.pdf) in *Developments in Robust Statistics, International Conference on Robust Statistics 2001*, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
 
-**[37]** Genton, M. G., and Lucas, A. (2003), [“Comprehensive definitions of breakdown point for independent and dependent observations,”]() *Journal of the Royal Statistical Society - Series B*, **65**, 81-94.
+**[36]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by robust spatial statistics using S+SpatialStats,”](https://marcgenton.github.io/2003.FG.SIC97.1.pdf) in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 118-129.
 
-**[36]** Genton, M. G. (2003), [“Breakdown-point for spatially and temporally correlated observations,”]() in *Developments in Robust Statistics, International Conference on Robust Statistics 2001*, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
+**[35]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by simple good sense: Is Spatial Statistics worth the trouble?,”](https://marcgenton.github.io/2003.FG.SIC97.2.pdf) in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 45-50.
 
-**[35]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by robust spatial statistics using S+SpatialStats,”]() in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 118-129.
+**[34]** Genton, M. G., and Lucas, A. (2003), [“Comprehensive definitions of breakdown point for independent and dependent observations,”](https://marcgenton.github.io/2003.GL.JRSSB.pdf) *Journal of the Royal Statistical Society - Series B*, **65**, 81-94.
 
-**[34]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by simple good sense: Is Spatial Statistics worth the trouble?,”]() in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 45-50.
-
-
+**[33]** Genton, M. G., and Ronchetti, E. (2003), [“Robust indirect inference,”](https://marcgenton.github.io/2003.GR.JASA.pdf) *Journal of the American Statistical Association*, **98**, 67-76.
 
 **---**
 
@@ -697,9 +695,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[32] Genton, M. G., and Gorsich, D. J. (2002), “Nonparametric variogram and covariogram estima- tion with Fourier-Bessel matrices,” Computational Statistics and Data Analysis, Special issue on Matrix Computations and Statistics, 41, 47-57.
-[31] de Luna, X., and Genton, M. G. (2002), “Simulation-based inference for simultaneous processes on regular lattices”, Statistics and Computing, 12, 125-134.
-[30] Gorsich, D. J., Genton, M. G., and Strang, G. (2002), “Eigenstructures of spatial design ma- trices”, Journal of Multivariate Analysis, 80, 138-165.
+**[32]** de Luna, X., and Genton, M. G. (2002), [“Simulation-based inference for simultaneous processes on regular lattices,”](https://marcgenton.github.io/2002.dLG.SC.pdf) *Statistics and Computing*, **12**, 125-134.
+
+**[31]** Genton, M. G., and Gorsich, D. J. (2002), [“Nonparametric variogram and covariogram estimation with Fourier-Bessel matrices,”](https://marcgenton.github.io/2002.GG.CSDA.pdf) *Computational Statistics and Data Analysis*, Special issue on Matrix Computations and Statistics, **41**, 47-57.
+
+**[30]** Gorsich, D. J., Genton, M. G., and Strang, G. (2002), [“Eigenstructures of spatial design matrices,”](https://marcgenton.github.io/2002.GGS.JMVA.pdf) *Journal of Multivariate Analysis*, **80**, 138-165.
 
 **---**
 
@@ -707,15 +707,21 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[29] Genton, M. G. (2001), “Classes of kernels for machine learning: a statistics perspective,” Journal of Machine Learning Research, Special issue on Kernel Methods, 2, 299-312.
-[28] Genton, M. G. (2001), “The change-of-variance function: a tool to explore the effects of depen- dencies in spatial statistics”, Journal of Statistical Planning and Inference, 98, 191-209.
-[27] Genton, M. G. (2001), “Robustness problems in the analysis of spatial data”, in Spatial Statis- tics: Methodological Aspects and Some Applications, M. Moore (ed.), Springer Lecture Notes in Statistics, 159, 21-37.
-[26] de Luna, X., and Genton, M. G. (2001), “Robust simulation-based estimation of ARMA mod- els”, Journal of Computational and Graphical Statistics, 10, 370-387.
-[25] Ma, Y., and Genton, M. G. (2001), “Highly robust estimation of dispersion matrices”, Journal of Multivariate Analysis, 78, 11-36.
-20
-[24] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2001), “Plasma homocysteine, fasting insulin, and androgen patterns among women with polycystic ovaries and infertility,” Journal of Obstetrics and Gynaecology Research, 27, 163-168.
-[23] Sills, E. S., Perloe, M., Tucker, M. J., Kaplan, C. R., Genton, M. G., and Schattman, G. L. (2001), “Diagnostic and treatment characteristics of polycystic ovary syndrome: descriptive measurements of patient perception and awareness from 657 confidential self-reports,” BMC Women’s Health, 1, 1-5.
-[22] Genton, M. G., He, L., and Liu, X. (2001), “Moments of skew-normal random vectors and their quadratic forms”, Statistics and Probability Letters, 51, 319-325.
+**[29]** de Luna, X., and Genton, M. G. (2001), [“Robust simulation-based estimation of ARMA mod- els”, Journal of Computational and Graphical Statistics, 10, 370-387.
+
+**[28]** Genton, M. G. (2001), “Classes of kernels for machine learning: a statistics perspective,” Journal of Machine Learning Research, Special issue on Kernel Methods, 2, 299-312.
+
+**[27]** Genton, M. G. (2001), “The change-of-variance function: a tool to explore the effects of depen- dencies in spatial statistics”, Journal of Statistical Planning and Inference, 98, 191-209.
+
+**[26]** Genton, M. G. (2001), “Robustness problems in the analysis of spatial data”, in Spatial Statis- tics: Methodological Aspects and Some Applications, M. Moore (ed.), Springer Lecture Notes in Statistics, 159, 21-37.
+
+**[25]** Genton, M. G., He, L., and Liu, X. (2001), “Moments of skew-normal random vectors and their quadratic forms”, Statistics and Probability Letters, 51, 319-325.
+
+**[24]** Ma, Y., and Genton, M. G. (2001), “Highly robust estimation of dispersion matrices”, Journal of Multivariate Analysis, 78, 11-36.
+
+**[23]** Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2001), “Plasma homocysteine, fasting insulin, and androgen patterns among women with polycystic ovaries and infertility,” Journal of Obstetrics and Gynaecology Research, 27, 163-168.
+
+**[22]** Sills, E. S., Perloe, M., Tucker, M. J., Kaplan, C. R., Genton, M. G., and Schattman, G. L. (2001), “Diagnostic and treatment characteristics of polycystic ovary syndrome: descriptive measurements of patient perception and awareness from 657 confidential self-reports,” BMC Women’s Health, 1, 1-5.
 
 **---**
 
