@@ -401,19 +401,25 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), “Shannon entropy and mutual information for multivariate skew-elliptical distributions,” Scandinavian Journal of Statistics, 40, 42-62.
+**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), [“Shannon entropy and mutual information for multivariate skew-elliptical distributions,”](https://marcgenton.github.io/2013.ACG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 42-62.
 
-**[145]** Branco, M. D., Genton, M. G., and Liseo, B. (2013), “Objective Bayesian analysis of skew-t distributions,” Scandinavian Journal of Statistics, 40, 63-85.
+**[145]** Branco, M. D., Genton, M. G., and Liseo, B. (2013), [“Objective Bayesian analysis of skew-t distributions,”](https://marcgenton.github.io/2013.BGL.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 63-85.
 
-**[144]** El Ghouch, A., Genton, M. G., and Bouezmarni, T. (2013), “Measuring the discrepancy of a parametric model via local polynomial smoothing,” Scandinavian Journal of Statistics, 40, 455-470.
-Kleiber, W., and Genton, M. G. (2013), “Spatially varying cross-correlation coefficients in the presence of nugget effects,” Biometrika, 100, 213-220.
-Li, B., and Genton, M. G. (2013), “Nonparametric identification of copula structures,” Journal of the American Statistical Association, 108, 666-675.
-Ma, Y., Kim, M.-J., and Genton, M. G. (2013), “Semiparametric efficient and robust estimation of an unknown symmetric population under arbitrary selection bias,” Journal of the American Statistical Association, 108, 1090-1104.
-Potgieter, N., and Genton, M. G. (2013), “Characteristic function based semiparametric infer- ence for skew-symmetric models” Scandinavian Journal of Statistics, 40, 471-490.
+**[144]** El Ghouch, A., Genton, M. G., and Bouezmarni, T. (2013), [“Measuring the discrepancy of a parametric model via local polynomial smoothing,”](https://marcgenton.github.io/2013.EGGB.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 455-470.
 
-Roh, S., Genton, M. G., Jun, M., Szunyogh, I., and Hoteit, I. (2013), “Observation quality control with a robust ensemble Kalman filter,” Monthly Weather Review, 141, 4414-4428
-Sun, Y., Hart, J. D., and Genton, M. G. (2013), “Improved nonparametric inference for multiple correlated periodic sequences,” Stat, 2, 197-210.
-Zollanvari, A., and Genton, M. G. (2013), “On Kolmogorov asymptotics of misclassification error rates in linear discriminant analysis,” Sankhya A, 75, 300-326.Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), “Shannon entropy and mutual information for multivariate skew-elliptical distributions,” Scandinavian Journal of Statistics, 40, 42-62.
+**[143]** Kleiber, W., and Genton, M. G. (2013), [“Spatially varying cross-correlation coefficients in the presence of nugget effects,”](https://marcgenton.github.io/2013.KG.Biometrika.pdf) *Biometrika*, **100**, 213-220.
+
+**[142]** Li, B., and Genton, M. G. (2013), [“Nonparametric identification of copula structures,”](https://marcgenton.github.io/2013.LG.JASA.pdf) *Journal of the American Statistical Association*, **108**, 666-675.
+
+**[141]** Ma, Y., Kim, M.-J., and Genton, M. G. (2013), [“Semiparametric efficient and robust estimation of an unknown symmetric population under arbitrary selection bias,”](https://marcgenton.github.io/2013.MKG.JASA.pdf) *Journal of the American Statistical Association*, **108**, 1090-1104.
+
+**[140]** Potgieter, N., and Genton, M. G. (2013), [“Characteristic function based semiparametric inference for skew-symmetric models,”](https://marcgenton.github.io/2013.PG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 471-490.
+
+**[139]** Roh, S., Genton, M. G., Jun, M., Szunyogh, I., and Hoteit, I. (2013), [“Observation quality control with a robust ensemble Kalman filter,”](https://marcgenton.github.io/2013.RGJSH.MWR.pdf) *Monthly Weather Review*, **141**, 4414-4428.
+
+**[138]** Sun, Y., Hart, J. D., and Genton, M. G. (2013), [“Improved nonparametric inference for multiple correlated periodic sequences,”](https://marcgenton.github.io/2013.SHG.Stat.pdf) *Stat*, **2**, 197-210.
+
+**[137]** Zollanvari, A., and Genton, M. G. (2013), [“On Kolmogorov asymptotics of misclassification error rates in linear discriminant analysis,”](https://marcgenton.github.io/2013.ZG.SankhyaA.pdf) *Sankhya A*, **75**, 300-326.
 
 **---**
 
@@ -421,6 +427,23 @@ Zollanvari, A., and Genton, M. G. (2013), “On Kolmogorov asymptotics of miscla
 
 **---** 
 
+Apanasovich, T. V., Genton, M. G., and Sun, Y. (2012), “A valid Mat ́ern class of cross- covariance functions for multivariate random fields with any number of components,” Journal of the American Statistical Association, 107, 180-193.
+Bliznyuk, N., Carroll, R. J., Genton, M. G., and Wang, Y. (2012), “Variogram estimation in the presence of trend,” Statistics and its Interface, 5, 159-168.
+Furrer, R., Genton, M. G., and Nychka, D. (2012), Erratum and Addendum to: “Covariance Tapering for Interpolation of Large Spatial Datasets” published in the Journal of Computational and Graphical Statistics, 15, 502–523, Journal of Computational and Graphical Statistics, 21, 823-824.
+Genton, M. G., Kim, M., and Ma, Y. (2012), “Semiparametric location estimation under non- random sampling,” Stat, 1, 1-11.
+Genton, M. G., and Zhang, H. (2012), “Identifiability problems in some non-Gaussian spatial random fields,” Chilean Journal of Statistics, 3, 61-69.
+Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), “A non-Gaussian spatial generalized linear latent variable model,” Journal of Agricultural, Biological and Environmental Statistics, 17, 332-353.
+Irincheeva, I., Cantoni, E., and Genton, M. G. (2012), “Generalized linear latent variable models with flexible distribution of latent variables,” Scandinavian Journal of Statistics, 39, 663-680.
+Jun, M., and Genton, M. G. (2012), “A test for stationarity of spatio-temporal random fields on planar and spherical,” Statistica Sinica, 22, 1737-1764.
+Mahajan, S., North, G. R., Saravanan, R., and Genton, M. G. (2012), “Statistical significance of trends in monthly heavy precipitation over the US,” Climate Dynamics, 38, 1375-1387.
+Marchenko, Y., and Genton, M. G. (2012), “A Heckman selection-t model,” Journal of the American Statistical Association, 107, 304-317.
+Sun, Y., and Genton, M. G. (2012), “Functional median polish,” Journal of Agricultural, Biological and Environmental Statistics, 17, 354-376.
+Sun, Y., and Genton, M. G. (2012), “Adjusted functional boxplots for spatio-temporal data visualization and outlier detection,” Environmetrics, 23, 54-64.
+Sun, Y., Genton, M. G., and Nychka, D. (2012), “Exact fast computation of band depth for large functional datasets: How quickly can one million curves be ranked?,” Stat, 1, 68-74.
+Sun, Y., Hart, J. D., and Genton, M. G. (2012), “Nonparametric inference for periodic se- quences,” Technometrics, 54, 83-96.
+Sun, Y., Li, B., and Genton, M. G. (2012), “Geostatistics for large datasets,” in Space-Time Processes and Challenges Related to Environmental Problems, E. Porcu, J. M. Montero, M. Schlather (eds), Springer, 207, Chapter 3, 55-77.
+Zhelonkin, M., Genton, M. G., and Ronchetti, E. (2012), “On the robustness of two-stage estimators,” Statistics and Probability Letters, 82, 726-732.
+Zhu, X., and Genton, M. G. (2012), “Short-term wind speed forecasting for power system operations,” International Statistical Review, 80, 2-23.
 
 **---**
 
