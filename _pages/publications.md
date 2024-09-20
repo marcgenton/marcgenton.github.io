@@ -9,9 +9,11 @@ title: Publications
 
 **---** 
 
-**[3xx]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”]() *Journal of Computational and Graphical Statistics*, to appear.
+**[321]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
-**[3xx]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”]() *Journal of the American Statistical Association*, to appear.
+**[320]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+
+**[319]** Song, Y., Khalid, Z., and Genton, M. G. (2024), [“Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
 **---**
 
@@ -19,24 +21,35 @@ title: Publications
 
 **---** 
 
-Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), “Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,” International Journal of High Performance Computing Applications, GB finalist, to appear.
-Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), “Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,” Future Generation Computer Systems, 161, 248-258.
-Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), “On the impact of spatial covariance matrix ordering on tile low-rank estimation of Mat ́ern parameters,” Environmetrics, to appear.
-Chowdhury, J., Khalid, Z., and Genton, M. G. (2024), “Fast and accurate spherical harmonic transform for spatio-temporal regular grid data,” IEEE Signal Processing Letters, 31, 1825- 1829.
-Hu, Z., Tong, T., and Genton, M. G. (2024), “A pairwise Hotelling method for testing high- dimensional mean vectors,” Statistica Sinica, 34, 229-256.
-Karling, M., Durante, D., and Genton, M. G. (2024), “Conjugacy properties of multivariate unified skew-elliptical distributions,” Journal of Multivariate Analysis, 204:105357.
-Martinez-Hernandez, I., and Genton, M. G. (2024), “Functional time series analysis and visu- alization based on records,” Journal of Computational and Graphical Statistics, to appear.
+**[318]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/) *SC24* (GB Climate Modelling finalist), to appear.
 
-[312] Mondal, S., Arellano-Valle, R. B., and Genton, M. G. (2024), “A multivariate modified skew- normal distribution,” Statistical Papers, 65, 511-555.
-[311] Mondal, S., and Genton, M. G. (2024), “A multivariate skew-normal-Tukey-h distribution,” Journal of Multivariate Analysis, 200:105260.
-[310] Mondal, S., Krupskii, P., and Genton, M. G. (2024), “A non-stationary factor copula model for non-Gaussian spatial data,” Stat, 13:e715.
-[309] Pan, Q., Abdulah, S., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y. (2024), “GPU- accelerated Vecchia approximations of Gaussian processes for geospatial data using batched matrix computations,” ISC High Performance Research Paper Proceedings (39th International Conference, Hamburg, Germany, pp. 1-12, doi:10.23919/ISC.2024.10528930.
-[308] Qu, Z., Dai, W., and Genton, M. G. (2024), “Robust two-layer partition clustering of sparse multivariate functional data,” Econometrics and Statistics, to appear.
-[307] Song, Y., Khalid, Z., and Genton, M. G. (2024), “Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,” Journal of the American Statistical Association, to appear.
-[306] Wang, K., Karling, M., Arellano-Valle, R. B., and Genton, M. G. (2024), “Multivariate unified skew-t distributions and their properties,” Journal of Multivariate Analysis, 203. 105322.
-[305] Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2024), “Sensitivity analysis of wind energy resources with Bayesian non-Gaussian and non-stationary functional ANOVA,” Annals of Applied Statistics, 18, 23-41.
-[304] Zhang, X., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2024), “Parallel approximations for high-dimensional multivariate normal probability computation in confidence region detection applications,” IEEE International Parallel and Distributed Processing Sympo- sium (IPDPS), San Francisco, CA, USA, pp. 265-276, doi:10.1109/IPDPS57955.2024.00031.
+**[317]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
 
+**[316]** Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), [“On the impact of spatial covariance matrix ordering on tile low-rank estimation of Matern parameters,”](https://marcgenton.github.io/) *Environmetrics*, to appear.
+
+**[315]** Chowdhury, J., Khalid, Z., and Genton, M. G. (2024), [“Fast and accurate spherical harmonic transform for spatio-temporal regular grid data,”](https://marcgenton.github.io/2024.CKG.SPL.pdf) *IEEE Signal Processing Letters*, **31**, 1825-1829.
+
+**[314]** Hu, Z., Tong, T., and Genton, M. G. (2024), [“A pairwise Hotelling method for testing high-dimensional mean vectors,”](https://marcgenton.github.io/2024.HTG.SS.pdf) *Statistica Sinica*, **34**, 229-256.
+
+**[313]** Karling, M., Durante, D., and Genton, M. G. (2024), [“Conjugacy properties of multivariate unified skew-elliptical distributions,”](https://marcgenton.github.io/2024.KDG.JMVA.pdf) *Journal of Multivariate Analysis*, **204**:105357.
+
+**[312]** Martinez-Hernandez, I., and Genton, M. G. (2024), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
+**[311]** Mondal, S., Arellano-Valle, R. B., and Genton, M. G. (2024), [“A multivariate modified skew- normal distribution,”](https://marcgenton.github.io/2024.MAG.SP.pdf) *Statistical Papers*, **65**, 511-555.
+
+**[310]** Mondal, S., and Genton, M. G. (2024), [“A multivariate skew-normal-Tukey-h distribution,”](https://marcgenton.github.io/2024.MG.JMVA.pdf) *Journal of Multivariate Analysis*, **200**:105260.
+
+**[309]** Mondal, S., Krupskii, P., and Genton, M. G. (2024), [“A non-stationary factor copula model for non-Gaussian spatial data,”](https://marcgenton.github.io/2024.MKG.Stat.pdf) *Stat*, **13**:e715.
+
+**[308]** Pan, Q., Abdulah, S., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y. (2024), [“GPU- accelerated Vecchia approximations of Gaussian processes for geospatial data using batched matrix computations,”](https://marcgenton.github.io/2024.PAGKLS.ISC.pdf) *ISC High Performance Research Paper Proceedings*, 39th International Conference, Hamburg, Germany, pp. 1-12.
+
+**[307]** Qu, Z., Dai, W., and Genton, M. G. (2024), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, to appear.
+
+**[306]** Wang, K., Karling, M., Arellano-Valle, R. B., and Genton, M. G. (2024), [“Multivariate unified skew-t distributions and their properties,”](https://marcgenton.github.io/2024.WKAG.JMVA.pdf) *Journal of Multivariate Analysis*, **203**:105322.
+
+**[305]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2024), [“Sensitivity analysis of wind energy resources with Bayesian non-Gaussian and non-stationary functional ANOVA,”](https://marcgenton.github.io/2024.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **18**, 23-41.
+
+**[304]** Zhang, X., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2024), [“Parallel approximations for high-dimensional multivariate normal probability computation in confidence region detection applications,”](https://marcgenton.github.io/2024.ZACLSGK.IPDPS.pdf) *IEEE International Parallel and Distributed Processing Symposium (IPDPS)*, San Francisco, CA, USA, pp. 265-276.
 
 **---**
 
