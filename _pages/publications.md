@@ -657,17 +657,19 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[46]** Genton, M. G., and Perrin, O. (2004), [“On a time deformation reducing nonstationary stochastic processes to local stationarity,”](https://marcgenton.github.io/2004.GP.JAP.pdf) *Journal of Applied Probability*, **41**, 236-249.
 
-**[45]** Gorsich, D. J., and Genton, M. G. (2004), [“On the discretization of nonparametric covariogram estimators,”](https://marcgenton.github.io/2004.GG.SC.pdf) *Statistics and Computing*, **14**, 99-108.
+**[45]** Genton, M. G., and Thompson, K. (2004), [“Skew-elliptical time series with application to flooding risk,”]() in *Time Series Analysis and Applications to Geophysical Systems*, D. R. Brillinger, E. A. Robinson, F. P. Schoenberg (eds), IMA Volume in Mathematics and its Applications **139**, Springer, 169-186.
 
-**[44]** Ma, Y., and Genton, M. G. (2004), [“A flexible class of skew-symmetric distributions,”](https://marcgenton.github.io/2004.MG.SJS.pdf) *Scandinavian Journal of Statistics*, **31**, 459-468.
+**[44]** Gorsich, D. J., and Genton, M. G. (2004), [“On the discretization of nonparametric covariogram estimators,”](https://marcgenton.github.io/2004.GG.SC.pdf) *Statistics and Computing*, **14**, 99-108.
 
-**[43]** Ma, Y., Genton, M. G., and Davidian, M. (2004), [“Linear mixed effects models with flexible generalized skew-elliptical random effects,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 339-358.
+**[43]** Ma, Y., and Genton, M. G. (2004), [“A flexible class of skew-symmetric distributions,”](https://marcgenton.github.io/2004.MG.SJS.pdf) *Scandinavian Journal of Statistics*, **31**, 459-468.
 
-**[42]** Naveau, P., Genton, M. G., and Ammann, C. (2004), [“Time series analysis with a skewed Kalman filter,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 259-278.
+**[42]** Ma, Y., Genton, M. G., and Davidian, M. (2004), [“Linear mixed effects models with flexible generalized skew-elliptical random effects,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 339-358.
 
-**[41]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A skew-symmetric representation of multivariate distributions,”](https://marcgenton.github.io/2004.WBG.SS.pdf) *Statistica Sinica*, **14**, 1259-1270.
+**[41]** Naveau, P., Genton, M. G., and Ammann, C. (2004), [“Time series analysis with a skewed Kalman filter,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 259-278.
 
-**[40]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A note on an equivalence between chi-square and generalized skew-normal distributions,”](https://marcgenton.github.io/2004.WBG.SPL.pdf) *Statistics and Probability Letters*, 66, 395-398.
+**[40]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A skew-symmetric representation of multivariate distributions,”](https://marcgenton.github.io/2004.WBG.SS.pdf) *Statistica Sinica*, **14**, 1259-1270.
+
+**[39]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A note on an equivalence between chi-square and generalized skew-normal distributions,”](https://marcgenton.github.io/2004.WBG.SPL.pdf) *Statistics and Probability Letters*, 66, 395-398.
 
 **---**
 
@@ -675,13 +677,19 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[39] Ehm, W., Genton, M. G., and Gneiting, T. (2003), “Stationary covariances associated with exponentially convex functions,” Bernoulli, 9, 1-9.
-[38] Genton, M. G., and Ronchetti, E. (2003), “Robust indirect inference,” Journal of the American Statistical Association, 98, 67-76.
-[37] Genton, M. G., and Lucas, A. (2003), “Comprehensive definitions of breakdown point for inde- pendent and dependent observations,” Journal of the Royal Statistical Society, Series B, 65, 81-94.
-[36] Genton, M. G. (2003), “Breakdown-point for spatially and temporally correlated observations,” in Developments in Robust Statistics, International Conference on Robust Statistics 2001, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
-[35] Genton, M. G., and Furrer, R., (2003), “Analysis of rainfall data by robust spatial statistics using S+SpatialStats,” in Mapping radioactivity in the environment - Spatial Interpolation Comparison 97, G. Dubois, J. Malczewski, M. De Cort (eds), 118-129.
-[34] Genton, M. G., and Furrer, R., (2003), “Analysis of rainfall data by simple good sense: is Spatial Statistics worth the trouble?”, in Mapping radioactivity in the environment - Spatial Interpolation Comparison 97, G. Dubois, J. Malczewski, M. De Cort (eds), 45-50.
-[33] Genton, M. G., and Thompson, K. (2003), “Skew-elliptical time series with application to flood- ing risk,” in Time Series Analysis and Applications to Geophysical Systems, D. R. Brillinger, E. A. Robinson, F. P. Schoenberg (eds), IMA Volume in Mathematics and its Applications 139, Springer, 169-186.
+**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”]() *Bernoulli*, **9**, 1-9.
+
+**[38]** Genton, M. G., and Ronchetti, E. (2003), [“Robust indirect inference,”]() *Journal of the American Statistical Association*, **98**, 67-76.
+
+**[37]** Genton, M. G., and Lucas, A. (2003), [“Comprehensive definitions of breakdown point for independent and dependent observations,”]() *Journal of the Royal Statistical Society - Series B*, **65**, 81-94.
+
+**[36]** Genton, M. G. (2003), [“Breakdown-point for spatially and temporally correlated observations,”]() in *Developments in Robust Statistics, International Conference on Robust Statistics 2001*, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
+
+**[35]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by robust spatial statistics using S+SpatialStats,”]() in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 118-129.
+
+**[34]** Genton, M. G., and Furrer, R., (2003), [“Analysis of rainfall data by simple good sense: Is Spatial Statistics worth the trouble?,”]() in *Mapping radioactivity in the environment - Spatial Interpolation Comparison 97*, G. Dubois, J. Malczewski, M. De Cort (eds), 45-50.
+
+
 
 **---**
 
