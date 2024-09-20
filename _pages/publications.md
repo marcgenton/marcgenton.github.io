@@ -301,9 +301,9 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[188]** Dai, W., Tong, T., and Genton, M. G. (2016), ["Optimal estimation of derivatives in nonparametric regression,"](https://marcgenton.github.io/2016.DTG.JMLR) *Journal of Machine Learning Research*, **17**(164), 1-25.
 
-**[187]** Dong, K., Pang, H., Tong, T., and Genton, M. G. (2016), ["Shrinkage-based diagonal Hotelling tests for high-dimensional small sample size data,"](https://marcgenton.github.io/) *Journal of Multivariate Analysis*, **143**, 127-142.
+**[187]** Dong, K., Pang, H., Tong, T., and Genton, M. G. (2016), ["Shrinkage-based diagonal Hotelling tests for high-dimensional small sample size data,"](https://marcgenton.github.io/2016.DPTG.JMVA.pdf) *Journal of Multivariate Analysis*, **143**, 127-142.
 
-**[186]** Genton, M. G., and Hall, P. (2016), ["A tilting approach to ranking influence,"](https://marcgenton.github.io/2016.GH.JRSSB) *Journal of the Royal Statistical Society - Series B*, **78**, 77-97.
+**[186]** Genton, M. G., and Hall, P. (2016), ["A tilting approach to ranking influence,"](https://marcgenton.github.io/2016.GH.JRSSB.pdf) *Journal of the Royal Statistical Society - Series B*, **78**, 77-97.
 
 **[185]** Huser, R., Davison, A. C., and Genton, M. G. (2016), ["Likelihood estimators for multivariate extremes,"](https://marcgenton.github.io/2016.HDG.Extremes.pdf) *Extremes*, **19**, 79-103.
 
