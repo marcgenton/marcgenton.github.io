@@ -401,7 +401,27 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-
+Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), “Shannon entropy and mutual information for multivariate skew-elliptical distributions,” Scandinavian Journal of Statistics, 40, 42-62.
+Branco, M. D., Genton, M. G., and Liseo, B. (2013), “Objective Bayesian analysis of skew-t distributions,” Scandinavian Journal of Statistics, 40, 63-85.
+El Ghouch, A., Genton, M. G., and Bouezmarni, T. (2013), “Measuring the discrepancy of a parametric model via local polynomial smoothing,” Scandinavian Journal of Statistics, 40, 455-470.
+Kleiber, W., and Genton, M. G. (2013), “Spatially varying cross-correlation coefficients in the presence of nugget effects,” Biometrika, 100, 213-220.
+Li, B., and Genton, M. G. (2013), “Nonparametric identification of copula structures,” Journal of the American Statistical Association, 108, 666-675.
+Ma, Y., Kim, M.-J., and Genton, M. G. (2013), “Semiparametric efficient and robust estimation of an unknown symmetric population under arbitrary selection bias,” Journal of the American Statistical Association, 108, 1090-1104.
+Potgieter, N., and Genton, M. G. (2013), “Characteristic function based semiparametric infer- ence for skew-symmetric models” Scandinavian Journal of Statistics, 40, 471-490.
+14
+[139] [138] [137]
+2012
+[136]
+[135] [134]
+[133] [132] [131]
+[130] [129] [128] [127] [126] [125] [124] [123] [122]
+[121]
+[120]
+2011
+[119]
+Roh, S., Genton, M. G., Jun, M., Szunyogh, I., and Hoteit, I. (2013), “Observation quality control with a robust ensemble Kalman filter,” Monthly Weather Review, 141, 4414-4428
+Sun, Y., Hart, J. D., and Genton, M. G. (2013), “Improved nonparametric inference for multiple correlated periodic sequences,” Stat, 2, 197-210.
+Zollanvari, A., and Genton, M. G. (2013), “On Kolmogorov asymptotics of misclassification error rates in linear discriminant analysis,” Sankhya A, 75, 300-326.
 **---**
 
 **---2012---------------------------**
