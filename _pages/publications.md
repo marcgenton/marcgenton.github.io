@@ -493,20 +493,29 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[109]** Ammann, C. M., Genton, M. G., and Li, B. (2010), [“Correcting for signal attenuation from noisy proxy data in climate reconstructions,”]() *Climate of the Past*, **6**, 273-279.
+**[109]** Ammann, C. M., Genton, M. G., and Li, B. (2010), [“Correcting for signal attenuation from noisy proxy data in climate reconstructions,”](https://marcgenton.github.io/2010.AGL.pdf) *Climate of the Past*, **6**, 273-279.
 
-**[108]** Apanasovich, T. V., and Genton, M. G. (2010), [“Cross-covariance functions for multivariate random fields based on latent dimensions,”]() *Biometrika*, **97**, 15-30.
+**[108]** Apanasovich, T. V., and Genton, M. G. (2010), [“Cross-covariance functions for multivariate random fields based on latent dimensions,”](https://marcgenton.github.io/2010.AG.Biometrika.pdf) *Biometrika*, **97**, 15-30.
 
-**[107]** Arellano-Valle, R. B., and Genton, M. G. (2010), “Multivariate unified skew-elliptical distribu- tions,” Chilean Journal of Statistics, Special issue “Tribute to Pilar Loreto Iglesias Zuazola,” 1, 17-33.
-[106] Arellano-Valle, R. B., and Genton, M. G. (2010), “Multivariate extended skew-t distributions and related families,” Metron, Special issue on “Skew-symmetric and flexible distributions,” 68, 281-314.
-[105] Arellano-Valle, R. B., and Genton, M. G. (2010), “An invariance property of quadratic forms in random vectors with a selection distribution, with application to sample variogram and covariogram estimators,” Annals of the Institute of Statistical Mathematics, 62, 363-381.
-[104] Azzalini, A., Genton, M. G., and Scarpa, B. (2010), “Invariance-based estimating equations for skew-symmetric distributions,” Metron, Special issue on “Skew-symmetric and flexible distri- butions,” 68, 353-377.
-[103] Genton, M. G., and Ruiz-Gazen, A. (2010), “Visualizing influential observations in dependent data,” Journal of Computational and Graphical Statistics, 19, 808-825.
-[102] Hering, A. M., and Genton, M. G. (2010), “Powering up with space-time wind forecasting,” Journal of the American Statistical Association, 105, 92-104.
-[101] Lee, S., Genton, M. G., and Arellano-Valle, R. B. (2010), “Perturbation of numerical confidential data via skew-t distributions,” Management Science, 56, 318-333.
-[100] Ma, Y., and Genton, M. G. (2010), “Explicit estimating equations for semiparametric gener- alized linear latent variable models,” Journal of the Royal Statistical Society Series B, 72, 475-495.
-[99] Marchenko, Y. V., and Genton, M. G. (2010), “A suite of commands for fitting the skew-normal and skew-t models,” The Stata Journal, 10, 507-539. .
-[98] Marchenko, Y. V., and Genton, M. G. (2010), “Multivariate log-skew-elliptical distributions with applications to precipitation data,” Environmetrics, 21, 318-340
+**[107]** Arellano-Valle, R. B., and Genton, M. G. (2010), [“Multivariate unified skew-elliptical distributions,”](https://marcgenton.github.io/2010.AG.ChJS.pdf) *Chilean Journal of Statistics*, Special issue “Tribute to Pilar Loreto Iglesias Zuazola,” *1*, 17-33.
+
+**[106]** Arellano-Valle, R. B., and Genton, M. G. (2010), [“Multivariate extended skew-t distributions and related families,”](https://marcgenton.github.io/2010.AG.Metron.pdf) *Metron*, Special issue on “Skew-symmetric and flexible distributions,” **68**, 281-314.
+
+**[105]** Arellano-Valle, R. B., and Genton, M. G. (2010), [“An invariance property of quadratic forms in random vectors with a selection distribution, with application to sample variogram and covariogram estimators,”](https://marcgenton.github.io/2010.AG.AISM.pdf) *Annals of the Institute of Statistical Mathematics*, **62**, 363-381.
+
+**[104]** Azzalini, A., Genton, M. G., and Scarpa, B. (2010), [“Invariance-based estimating equations for skew-symmetric distributions,”](https://marcgenton.github.io/2010.AGS.Metron.pdf) *Metron*, Special issue on “Skew-symmetric and flexible distributions,” **68**, 353-377.
+
+**[103]** Genton, M. G., and Ruiz-Gazen, A. (2010), [“Visualizing influential observations in dependent data,”](https://marcgenton.github.io/2010.GRG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **19**, 808-825.
+
+**[102]** Hering, A. M., and Genton, M. G. (2010), [“Powering up with space-time wind forecasting,”](https://marcgenton.github.io/2010.HG.JASA.pdf) *Journal of the American Statistical Association*, **105**, 92-104.
+
+**[101]** Lee, S., Genton, M. G., and Arellano-Valle, R. B. (2010), [“Perturbation of numerical confidential data via skew-t distributions,”](https://marcgenton.github.io/2010.LGA.MS.pdf) *Management Science*, **56**, 318-333.
+
+**[100]** Ma, Y., and Genton, M. G. (2010), [“Explicit estimating equations for semiparametric generalized linear latent variable models,”](https://marcgenton.github.io/2010.MG.JRSSB.pdf) *Journal of the Royal Statistical Society - Series B*, **72**, 475-495.
+
+**[99]** Marchenko, Y. V., and Genton, M. G. (2010), [“A suite of commands for fitting the skew-normal and skew-t models,”](https://marcgenton.github.io/2010.MG.StatJ.pdf) *The Stata Journal*, **10**, 507-539.
+
+**[98]** Marchenko, Y. V., and Genton, M. G. (2010), [“Multivariate log-skew-elliptical distributions with applications to precipitation data,”](https://marcgenton.github.io/2010.MG.Environmetrics.pdf) *Environmetrics*, **21**, 318-340
 
 **---**
 
