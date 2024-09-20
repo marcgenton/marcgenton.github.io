@@ -573,6 +573,25 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[78]** Arellano-Valle, R. B., and Genton, M. G. (2007), [“On the exact distribution of linear combinations of order statistics from dependent random variables,”](https://marcgenton.github.io/2007.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **98**, 1876-1894.
+
+**[77]** Azzalini, A., and Genton, M. G. (2007), [“On Gauss’s characterization of the normal distribution,”](https://marcgenton.github.io/2007.AG.Bernoulli.pdf) *Bernoulli*, **13**, 169-174.
+
+**[76]** Chang, S.-M., and Genton, M. G. (2007), [“Extreme value distributions for the skew-symmetric family of distributions,”](https://marcgenton.github.io/2007.CG.CISTM.pdf) *Communications in Statistics: Theory and Methods*, Special issue on skew-elliptical distributions and their applications, **36**, 1705-1717.
+
+**[75]** Genton, M. G. (2007), [“Separabale approximations of space-time covariance matrices,”](https://marcgenton.github.io/2007.G.Environmetrics.pdf) *Environmetrics*, Special Issue for METMA3, **18**, 681-695.
+
+**[74]** Genton, M. G., and Hall, P. (2007), [“Statistical inference for evolving periodic functions,”](https://marcgenton.github.io/.pdf) *Journal of the Royal Statistical Society - Series B*, **69**, 643-657.
+
+**[73]** Genton, M. G., and Hering, A. S. (2007), [“Blowing in the wind,”](https://marcgenton.github.io/2007.GH.Significance.pdf) *Significance*, **4**, 11-14.
+
+**[72]** Genton, M. G., Perrin, O., and Taqqu, M. S. (2007), [“Self-similarity and Lamperti transformation for random fields,”](https://marcgenton.github.io/2007.GPT.SM.pdf) *Stochastic Models*, **23**, 397-411.
+
+**[71]** Gneiting, T., Genton, M. G., and Guttorp, P. (2007), [“Geostatistical space-time models, stationarity, separability and full symmetry,”](https://marcgenton.github.io/2007.GGG.ch4.pdf) in Finkenstaedt, B., Held, L. and Isham, V. (eds), *Statistics of Spatio-Temporal Systems*, Chapman & Hall / CRC Press, Monograph in Statistics and Applied Probability, 151-175.
+
+**[70]** Li, B., Genton, M. G., and Sherman, M. (2007), [“A nonparametric assessment of properties of space-time covariance functions,”](https://marcgenton.github.io/2007.LGS.JASA.pdf) *Journal of the American Statistical Association*, **102**, 736-744.
+
+**[69]** Park, J. W., Genton, M. G., and Ghosh, S. K. (2007), [“Censored time series analysis with autoregressive moving average models,”](https://marcgenton.github.io/2007.PGG.CJS.pdf) *The Canadian Journal of Statistics*, **35**, 151-168.
 
 **---**
 
