@@ -523,6 +523,20 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[97]** Arellano-Valle, R. B., Genton, M. G., and Loschi, R. H. (2009), [“Shape mixtures of multivariate skew-normal distributions,”]() *Journal of Multivariate Analysis*, **100**, 91-101.
+
+[96] El Ghouch, A., and Genton, M. G. (2009), “Local polynomial quantile regression with para- metric features,” Journal of the American Statistical Association, 104, 1416-1429.
+[95] Hering, A. S., Bell, C. L., and Genton, M. G. (2009), “Modeling spatio-temporal wildfire ignition point patterns,” Environmental and Ecological Statistics, Special Issue on Statistics for Wildfire Processes, 16, 225-250.
+[94] Li, B., Murthi, A., Bowman, K., North, G., Genton, M. G., and Sherman, M. (2009), “Statistical tests of Taylor’s hypothesis: an application to precipitation fields,” Journal of Hydrometeorol- ogy, 10, 254-265.
+[93] Li, Y., and Genton, M. G. (2009), “Single-index additive vector autoregressive time series models,” Scandinavian Journal of Statistics, 36, 369-388.
+[92] Park, J. W., Genton, M. G., and Ghosh, S. K. (2009), “Nonparametric autocovariance estima- tion from censored time series by Gaussian imputation,” Journal of Nonparametric Statistics, 21, 241-259.
+[91] Sills, E. S., Genton, M. G., Walsh, A. P. H., and Wehbe, S. A. (2009), “Who’s asking? Patients may under-report postoperative pain scores to nurses (or over-report to surgeons) following surgery of the female reproductive tract,” Archives of Gynecology and Obstetrics, 5, 771-774.
+[90] Sills, E. S., Murray, G. U., Genton, M. G., Walsh, D. J., Coull, G. D., and Walsh, A. P. H. (2009), “Clinical features and reproductive outcomes for embryos undergoing dual freeze- thaw sequences followed by blastocyst transfer: critique of fourteen consecutive cases in IVF,”
+Fertility and Sterility, 91, 1568-1570.
+[89] Wang, Q., Stefanski, L. A., Genton, M. G., and Boos, D. D. (2009), “Robust time series analysis
+via measurement error modeling,” Statistica Sinica, 19, 1263-1280.
+[88] Wu, Y., Genton, M. G., and Stefanski, L. A. (2009), “A comparison of node-splitting rules in recursive partitioning analysis of multivariate quantitative structure activity data,” Statistics in Biopharmaceutical Research, 1, 119-130.
+
 
 **---**
 
