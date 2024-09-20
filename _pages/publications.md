@@ -537,7 +537,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[91]** Sills, E. S., Genton, M. G., Walsh, A. P. H., and Wehbe, S. A. (2009), [“Who’s asking? Patients may under-report postoperative pain scores to nurses (or over-report to surgeons) following surgery of the female reproductive tract,”](https://marcgenton.github.io/2009.SGWW.AGO.pdf) *Archives of Gynecology and Obstetrics*, **5**, 771-774.
 
-**[90]** Sills, E. S., Murray, G. U., Genton, M. G., Walsh, D. J., Coull, G. D., and Walsh, A. P. H. (2009), [“Clinical features and reproductive outcomes for embryos undergoing dual freeze-thaw sequences followed by blastocyst transfer: Critique of fourteen consecutive cases in IVF,”](https://marcgenton.github.io/2009.SMGWCW.pdf) *Fertility and Sterility*, **91**, 1568-1570.
+**[90]** Sills, E. S., Murray, G. U., Genton, M. G., Walsh, D. J., Coull, G. D., and Walsh, A. P. H. (2009), [“Clinical features and reproductive outcomes for embryos undergoing dual freeze-thaw sequences followed by blastocyst transfer: Critique of fourteen consecutive cases in IVF,”](https://marcgenton.github.io/2009.SMGWCW.FS.pdf) *Fertility and Sterility*, **91**, 1568-1570.
 
 **[89]** Wang, Q., Stefanski, L. A., Genton, M. G., and Boos, D. D. (2009), [“Robust time series analysis via measurement error modeling,”](https://marcgenton.github.io/2009.WSGB.SS.pdf) *Statistica Sinica*, **19**, 1263-1280.
 
@@ -549,6 +549,23 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[87]** Arellano-Valle, R. B., Castro, L. M., Genton, M. G., and Gomez, H. W. (2008), [“Bayesian inference for shape mixtures of skewed distributions, with application to regression analysis,”](https://marcgenton.github.io/2008.ACGG.BA.pdf) *Bayesian Analysis*, **3**, 513-540.
+
+**[86]** Arellano-Valle, R. B., and Genton, M. G. (2008), [“On the exact distribution of the maximum of absolutely continuous dependent random variables,”](https://marcgenton.github.io/2008.AG.SPL.pdf) *Statistics and Probability Letters*, **78**, 27-35.
+
+**[85]** Azzalini, A., and Genton, M. G. (2008), [“Robust likelihood methods based on the skew-t and related distributions,”](https://marcgenton.github.io/2008.AG.ISR.pdf) *International Statistical Review*, **76**, 106-129.
+
+**[84]** Butry, D., Gumpertz, M. L., and Genton, M. G. (2008), [“The production of large and small wildfires,”](https://marcgenton.github.io/2008.BGG.chap5.pdf) in Holmes, T. P., Prestemon, J. P., and Abt, K. L. (eds.), *The Economics of Forest Disturbances: Wildfires, Storms, and Invasive Species*, Springer: Dordrecht, The Netherlands, Chapter 5, 79-106.
+
+**[83]** Genton, M. G., and Koul, H. L. (2008), [“Minimum distance inference in unilateral autoregressive lattice processes,”](https://marcgenton.github.io/2008.GK.SS.pdf) *Statistica Sinica*, **18**, 617-631.
+
+**[82]** Genton, M. G., and Ronchetti, E. (2008), [“Robust prediction of beta,”](https://marcgenton.github.io/2008.GR.GilliBook.pdf) in Kontoghiorghes, E. J., Rustem, B. and Winker, P. (eds.), *Computational Methods in Financial Engineering, Essays in Honour of Manfred Gilli*, Springer, 147-161.
+
+**[81]** Li, B., Genton, M. G., and Sherman, M. (2008), [“On the asymptotic joint distribution of sample space-time covariance estimators,”](https://marcgenton.github.io/2008.LGS.Bernoulli.pdf) *Bernoulli*, **14**, 228-248.
+
+**[80]** Li, B., Genton, M. G., and Sherman, M. (2008), [“Testing the covariance structure of multivariate random fields,”](https://marcgenton.github.io/2008.LGS.Biometrika.pdf) *Biometrika*, **95**, 813-829.
+
+**[79]** Sills, E. S., Murray, G. U., Genton, M. G., Walsh, D. J., Coull, G. D., and Walsh, A. P. H. (2008), [“Ovarian hyperstimulation syndrome and prophylactic human embryo cryopreservation: Analysis of reproductive outcome following thawed embryo transfer,”](https://marcgenton.github.io/2008.SMGWCW.JOR.pdf) *Journal of Ovarian Research*, **1**:7, 1-6.
 
 **---**
 
