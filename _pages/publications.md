@@ -625,14 +625,21 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[58]** Mitchell, M., Genton, M. G., and Gumpertz, M. (2005), “Testing for separability of space-time covariances,” Environmetrics, 16, 819-831.
-[57] Genton, M. G. (2005), discussion of “The skew-normal distribution and related multivariate families” by A. Azzalini, Scandinavian Journal of Statistics, 32, 189-198.
-[56] Ma, Y., Genton, M. G., and Tsiatis, A. A. (2005), “Locally efficient semiparametric estimators for generalized skew-elliptical distributions,” Journal of the American Statistical Association, 100, 980-989.
-[55] de Luna, X., and Genton, M. G. (2005), “Predictive spatio-temporal models for spatially sparse environmental data,” Statistica Sinica, special issue in honor of George Tiao’s retirement, 15, 547-568.
-[54] Genton, M. G., and Lucas, A. (2005), discussion of “Breakdown and groups” by L. Davies and U. Gather, Annals of Statistics, 33, 988-993.
-[53] Arellano-Valle, R. B., and Genton, M. G. (2005), “On fundamental skew distributions,” Journal of Multivariate Analysis, 96, 93-116.
-[52] Genton, M. G., and Loperfido, N. (2005), “Generalized skew-elliptical distributions and their quadratic forms,” Annals of the Institute of Statistical Mathematics, 57, 389-401.
-[51] Naveau, P., Genton, M. G., and Shen, X. (2005), “A skewed Kalman filter,” Journal of Multi- variate Analysis, 94, 382-400.
+**[58]** Arellano-Valle, R. B., and Genton, M. G. (2005), [“On fundamental skew distributions,”](2005.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **96**, 93-116.
+
+**[57]** de Luna, X., and Genton, M. G. (2005), [“Predictive spatio-temporal models for spatially sparse environmental data,”](2005.dLG.SS.pdf) *Statistica Sinica*, special issue in honor of George Tiao’s retirement, **15**, 547-568.
+
+**[56]** Genton, M. G. (2005), ["discussion of The skew-normal distribution and related multivariate families”](2005.G.SJS.pdf) by A. Azzalini, *Scandinavian Journal of Statistics*, **32**, 189-198.
+
+**[55]** Genton, M. G., and Loperfido, N. (2005), [“Generalized skew-elliptical distributions and their quadratic forms,”](2005.GL.AISM.pdf) *Annals of the Institute of Statistical Mathematics*, **57**, 389-401.
+
+**[54]** Genton, M. G., and Lucas, A. (2005), ["discussion of Breakdown and groups”](2005.GL.AOS.pdf) by L. Davies and U. Gather, *Annals of Statistics*, **33**, 988-993.
+
+**[53]** Ma, Y., Genton, M. G., and Tsiatis, A. A. (2005), [“Locally efficient semiparametric estimators for generalized skew-elliptical distributions,”](2005.MGT.JASA.pdf) *Journal of the American Statistical Association*, **100**, 980-989.
+
+**[52]** Mitchell, M., Genton, M. G., and Gumpertz, M. (2005), [“Testing for separability of space-time covariances,”](2005.MGG.Environmetrics.pdf) *Environmetrics*, **16**, 819-831.
+
+**[51]** Naveau, P., Genton, M. G., and Shen, X. (2005), [“A skewed Kalman filter,”](2005.NGS.JMVA.pdf) *Journal of Multivariate Analysis*, **94**, 382-400.
 
 **---**
 
