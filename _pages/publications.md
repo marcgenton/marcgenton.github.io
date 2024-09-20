@@ -599,17 +599,25 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-[68] Genton, M. G., Ma, Y., and Parzen, E. (2006), discussion of “Sur une limitation tr`es g ́en ́erale de la dispersion de la m ́ediane,” by M. Fr ́echet, 1940. Journal de la Soci ́et ́e Fran ̧caise de Statistique, 147, 51-60.
-[67] Arellano-Valle, R. B., Branco, M. D., and Genton, M. G. (2006), “A unified view on skewed distributions arising from selections,” The Canadian Journal of Statistics, 34, 581-601.
-[66] Gneiting, T., Larson, K., Westrick, K., Genton, M. G., and Aldrich, E. (2006), “Calibrated probabilistic forecasting at the Stateline wind energy center: The regime-switching space-time method,” Journal of the American Statistical Association, 101, 968-979.
-[65] Furrer, R., Genton, M. G., and Nychka, D. (2006), “Covariance tapering for interpolation of large spatial datasets,” Journal of Computational and Graphical Statistics, 15, 502-523.
-[64] Wu, Y., Genton, M. G., and Stefanski, L. A. (2006), “A multivariate two-sample mean test for small sample size and missing data,” Biometrics, 62, 877-885. (Yujun Wu received the 2005 David P. Byar young investigator award from the ASA Biometrics Society for this paper)
-[63] Genton, M. G., Butry, D. T., Gumpertz, M. L., and Prestemon, J. P. (2006), “Spatio-temporal analysis of wildfire ignitions in the St. Johns river water management district,” International Journal of Wildland Fire, 15, 87-97.
-[62] Field, C., and Genton, M. G. (2006), “The multivariate g-and-h distribution,” Technometrics, 48, 104-111.
-18
-[61] Mitchell, M., Genton, M. G., and Gumpertz, M. (2006), “A likelihood ratio test for separability of covariances,” Journal of Multivariate Analysis, 97, 1025-1043.
-[60] Wang, J., and Genton, M. G. (2006), “The multivariate skew-slash distribution,” Journal of Statistical Planning and Inference, 136, 209-220.
-[59] De Luca, G., Genton, M. G., and Loperfido, N. (2006), “A multivariate Skew-GARCH model,” in Advances in Econometrics: Econometric Analysis of Economic and Financial Time Series, Special volume in honor of R. Engle and C. Granger, the 2003 winners of the Nobel Prize in Economics, D. Terrell (ed.), Elsevier, 20A, 33-57.
+**[67]** Arellano-Valle, R. B., Branco, M. D., and Genton, M. G. (2006), [“A unified view on skewed distributions arising from selections,”](https://marcgenton.github.io/2006.ABG.CJS.pdf) *The Canadian Journal of Statistics*, **34**, 581-601.
+
+**[59]** De Luca, G., Genton, M. G., and Loperfido, N. (2006), [“A multivariate Skew-GARCH model,”](https://marcgenton.github.io/2006.DGL.NobelPrize.pdf) in *Advances in Econometrics: Econometric Analysis of Economic and Financial Time Series*, Special volume in honor of R. Engle and C. Granger, the 2003 winners of the Nobel Prize in Economics, D. Terrell (ed.), Elsevier, **20A**, 33-57.
+
+**[62]** Field, C., and Genton, M. G. (2006), [“The multivariate g-and-h distribution,”](https://marcgenton.github.io/2006.FG.Technometrics.pdf) *Technometrics*, **48**, 104-111.
+
+**[65]** Furrer, R., Genton, M. G., and Nychka, D. (2006), [“Covariance tapering for interpolation of large spatial datasets,”](https://marcgenton.github.io/2006.FGN.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **15**, 502-523.
+
+**[63]** Genton, M. G., Butry, D. T., Gumpertz, M. L., and Prestemon, J. P. (2006), [“Spatio-temporal analysis of wildfire ignitions in the St. Johns river water management district,”](https://marcgenton.github.io/2006.GBGP.IJWF.pdf) *International Journal of Wildland Fire*, **15**, 87-97.
+
+**[68]** Genton, M. G., Ma, Y., and Parzen, E. (2006), ["discussion of Sur une limitation tres generale de la dispersion de la mediane,”](https://marcgenton.github.io/2006.GMP.JSFdS.pdf) by M. Frechet, 1940. *Journal de la Societe Francaise de Statistique*, **147**, 51-60.
+
+**[66]** Gneiting, T., Larson, K., Westrick, K., Genton, M. G., and Aldrich, E. (2006), [“Calibrated probabilistic forecasting at the Stateline wind energy center: The regime-switching space-time method,”](https://marcgenton.github.io/2006.GLWGA.JASA.pdf) *Journal of the American Statistical Association*, **101**, 968-979.
+
+**[61]** Mitchell, M., Genton, M. G., and Gumpertz, M. (2006), [“A likelihood ratio test for separability of covariances,”](https://marcgenton.github.io/2006.MGG.JMVA.pdf) *Journal of Multivariate Analysis*, **97**, 1025-1043.
+
+**[60]** Wang, J., and Genton, M. G. (2006), [“The multivariate skew-slash distribution,”](https://marcgenton.github.io/2006.WG.JSPI.pdf) *Journal of Statistical Planning and Inference*, **136**, 209-220.
+
+**[64]** Wu, Y., Genton, M. G., and Stefanski, L. A. (2006), [“A multivariate two-sample mean test for small sample size and missing data,”](https://marcgenton.github.io/2006.WGS.Biometrics.pdf) *Biometrics*, **62**, 877-885. (Yujun Wu received the 2005 David P. Byar young investigator award from the ASA Biometrics Society for this paper)
 
 **---**
 
