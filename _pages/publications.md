@@ -467,6 +467,25 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[119]** Furrer, R., and Genton, M. G. (2011), [“Aggregation-cokriging for highly-multivariate spatial data,”](https://marcgenton.github.io/2011.FG.Biometrika.pdf) *Biometrika*, **98**, 615-631.
+
+**[118]** Genton, M. G. (2011), ["book review of Computation of Multivariate Normal and t Probabilities,”](https://marcgenton.github.io/2011.G.JASAreview.pdf) by A. Genz and F. Bretz, Springer, 2009, *Journal of the American Statistical Association*, **106**, 1641.
+
+**[117]** Genton, M. G., Ma, Y., Sang, H. (2011), [“On the likelihood function of Gaussian max-stable processes,”](https://marcgenton.github.io/2011.GMS.Biometrika.pdf) *Biometrika*, **98**, 481-488.
+
+**[116]** Hering, A., and Genton, M. G. (2011), [“Comparing spatial predictions,”](https://marcgenton.github.io/2011.HG.Technometrics.pdf) *Technometrics*, **53**, 414-425.
+
+**[115]** Jun, M., Szunyogh, I., Genton, M. G., Zhang, F., and Bishop, C. (2011), [“A statistical investigation of the sensitivity of ensemble based Kalman filters to covariance filtering,”](https://marcgenton.github.io/2011.JSGZB.MWR.pdf) *Monthly Weather Review*, **139**, 3036-3051.
+
+**[114]** Kim, H,-M., and Genton, M. G. (2011), [“Characteristic functions of scale mixtures of multivariate skew-normal distributions,”](https://marcgenton.github.io/2011.KG.JMVA.pdf) *Journal of Multivariate Analysis*, **102**, 1105-1117.
+
+**[113]** Li, B., and Genton, M. G. (2011), ["discussion of An explicit link between Gaussian fields and Gaussian Markov random fields: The stochastic partial differential equation approach”](https://marcgenton.github.io/2011.LG.JRSSB.disc.pdf) by Haavard Rue, Finn Lindgren and Johan Lindstrom, *Journal of the Royal Statistical Society - Series B*, **73**, 480-481.
+
+**[112]** Ma, Y., Genton, M. G., and Parzen, E. (2011), [“Asymptotic properties of sample quantiles of discrete distributions,”](https://marcgenton.github.io/2011.MGP.AISM.pdf) *Annals of the Institute of Statistical Mathematics*, **63**, 221-237.
+
+**[111]** North, G., Wang, J., and Genton, M. G. (2011), [“Correlation models for temperature fields,”](https://marcgenton.github.io/2011.NWG.JC.pdf) *Journal of Climate*, **24**, 5850-5862.
+
+**[110]** Sun, Y., and Genton, M. G. (2011), [“Functional boxplots,”](https://marcgenton.github.io/2011.SG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **20**, 316-334.
 
 **---**
 
