@@ -675,6 +675,13 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[39] Ehm, W., Genton, M. G., and Gneiting, T. (2003), “Stationary covariances associated with exponentially convex functions,” Bernoulli, 9, 1-9.
+[38] Genton, M. G., and Ronchetti, E. (2003), “Robust indirect inference,” Journal of the American Statistical Association, 98, 67-76.
+[37] Genton, M. G., and Lucas, A. (2003), “Comprehensive definitions of breakdown point for inde- pendent and dependent observations,” Journal of the Royal Statistical Society, Series B, 65, 81-94.
+[36] Genton, M. G. (2003), “Breakdown-point for spatially and temporally correlated observations,” in Developments in Robust Statistics, International Conference on Robust Statistics 2001, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
+[35] Genton, M. G., and Furrer, R., (2003), “Analysis of rainfall data by robust spatial statistics using S+SpatialStats,” in Mapping radioactivity in the environment - Spatial Interpolation Comparison 97, G. Dubois, J. Malczewski, M. De Cort (eds), 118-129.
+[34] Genton, M. G., and Furrer, R., (2003), “Analysis of rainfall data by simple good sense: is Spatial Statistics worth the trouble?”, in Mapping radioactivity in the environment - Spatial Interpolation Comparison 97, G. Dubois, J. Malczewski, M. De Cort (eds), 45-50.
+[33] Genton, M. G., and Thompson, K. (2003), “Skew-elliptical time series with application to flood- ing risk,” in Time Series Analysis and Applications to Geophysical Systems, D. R. Brillinger, E. A. Robinson, F. P. Schoenberg (eds), IMA Volume in Mathematics and its Applications 139, Springer, 169-186.
 
 **---**
 
@@ -682,6 +689,9 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[32] Genton, M. G., and Gorsich, D. J. (2002), “Nonparametric variogram and covariogram estima- tion with Fourier-Bessel matrices,” Computational Statistics and Data Analysis, Special issue on Matrix Computations and Statistics, 41, 47-57.
+[31] de Luna, X., and Genton, M. G. (2002), “Simulation-based inference for simultaneous processes on regular lattices”, Statistics and Computing, 12, 125-134.
+[30] Gorsich, D. J., Genton, M. G., and Strang, G. (2002), “Eigenstructures of spatial design ma- trices”, Journal of Multivariate Analysis, 80, 138-165.
 
 **---**
 
@@ -689,6 +699,15 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[29] Genton, M. G. (2001), “Classes of kernels for machine learning: a statistics perspective,” Journal of Machine Learning Research, Special issue on Kernel Methods, 2, 299-312.
+[28] Genton, M. G. (2001), “The change-of-variance function: a tool to explore the effects of depen- dencies in spatial statistics”, Journal of Statistical Planning and Inference, 98, 191-209.
+[27] Genton, M. G. (2001), “Robustness problems in the analysis of spatial data”, in Spatial Statis- tics: Methodological Aspects and Some Applications, M. Moore (ed.), Springer Lecture Notes in Statistics, 159, 21-37.
+[26] de Luna, X., and Genton, M. G. (2001), “Robust simulation-based estimation of ARMA mod- els”, Journal of Computational and Graphical Statistics, 10, 370-387.
+[25] Ma, Y., and Genton, M. G. (2001), “Highly robust estimation of dispersion matrices”, Journal of Multivariate Analysis, 78, 11-36.
+20
+[24] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2001), “Plasma homocysteine, fasting insulin, and androgen patterns among women with polycystic ovaries and infertility,” Journal of Obstetrics and Gynaecology Research, 27, 163-168.
+[23] Sills, E. S., Perloe, M., Tucker, M. J., Kaplan, C. R., Genton, M. G., and Schattman, G. L. (2001), “Diagnostic and treatment characteristics of polycystic ovary syndrome: descriptive measurements of patient perception and awareness from 657 confidential self-reports,” BMC Women’s Health, 1, 1-5.
+[22] Genton, M. G., He, L., and Liu, X. (2001), “Moments of skew-normal random vectors and their quadratic forms”, Statistics and Probability Letters, 51, 319-325.
 
 **---**
 
@@ -696,6 +715,12 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[21] Ma, Y., and Genton, M. G. (2000), “Highly robust estimation of the autocovariance function”, Journal of Time Series Analysis, 21, 663-684.
+[20] Genton, M. G. (2000), “The correlation structure of Matheron’s classical variogram estimator under elliptically contoured distributions”, Mathematical Geology, 32, 127-137.
+[19] Gorsich, D. J., and Genton, M. G. (2000), “Variogram model selection via nonparametric derivative estimation”, Mathematical Geology, 32, 249-270.
+[18] Genton, M. G., and de Luna, X.(2000), “Robust simulation-based estimation”, Statistics and Probability Letters, 48, 253-259.
+[17] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), “Patient perception and awareness regarding diagnosis and treatment of polycystic ovary syndrome (PCOS) as measured by confidential self-reports ,” Fertility and Sterility, 74, S190-S191.
+[16] Sills, E. S., Genton, M. G., Perloe, M., Schattman, G. L., Bralley, J. A., and Tucker, M. J. (2000), “Plasminogen activator inhibitor-1 levels, prothrombin G20210A and methyltetrahydro- folate reductase C677T gene polymorphism frequencies, and reproductive history: Correlations with ultrasonographic ovarian morphology ,” Fertility and Sterility, 74, S13-S14.
 
 **---**
 
@@ -703,6 +728,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[15] Genton, M. G., and de Luna, X. (1999), “Indirect inference for spatio-temporal autoregression models”, proceedings of Spatial-temporal modeling and its application, Leeds, UK, 61-64.
+[14] Genton, M. G. (1999), “The correlation structure of the sample autocovariance function for a particularclassoftimeserieswithellipticallycontoureddistribution”, StatisticsandProbability Letters, 41, 131-137.
+[13] Eyer, L., and Genton, M. G. (1999), “Characterization of variable stars by robust wave vari- ograms: an application to Hipparcos mission”, Astronomy and Astrophysics Supplement Series, 136, 421-428.
+[12] Genton, M. G., and Ma, Y. (1999), “Robustness properties of dispersion estimators”, Statistics and Probability Letters, 44, 343-350.
+[11] Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), “Target versus back- ground characterization: second generation wavelets and support vector machines”, proceedings of SPIE, 12p.
 
 **---**
 
@@ -710,6 +740,14 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+[10] Genton, M. G., and Furrer, R. (1998), “Analysis of rainfall data by simple good sense: is spatial statistics worth the trouble?”, Journal of Geographic Information and Decision Analysis, 2, 11-17.
+[9] Genton, M. G., and Furrer, R. (1998), “Analysis of rainfall data in Switzerland by robust spatial statistics using S+SpatialStats”, Journal of Geographic Information and Decision Analysis, 2, 126-136.
+[8] Genton, M. G. (1998), “Highly robust variogram estimation”, Mathematical Geology, 30, 213- 221.
+21
+[7] Genton, M. G. (1998), “Variogram fitting by generalized least squares using an explicit formula for the covariance structure”, Mathematical Geology, 30, 323-345.
+[6] Genton, M. G. (1998), “Spatial breakdown point of variogram estimators”, Mathematical Geology, 30, 853-871.
+[5] Genton, M. G. (1998), “Asymptotic variance of M-estimators for dependent Gaussian random variables”, Statistics and Probability Letters, 38, 255-261.
+[4] Furrer, R., and Genton, M. G. (1998), “Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats”, Systems Research and Information Systems, special issue on Spatial Data Analysis and Modeling, 8, 257-272.
 
 **---**
 
@@ -717,6 +755,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[3]** Benvenuti J.-F., Rakotomanana L., Leyvraz P. F., Pioletti D., Heegaard J. H., and Genton, M. G. (1997), [“Displacements of the tibial tuberosity: Effects of the surgical parameters,”](https://marcgenton.github.io/1997.BRLPHG.CORR.pdf) *Clinical Orthopaedics and Related Research*, **343**, 224-234.
 
 **---**
 
@@ -724,6 +763,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[2]** Genton, M. G. (1996), [“Robust variogram estimation and fitting in geostatistics,”](https://marcgenton.github.io/) PhD thesis no. **1595**, EPFL-DMA.
 
 **---**
 
@@ -731,6 +771,4 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-
-
-
+**[1]** Genton, M. G., and Rousseeuw, P. J. (1995), [“The change-of-variance function of M-estimators of scale under general contamination,”](https://marcgenton.github.io/1995.GR.JCAM.pdf) *Journal of Computational and Applied Mathematics*, **64**, 69-80.
