@@ -625,21 +625,21 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[58]** Arellano-Valle, R. B., and Genton, M. G. (2005), [“On fundamental skew distributions,”](2005.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **96**, 93-116.
+**[58]** Arellano-Valle, R. B., and Genton, M. G. (2005), [“On fundamental skew distributions,”](https://marcgenton.github.io/2005.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **96**, 93-116.
 
-**[57]** de Luna, X., and Genton, M. G. (2005), [“Predictive spatio-temporal models for spatially sparse environmental data,”](2005.dLG.SS.pdf) *Statistica Sinica*, special issue in honor of George Tiao’s retirement, **15**, 547-568.
+**[57]** de Luna, X., and Genton, M. G. (2005), [“Predictive spatio-temporal models for spatially sparse environmental data,”](https://marcgenton.github.io/2005.dLG.SS.pdf) *Statistica Sinica*, special issue in honor of George Tiao’s retirement, **15**, 547-568.
 
-**[56]** Genton, M. G. (2005), ["discussion of The skew-normal distribution and related multivariate families”](2005.G.SJS.pdf) by A. Azzalini, *Scandinavian Journal of Statistics*, **32**, 189-198.
+**[56]** Genton, M. G. (2005), ["discussion of The skew-normal distribution and related multivariate families”](https://marcgenton.github.io/2005.G.SJS.pdf) by A. Azzalini, *Scandinavian Journal of Statistics*, **32**, 189-198.
 
-**[55]** Genton, M. G., and Loperfido, N. (2005), [“Generalized skew-elliptical distributions and their quadratic forms,”](2005.GL.AISM.pdf) *Annals of the Institute of Statistical Mathematics*, **57**, 389-401.
+**[55]** Genton, M. G., and Loperfido, N. (2005), [“Generalized skew-elliptical distributions and their quadratic forms,”](https://marcgenton.github.io/2005.GL.AISM.pdf) *Annals of the Institute of Statistical Mathematics*, **57**, 389-401.
 
-**[54]** Genton, M. G., and Lucas, A. (2005), ["discussion of Breakdown and groups”](2005.GL.AOS.pdf) by L. Davies and U. Gather, *Annals of Statistics*, **33**, 988-993.
+**[54]** Genton, M. G., and Lucas, A. (2005), ["discussion of Breakdown and groups”](https://marcgenton.github.io/2005.GL.AOS.pdf) by L. Davies and U. Gather, *Annals of Statistics*, **33**, 988-993.
 
-**[53]** Ma, Y., Genton, M. G., and Tsiatis, A. A. (2005), [“Locally efficient semiparametric estimators for generalized skew-elliptical distributions,”](2005.MGT.JASA.pdf) *Journal of the American Statistical Association*, **100**, 980-989.
+**[53]** Ma, Y., Genton, M. G., and Tsiatis, A. A. (2005), [“Locally efficient semiparametric estimators for generalized skew-elliptical distributions,”](https://marcgenton.github.io/2005.MGT.JASA.pdf) *Journal of the American Statistical Association*, **100**, 980-989.
 
-**[52]** Mitchell, M., Genton, M. G., and Gumpertz, M. (2005), [“Testing for separability of space-time covariances,”](2005.MGG.Environmetrics.pdf) *Environmetrics*, **16**, 819-831.
+**[52]** Mitchell, M., Genton, M. G., and Gumpertz, M. (2005), [“Testing for separability of space-time covariances,”](https://marcgenton.github.io/2005.MGG.Environmetrics.pdf) *Environmetrics*, **16**, 819-831.
 
-**[51]** Naveau, P., Genton, M. G., and Shen, X. (2005), [“A skewed Kalman filter,”](2005.NGS.JMVA.pdf) *Journal of Multivariate Analysis*, **94**, 382-400.
+**[51]** Naveau, P., Genton, M. G., and Shen, X. (2005), [“A skewed Kalman filter,”](https://marcgenton.github.io/2005.NGS.JMVA.pdf) *Journal of Multivariate Analysis*, **94**, 382-400.
 
 **---**
 
@@ -647,6 +647,27 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
+**[50]** Baloch, S. H., Krim, H., and Genton, M. G. (2004), [“Shape representation with flexible skew- symmetric distributions,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 291-308.
+
+**[49]** de Luna, X., and Genton, M. G. (2005), [“Spatio-temporal autoregressive models for US unemployment rate,”](https://marcgenton.github.io/2004.dLG.SSEcon.pdf) in *Advances in Econometrics: Spatial and Spatiotemporal Econometrics*, J. P. Lesage, R. K. Pace (eds), Elsevier, **18**, 283-298.
+
+**[48]** Eyer, L., and Genton, M. G. (2004), [“An astronomical distance determination method using regression with skew-normal errors,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 309-319.
+
+**[47]** Genton, M. G. (2004), [“Skew-symmetric and generalized skew-elliptical distributions,”](https://marcgenton.github.io/) in *Skew- Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 81-100.
+
+**[46]** Genton, M. G., and Perrin, O. (2004), [“On a time deformation reducing nonstationary stochastic processes to local stationarity,”](https://marcgenton.github.io/2004.GP.JAP.pdf) *Journal of Applied Probability*, **41**, 236-249.
+
+**[45]** Gorsich, D. J., and Genton, M. G. (2004), [“On the discretization of nonparametric covariogram estimators,”](https://marcgenton.github.io/2004.GG.SC.pdf) *Statistics and Computing*, **14**, 99-108.
+
+**[44]** Ma, Y., and Genton, M. G. (2004), [“A flexible class of skew-symmetric distributions,”](https://marcgenton.github.io/2004.MG.SJS.pdf) *Scandinavian Journal of Statistics*, **31**, 459-468.
+
+**[43]** Ma, Y., Genton, M. G., and Davidian, M. (2004), [“Linear mixed effects models with flexible generalized skew-elliptical random effects,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 339-358.
+
+**[42]** Naveau, P., Genton, M. G., and Ammann, C. (2004), [“Time series analysis with a skewed Kalman filter,”](https://marcgenton.github.io/) in *Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality*, Genton, M. G., Ed., Chapman & Hall / CRC, Boca Raton, FL, pp. 259-278.
+
+**[41]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A skew-symmetric representation of multivariate distributions,”](https://marcgenton.github.io/2004.WBG.SS.pdf) *Statistica Sinica*, **14**, 1259-1270.
+
+**[40]** Wang, J., Boyer, J., and Genton, M. G. (2004), [“A note on an equivalence between chi-square and generalized skew-normal distributions,”](https://marcgenton.github.io/2004.WBG.SPL.pdf) *Statistics and Probability Letters*, 66, 395-398.
 
 **---**
 
