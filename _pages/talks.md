@@ -5,7 +5,7 @@ title: Talks
 
 **---**
 
-**---2025---------------------------**
+**---2024---------------------------**
 
 **---** 
 
@@ -29,55 +29,74 @@ title: Talks
 
 **---**
 
-**---2024---------------------------**
+**---2023---------------------------**
 
 **---**
 
-(392) Genton, M. G. (2023), “Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields,” invited talk at ICSDS, Lisbon, Portugal.
+**(392)** “Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields,” ICSDS, Lisbon, Portugal.
 
-(391) Genton, M. G. (2023), "Exascale Geostatistics for Environmental Data Science," Workshop, Lancaster, UK.
+**(391)** "Exascale Geostatistics for Environmental Data Science," Workshop, Lancaster, UK.
 
-(390) Genton, M. G. (2023), "Learn from my mistakes: career advice from highly successful statisticians," Lancaster University, Lancaster, UK.
+**(390)** "Learn from my Mistakes: Career Advice from Highly Successful Statisticians," Lancaster University, Lancaster, UK.
 
-(389) Genton, M. G. (2023), "Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields," Lancaster University, Lancaster, UK.
+**(389)** "Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields," Lancaster University, Lancaster, UK.
 
-(388) Genton, M. G. (2023), "Learn from my mistakes: career advice from highly successful statisticians," RSS, Harrogate, UK.
+**(388)** "Learn from my Mistakes: Career Advice from Highly Successful Statisticians," RSS, Harrogate, UK.
 
-(387) Genton, M. G. (2023), "Barnett Lecture: Exascale Geostatistics for Environmental Data Science," RSS, Harrogate, UK.
+**(387)** "Barnett Lecture: Exascale Geostatistics for Environmental Data Science," RSS, Harrogate, UK.
 
-(386) Genton, M. G. (2022), "KAUST Statistics Program 5 Years Anniversary 2012-2022," KAUST Annual Workshop, Thuwal, KSA.
+**---**
 
-(385) Genton, M. G. (2022), "Large-Scale Spatial Data Science," Short course at Statistics
-International Workshop, Surabaya, Indonesia, Virtual.
-(384) Genton, M. G. (2022), "Panel: High Performance Statistical Computing: Current Trends
-and Future Prospects," JSM, Washington DC, USA, Virtual.
-(383) Genton, M. G. (2022), "Large-Scale Spatial Data Science with ExaGeoStat," SINAPE,
-Gramado, Brazil, Virtual.
-(382) Genton, M. G. (2022), "Large-Scale Spatial Data Science," Short course at ISI, Virtual.
-(381) Genton, M. G. (2021), "Large-Scale Spatial Data Science with ExaGeoStat," Seminar on
-Spatial and Spatio-temporal Point Processes and Beyond, Virtual.
-(380) Genton, M. G. (2021), "Panel: High Performance Statistical Computing," SC21, St. Louis,
-USA, Virtual.
-(379) Genton, M. G. (2021), "Large-Scale Spatial Data Science with ExaGeoStat," New Bridges
-between Mathematics and Data Science, Valladolid, Spain, Virtual.
-(378) Genton, M. G. (2021), "Sparse Functional Boxplots for Multivariate Curves," ICSA, Virtual.
-(377) Genton, M. G. (2021), "Large-Scale Spatial Data Science," shortcourse at ICSA, Virtual.
+**---2022---------------------------**
 
-(376) Genton, M. G. (2021), "From Matheron’s Theory of Regionalized Variables to Exascale
-Geostatistics," Georges Matheron Lecture at IAMG Days, Virtual.
-(375) Genton, M. G. (2021), "Large-Scale Spatial Data Science with ExaGeoStat," IMS Meeting
-in Seoul, Virtual.
-(374) Genton, M. G. (2021), "Visualization and Outlier Detection for Multivariate Functional
-Data," ISI, Virtual.
-(373) Genton, M. G. (2021), "Large-Scale Spatial Data Science," shortcourse at University of
-Lausanne, Virtual.
-(372) Genton, M. G. (2021), "Tractable Bayes of Skew-Elliptical Link Models for Correlated
-Binary Data," International Conference on Advances in Statistics Honoring the Contributions of
-Barry C. Arnold in Statistical Science, Virtual.
-(371) Genton, M. G. (2021), "Large-Scale Spatial Data Science," Short course at ISI World
-Statistics Congress, Virtual.
-(370) Genton, M. G. (2021), "Large-Scale Spatial Data Science," Shortcourse at MCS/STAT
-Winter School, KAUST, KSA.
+**---**
+
+**(386)** "KAUST Statistics Program 5 Years Anniversary 2012-2022," KAUST Annual Workshop, Thuwal, KSA.
+
+**(385)** "Large-Scale Spatial Data Science," Short course at Statistics International Workshop, Surabaya, Indonesia, Virtual.
+
+**(384)** "Panel: High Performance Statistical Computing: Current Trends and Future Prospects," JSM, Washington DC, USA, Virtual.
+
+**(383)** "Large-Scale Spatial Data Science with ExaGeoStat," SINAPE, Gramado, Brazil, Virtual.
+
+**(382)** "Large-Scale Spatial Data Science," Short course at ISI, Virtual.
+
+**---**
+
+**---2021---------------------------**
+
+**---**
+
+**(381)** "Large-Scale Spatial Data Science with ExaGeoStat," Seminar on Spatial and Spatio-temporal Point Processes and Beyond, Virtual.
+
+**(380)** "Panel: High Performance Statistical Computing," SC21, St. Louis, USA, Virtual.
+
+**(379)** "Large-Scale Spatial Data Science with ExaGeoStat," New Bridges between Mathematics and Data Science, Valladolid, Spain, Virtual.
+
+**(378)** "Sparse Functional Boxplots for Multivariate Curves," ICSA, Virtual.
+
+**(377)** "Large-Scale Spatial Data Science," shortcourse at ICSA, Virtual.
+
+**(376)** "From Matheron’s Theory of Regionalized Variables to Exascale Geostatistics," Georges Matheron Lecture at IAMG Days, Virtual.
+
+**(375)** "Large-Scale Spatial Data Science with ExaGeoStat," IMS Meeting in Seoul, Virtual.
+
+**(374)** "Visualization and Outlier Detection for Multivariate Functional Data," ISI, Virtual.
+
+**(373)** "Large-Scale Spatial Data Science," shortcourse at University of Lausanne, Virtual.
+
+**(372)** "Tractable Bayes of Skew-Elliptical Link Models for Correlated Binary Data," International Conference on Advances in Statistics Honoring the Contributions of Barry C. Arnold in Statistical Science, Virtual.
+
+**(371)** "Large-Scale Spatial Data Science," Short course at ISI World Statistics Congress, Virtual.
+
+**(370)** "Large-Scale Spatial Data Science," Shortcourse at MCS/STAT Winter School, KAUST, KSA.
+
+**---**
+
+**---2020---------------------------**
+
+**---**
+
 (369) Genton, M. G. (2020), "Visualization of Functional Data: Curves, Surfaces, and
 Trajectories," Get Together: Friends of CIMAT, 40th Anniversary, Guanajuato, Mexico.
 (368) Genton, M. G. (2020), "Statistical visualization of Complex Data Structures: Curves,
