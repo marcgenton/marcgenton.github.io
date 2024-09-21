@@ -25,7 +25,7 @@ title: Publications
 
 **[317]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
 
-**[316]** Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), [“On the impact of spatial covariance matrix ordering on tile low-rank estimation of Matern parameters,”](https://marcgenton.github.io/) *Environmetrics*, to appear.
+**[316]** Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), [“On the impact of spatial covariance matrix ordering on tile low-rank estimation of Matern parameters,”](https://marcgenton.github.io/2024.CASG.Environmetrics.pdf) *Environmetrics*, **35**:e2868.
 
 **[315]** Chowdhury, J., Khalid, Z., and Genton, M. G. (2024), [“Fast and accurate spherical harmonic transform for spatio-temporal regular grid data,”](https://marcgenton.github.io/2024.CKG.SPL.pdf) *IEEE Signal Processing Letters*, **31**, 1825-1829.
 
