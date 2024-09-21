@@ -57,7 +57,7 @@ title: Publications
 
 **---** 
 
-**[303]** Abdulah, S., Li, Y., Cao, J., Ltaief, H., Keyes, D. E., Genton, M. G., and Sun, Y. (2023), ["Large-scale environmental data science with ExaGeoStatR,"](https://marcgenton.github.io/2023.ALCLKGS.Environmetrics.pdf) *Environmetrics*, **34**:e2770.
+**[303]** Abdulah, S., Li, Y., Cao, J., Ltaief, H., Keyes, D. E., Genton, M. G., and Sun, Y. (2023), ["Large-scale environmental data science with ExaGeoStatR,"](https://marcgenton.github.io/2023.ALCLKGS.Environmetrics.pdf) *Environmetrics*, **34**:e2770. ([cover](https://marcgenton.github.io/2023.EnvironmetricsCover.pdf))
 
 **[302]** Cao, Q., Abdulah, S., Ltaief, H., Genton, M. G., Keyes, D. E., and Bosilca, G. (2023), ["Reducing data motion and energy consumption of geospatial modeling applications using automated precision conversion,"](https://marcgenton.github.io/2023.CALGKB.CLUSTER.pdf) *IEEE International Conference on Cluster Computing*, 330-342.
 
@@ -67,7 +67,7 @@ title: Publications
 
 **[299]** Hong, Y., Song, Y., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2023), ["The third competition on spatial statistics for large datasets,"](https://marcgenton.github.io/2023.HSASLKG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **28**, 618-635.
 
-**[298]** Huang, H., Castruccio, S., Baker, A., and Genton, M. G. (2023), ["Saving storage in climate ensembles: A model-based stochastic approach (with discussion),"](https://marcgenton.github.io/2023.HCBG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **28**, 324-344.
+**[298]** Huang, H., Castruccio, S., Baker, A., and Genton, M. G. (2023), ["Saving storage in climate ensembles: A model-based stochastic approach (with discussion),"](https://marcgenton.github.io/2023.HCBG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **28**, 324-344. (Discussion [1](https://marcgenton.github.io/2023.Disc1.JABES.pdf),[2](https://marcgenton.github.io/2023.Disc2.JABES.pdf),[3](https://marcgenton.github.io/2023.Disc3.JABES.pdf),[4](https://marcgenton.github.io/2023.Disc4.JABES.pdf),[5](https://marcgenton.github.io/2023.Disc5.JABES.pdf),[rejoinder](https://marcgenton.github.io/2023.Rejoinder.JABES.pdf))
 
 **[297]** Huang, H., Sun, Y., and Genton, M. G. (2023), ["Test and visualization of covariance properties for multivariate spatio-temporal random fields,"](https://marcgenton.github.io/2023.HSG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **32**, 1545-1555.
 
@@ -153,7 +153,7 @@ title: Publications
 
 **[262]** Hong, Y., Abdulah, S., Genton, M. G., and Sun, Y. (2021), ["Efficiency assessment of approximated spatial predictions for large datasets,"](https://marcgenton.github.io/2021.HAGS.SpatStat.pdf) *Spatial Statistics*, **43**:100517.
 
-**[261]** Huang, H., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), ["Competition on spatial statistics for large datasets (with discussion),"](https://marcgenton.github.io/2021.HASLKG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **26**, 580-595.
+**[261]** Huang, H., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), ["Competition on spatial statistics for large datasets (with discussion),"](https://marcgenton.github.io/2021.HASLKG.JABES.pdf) *Journal of Agricultural, Biological, and Environmental Statistics*, **26**, 580-595. (Discussion [1](https://marcgenton.github.io/2021.JABES.Disc1.pdf),[2](https://marcgenton.github.io/2021.JABES.Disc2.pdf),[3](https://marcgenton.github.io/2021.JABES.Disc3.pdf),[4](https://marcgenton.github.io/2021.JABES.Disc4.pdf),[5](https://marcgenton.github.io/2021.JABES.Disc5.pdf),[6](https://marcgenton.github.io/2021.JABES.Disc6.pdf),[rejoinder](https://marcgenton.github.io/2021.HASLKG.JABES.rejoinder.pdf))
 
 **[260]** Huang, J., Cao, J., Fang, F., Genton, M. G., Keyes, D. E., and Turkiyyah, G. (2021), ["An O(N) algorithm for computing expectation of N-dimensional truncated multi-variate normal distribution I: Fundamentals,"](https://marcgenton.github.io/2021.HCFGKT.ACM.pdf) *Advances in Computational Mathematics*, **47**:65.
 
@@ -203,7 +203,7 @@ title: Publications
 
 **[240]** Tagle, F., Castruccio, S., and Genton, M. G. (2020), ["A hierarchical bi-resolution spatial skew-t model,"](https://marcgenton.github.io/2020.TCG.SpatStat.pdf) *Spatial Statistics*, **35**:100398.
 
-**[239]** Tagle, F., Genton, M. G., Yip, A., Mostamandi, S., Stenchikov, G., and Castruccio, S. (2020), ["A high-resolution bi-level skew-t stochastic generator for assessing Saudi Arabia's wind energy resources (with discussion),"](https://marcgenton.github.io/2020.TGYMSC.Environmetrics.pdf) *Environmetrics*, **31**:e2628.
+**[239]** Tagle, F., Genton, M. G., Yip, A., Mostamandi, S., Stenchikov, G., and Castruccio, S. (2020), ["A high-resolution bi-level skew-t stochastic generator for assessing Saudi Arabia's wind energy resources (with discussion),"](https://marcgenton.github.io/2020.TGYMSC.Environmetrics.pdf) *Environmetrics*, **31**:e2628. (discussion [1](https://marcgenton.github.io/2020.TGYMSC.EnvironmetricsDisc1.pdf),[2](https://marcgenton.github.io/2020.TGYMSC.EnvironmetricsDisc2.pdf),[3](https://marcgenton.github.io/2020.TGYMSC.EnvironmetricsDisc3.pdf),[4](https://marcgenton.github.io/2020.TGYMSC.EnvironmetricsDisc4.pdf),[rejoinder](https://marcgenton.github.io/2020.TGYMSC.EnvironmetricsRejoinder.pdf))
 
 **[238]** Vettori, S., Huser, R., Segers, J., and Genton, M. G. (2020), ["Bayesian model averaging over tree-based dependence structures for multivariate extremes,"](https://marcgenton.github.io/2020.VHSG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **29**, 174-190.
 
@@ -221,7 +221,8 @@ title: Publications
 
 **[234]** Cao, J., Genton, M. G., Keyes, D., and Turkiyyah, G. (2019), ["Hierarchical-block conditioning approximations for high-dimensional multivariate normal probabilities,"](https://marcgenton.github.io/2019.CGKT.SC.pdf) *Statistics and Computing*, **29**, 585-598.
 
-**[233]** Castruccio, S., Genton, M. G., and Sun, Y. (2019), ["Visualising spatio-temporal models with virtual reality: From fully immersive environments to apps in stereoscopic view,"](https://marcgenton.github.io/2019.CGS.JRSSA.pdf) *Journal of the Royal Statistical Society - Series A*, **182**, 379-387. (paper read before the RSS)
+**[233]** Castruccio, S., Genton, M. G., and Sun, Y. (2019), ["Visualising spatio-temporal models with virtual reality: From fully immersive environments to apps in stereoscopic view,"](https://marcgenton.github.io/2019.CGS.JRSSA.pdf) *Journal of the Royal Statistical Society - Series A*, **182**, 379-387. (read before the Royal Statistical Society, [Discussion and
+Rejoinder](https://marcgenton.github.io/2019.discussion.JRSSA.pdf))
 
 **[232]** Chen, W., and Genton, M. G. (2019), ["Parametric variogram matrices incorporating both bounded and unbounded functions,"](https://marcgenton.github.io/2019.CG.SERRA.pdf) *Stochastic Environmental Research and Risk Assessment*, **33**, 1669-1679.
 
@@ -311,7 +312,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[196]** Krupskii, P., and Genton, M. G. (2017), ["Factor copula models for data with spatio-temporal dependence,"](https://marcgenton.github.io/2017.KG.SpaStat.pdf) *Spatial Statistics*, **22**, 180-195.
 
-**[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249.
+**[195]** Xu, G., and Genton, M. G. (2017), ["Tukey g-and-h random  fields,"](https://marcgenton.github.io/2017.XG.JASA.pdf) *Journal of the American Statistical Association*, **112**, 1236-1249. ([Supplementary Material](https://marcgenton.github.io/2017.XG.JASA.Supp.pdf))
 
 **---**
 
@@ -327,7 +328,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[191]** Castruccio, S., and Genton, M. G. (2016), ["Compressing an ensemble with statistical models: An algorithm for global 3D spatio-temporal temperature,"](https://marcgenton.github.io/2016.CG.Technometrics.pdf) *Technometrics*, **58**, 319-328.
 
-**[190]** Castruccio, S., Huser, R., and Genton, M. G. (2016), ["High-order composite likelihood inference for max-stable distributions and processes,"](https://marcgenton.github.io/2016.CHG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **25**, 1212-1229.
+**[190]** Castruccio, S., Huser, R., and Genton, M. G. (2016), ["High-order composite likelihood inference for max-stable distributions and processes,"](https://marcgenton.github.io/2016.CHG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **25**, 1212-1229. ([Online Supplement](https://marcgenton.github.io/2016.CHG.JCGS.Supplements.pdf))
 
 **[189]** Cochran, J., Hardenstine, R., Braun, C., Skomal, G., Thorrold, S., Xu, K., Genton, M. G., and Berumen, M. (2016), ["Population structure of a whale shark Rhincodon typus aggregation in the Red Sea,"](https://marcgenton.github.io/2016.CHBSTXGB.JFB.pdf) *Journal of Fish Biology*, **89**, 1570-1582.
 
@@ -345,11 +346,11 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[182]** Lee, M., Genton, M. G., and Jun, M. (2016), ["Testing self-similarity through Lamperti transformations,"](https://marcgenton.github.io/2016.LGJ.JABES.pdf) *Journal of Agricultural, Biological and Environmental Statistics*, **21**, 426-447.
 
-**[181]** Porcu, E., Bevilacqua, M., and Genton, M. G. (2016), ["Spatio-temporal covariance and cross-covariance functions of great circle distance on the sphere,"](https://marcgenton.github.io/2016.PBG.JASA.pdf) *Journal of the American Statistical Association*, **111**, 888-898.
+**[181]** Porcu, E., Bevilacqua, M., and Genton, M. G. (2016), ["Spatio-temporal covariance and cross-covariance functions of great circle distance on the sphere,"](https://marcgenton.github.io/2016.PBG.JASA.pdf) *Journal of the American Statistical Association*, **111**, 888-898. ([Online Supplement](https://marcgenton.github.io/2016.PBG.JASA.Supp.pdf))
 
 **[180]** Prihartato, P. K., Irigoien, X., Genton, M. G., and Kaartvedt, S. (2016), ["Global effects of moon phase on nocturnal acoustic scattering layers,"](https://marcgenton.github.io/2016.PIGK.MEPS.pdf) *Marine Ecology Progress Series*, **544**, 65-75.
 
-**[179]** Rubio, F. J., and Genton, M. G. (2016), ["Bayesian linear regression with skew-symmetric error distributions, with applications to survival analysis,"](https://marcgenton.github.io/2016.RG.SIM.pdf) *Statistics in Medicine*, **35**, 2441-2454.
+**[179]** Rubio, F. J., and Genton, M. G. (2016), ["Bayesian linear regression with skew-symmetric error distributions, with applications to survival analysis,"](https://marcgenton.github.io/2016.RG.SIM.pdf) *Statistics in Medicine*, **35**, 2441-2454. ([Supplementary Material](https://marcgenton.github.io/2016.RG.SIM.Suppl.pdf))
 
 **[178]** Xu, G., and Genton, M. G. (2016), ["Tukey max-stable processes for spatial extremes,"](https://marcgenton.github.io/2016.XG.SpatStat.pdf) *Spatial Statistics*, **18**, 431-443.
 
@@ -369,7 +370,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[173]** Genton, M. G., Castruccio, S., Crippa, P., Dutta, S., Huser, R., Sun, Y., and Vettori, S. (2015), ["Visuanimations in statistics,"](https://marcgenton.github.io/2015.GCCDHSV.Stat.pdf) *Stat*, **4**, 81-96.
 
-**[172]** Genton, M. G., and Kleiber, W. (2015), ["Cross-covariance functions for multivariate geostatistics (with discussion and rejoinder),"](https://marcgenton.github.io/2015.GK.StatSci.pdf) *Statistical Science*, **30**, 147-163.
+**[172]** Genton, M. G., and Kleiber, W. (2015), ["Cross-covariance functions for multivariate geostatistics (with discussion and rejoinder),"](https://marcgenton.github.io/2015.GK.StatSci.pdf) *Statistical Science*, **30**, 147-163. (discussion [1](https://marcgenton.github.io/2015.GK.StatSci.Disc1.pdf),[2](https://marcgenton.github.io/2015.GK.StatSci.Disc2.pdf),[3](https://marcgenton.github.io/2015.GK.StatSci.Disc3.pdf),[4](https://marcgenton.github.io/2015.GK.StatSci.Disc4.pdf),[rejoinder](https://marcgenton.github.io/2015.GK.StatSciRej.pdf))
 
 **[171]** Genton, M. G., Padoan, S., and Sang, H. (2015), ["Multivariate max-stable spatial processes,"](https://marcgenton.github.io/2015.GPS.Biometrika.pdf) *Biometrika*, **102**, 215-230. ([Supplementary Material](https://marcgenton.github.io/2015.GPS.Biometrika.SupMat.pdf))
 
@@ -413,7 +414,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[154]** Dutta, S., and Genton, M. G. (2014), [“A non-Gaussian multivariate distribution with all lower- dimensional Gaussians and related families,”](https://marcgenton.github.io/2014.DG.JMVA.pdf) *Journal of Multivariate Analysis*, **132**, 82-93.
 
-**[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”](https://marcgenton.github.io/2014.GJPSS.Stat.pdf) *Stat*, **3**, 1-11.
+**[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”](https://marcgenton.github.io/2014.GJPSS.Stat.pdf) *Stat*, **3**, 1-11. ([code](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.39&file=sta439-sup-0001-SurfaceBoxplots.zip))
 
 **[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) Journal of Multivariate Analysis*, **123**, 228-251.
 
