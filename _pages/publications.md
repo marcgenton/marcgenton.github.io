@@ -371,7 +371,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[172]** Genton, M. G., and Kleiber, W. (2015), ["Cross-covariance functions for multivariate geostatistics (with discussion and rejoinder),"](https://marcgenton.github.io/2015.GK.StatSci.pdf) *Statistical Science*, **30**, 147-163.
 
-**[171]** Genton, M. G., Padoan, S., and Sang, H. (2015), ["Multivariate max-stable spatial processes,"](https://marcgenton.github.io/2015.GPS.Biometrika.pdf) *Biometrika*, **102**, 215-230.
+**[171]** Genton, M. G., Padoan, S., and Sang, H. (2015), ["Multivariate max-stable spatial processes,"](https://marcgenton.github.io/2015.GPS.Biometrika.pdf) *Biometrika*, **102**, 215-230. ([Supplementary Material](https://marcgenton.github.io/2015.GPS.Biometrika.SupMat.pdf))
 
 **[170]** Goddard, S., Genton, M. G., Hering, M., and Sain, S. (2015), ["Evaluating the impacts of climate change on diurnal wind power cycles using multiple regional climate models,"](https://marcgenton.github.io/2015.GGHS.Environmetrics.pdf) *Environmetrics*, **26**, 192-201.
 
@@ -391,7 +391,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[162]** Sun, Y., Bowman, K., Genton, M. G., and Tokay, A. (2015), ["A Matern model of the spatial covariance structure of point rain rates,"](https://marcgenton.github.io/2015.SBGT.SERRA.pdf) *Stochastic Environmental Research and Risk Assessment*, **29**, 411-416.
 
-**[161]** Xu, G., and Genton, M. G. (2015), ["Efficient maximum approximated likelihood inference for Tukey's g-and-h distribution,"](https://marcgenton.github.io/2015.XG.CSDA.pdf) *Computational Statistics and Data Analysis*, **91**, 78-91.
+**[161]** Xu, G., and Genton, M. G. (2015), ["Efficient maximum approximated likelihood inference for Tukey's g-and-h distribution,"](https://marcgenton.github.io/2015.XG.CSDA.pdf) *Computational Statistics and Data Analysis*, **91**, 78-91. ([Supplementary Material](https://marcgenton.github.io/2015.XG.CSDA.Supl.pdf))
 
 **[160]** Xu, G., Liang, F., and Genton, M. G. (2015), ["A Bayesian spatio-temporal geostatistical model with an auxiliary lattice for large datasets,"](https://marcgenton.github.io/2015.XLG.SS.pdf) *Statistica Sinica*, **25**, 61-79.
 
@@ -425,7 +425,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[148]** Zhu, X., Bowman, K., and Genton, M. G. (2014), [“Incorporating geostrophic wind information for improved space-time short-term wind speed forecasting,”](https://marcgenton.github.io/2014.ZBG.AOAS.pdf) *Annals of Applied Statistics*, **8**, 1782-1799.
 
-**[147]** Zhu, X., Genton, M. G., Gu, Y., and Xie, L. (2014), [“Space-time wind speed forecasting for improved power system dispatch (with discussion),”](https://marcgenton.github.io/2014.ZGGX.TEST.pdf) *TEST*, **23**, 1-25.
+**[147]** Zhu, X., Genton, M. G., Gu, Y., and Xie, L. (2014), [“Space-time wind speed forecasting for improved power system dispatch (with discussion),”](https://marcgenton.github.io/2014.ZGGX.TEST.pdf) *TEST*, **23**, 1-25. (discussion [1](https://marcgenton.github.io/2014.ZGGX.TEST.disc1.pdf),[2](https://marcgenton.github.io/2014.ZGGX.TEST.disc2.pdf),[3](https://marcgenton.github.io/2014.ZGGX.TEST.disc3.pdf),[4](https://marcgenton.github.io/2014.ZGGX.TEST.disc4.pdf),[rejoinder](https://marcgenton.github.io/2014.ZGGX.TEST.rejoinder.pdf))
 
 **---**
 
@@ -605,7 +605,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[78]** Arellano-Valle, R. B., and Genton, M. G. (2007), [“On the exact distribution of linear combinations of order statistics from dependent random variables,”](https://marcgenton.github.io/2007.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **98**, 1876-1894.
+**[78]** Arellano-Valle, R. B., and Genton, M. G. (2007), [“On the exact distribution of linear combinations of order statistics from dependent random variables,”](https://marcgenton.github.io/2007.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **98**, 1876-1894. [Corrigendum](https://marcgenton.github.io/2008.AG.JMVA.corrigendum.pdf)
 
 **[77]** Azzalini, A., and Genton, M. G. (2007), [“On Gauss’s characterization of the normal distribution,”](https://marcgenton.github.io/2007.AG.Bernoulli.pdf) *Bernoulli*, **13**, 169-174.
 
