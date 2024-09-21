@@ -709,7 +709,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”](https://marcgenton.github.io/2003.EGG.Bernoulli.pdf) *Bernoulli*, **9**, 1-9.
+**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”](https://marcgenton.github.io/2003.EGG.Bernoulli.pdf) *Bernoulli*, **9**, 1-9. ["Acknowledgement of priority"](https://marcgenton.github.io/2004.EGG.Priority.pdf).
 
 **[37]** Genton, M. G. (2003), [“Breakdown-point for spatially and temporally correlated observations,”](https://marcgenton.github.io/2003.G.RSbookchapter.pdf) in *Developments in Robust Statistics, International Conference on Robust Statistics 2001*, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
 
@@ -781,21 +781,21 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[15]** Eyer, L., and Genton, M. G. (1999), [“Characterization of variable stars by robust wave variograms: An application to Hipparcos mission,”](https://marcgenton.github.io/1999.EG.AA.pdf) *Astronomy and Astrophysics Supplement Series*, **136**, 421-428.
 
-**[14]** Genton, M. G. (1999), [“The correlation structure of the sample autocovariance function for a particular class of time series with elliptically contoured distribution,”](https://marcgenton.github.io/1999.G.SPL.pdf) *Statistics and Probability Letters*, **41**, 131-137.
+**[14]** Furrer, R., and Genton, M. G. (1999), [“Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats,”](https://marcgenton.github.io/) *Systems Research and Information Systems*, special issue on Spatial Data Analysis and Modeling, **8**, 257-272.
 
-**[13]** Genton, M. G., and de Luna, X. (1999), [“Indirect inference for spatio-temporal autoregression models,”](https://marcgenton.github.io/) in proceedings of *Spatial-temporal modeling and its application*, Leeds, UK, 61-64.
+**[13]** Genton, M. G. (1999), [“The correlation structure of the sample autocovariance function for a particular class of time series with elliptically contoured distribution,”](https://marcgenton.github.io/1999.G.SPL.pdf) *Statistics and Probability Letters*, **41**, 131-137.
 
-**[12]** Genton, M. G., and Ma, Y. (1999), [“Robustness properties of dispersion estimators,”](https://marcgenton.github.io/1999.GM.SPL.pdf) *Statistics and Probability Letters*, **44**, 343-350.
+**[12]** Genton, M. G., and de Luna, X. (1999), [“Indirect inference for spatio-temporal autoregression models,”](https://marcgenton.github.io/) in proceedings of *Spatial-temporal modeling and its application*, Leeds, UK, 61-64.
 
-**[11]** Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), [“Target versus back-ground characterization: Second generation wavelets and support vector machines,”](https://marcgenton.github.io/) in proceedings of *SPIE*, 12p.
+**[11]** Genton, M. G., and Ma, Y. (1999), [“Robustness properties of dispersion estimators,”](https://marcgenton.github.io/1999.GM.SPL.pdf) *Statistics and Probability Letters*, **44**, 343-350.
+
+**[10]** Gorsich, D. J., Karlsen, R. E., Gerhart, G. R., and Genton, M. G. (1999), [“Target versus back-ground characterization: Second generation wavelets and support vector machines,”](https://marcgenton.github.io/) in proceedings of *SPIE*, 12p.
 
 **---**
 
 **---1998---------------------------**
 
 **---** 
-
-**[10]** Furrer, R., and Genton, M. G. (1998), [“Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats,”](https://marcgenton.github.io/) *Systems Research and Information Systems*, special issue on Spatial Data Analysis and Modeling, **8**, 257-272.
 
 **[9]** Genton, M. G. (1998), [“Highly robust variogram estimation,”](https://marcgenton.github.io/1998.G.MG.1.pdf) *Mathematical Geology*, **30**, 213- 221.
 
