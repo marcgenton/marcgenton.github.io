@@ -66,10 +66,10 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2007* Fellow of the American Statistical Association
 
 # Codes
-[Codes Link](https://marcgenton.github.io/_pages/codes.md)
+[Codes Link](https://marcgenton.github.io/_pages/codes)
 
 # Talks
-[Talks Link](https://marcgenton.github.io/_pages/talks.md)
+[Talks Link](https://marcgenton.github.io/_pages/talks)
 
 
 
