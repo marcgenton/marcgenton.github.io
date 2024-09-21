@@ -11,15 +11,20 @@ Fairfax, USA.
 China, Qingdao, China.
 (397) “Large-Scale Spatial Data Science with ExaGeoStat,” invited talk at Workshop on Spatial
 Statistics at Renmin University, Beijing, China.
-(396) “Large-Scale Spatial Data Science,” shortcourse at New England Statistics Symposium, Storrs,
+(396) Genton, M. G. (2024), “Large-Scale Spatial Data Science,” shortcourse at New England Statistics Symposium, Storrs,
 USA.
-(395) “2024 Don Owen Award: Celebrating Texas Statisticians and Beyond!,” dinner talk at Confer-
+
+(395) Genton, M. G. (2024), “2024 Don Owen Award: Celebrating Texas Statisticians and Beyond!,” dinner talk at Confer-
 ence of Texas Statisticians, Houston, USA.
-(394) “Large-Scale Spatial Data Science with ExaGeoStat,” seminar talk at Texas A&M University,
+
+(394) Genton, M. G. (2024), “Large-Scale Spatial Data Science with ExaGeoStat,” seminar talk at Texas A&M University,
 College Station, USA.
-(393) “Large-Scale Spatial Data Science with ExaGeoStat,” shortcourse at AMCS-STAT Winter
-School, KAUST, KSA. 2023
-(392) “Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields,” invited talk at ICSDS, Lisbon, Portugal.
+
+(393) Genton, M. G. (2024), “Large-Scale Spatial Data Science with ExaGeoStat,” shortcourse at AMCS-STAT Winter
+School, KAUST, KSA. 
+
+
+(392) Genton, M. G. (2023), “Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields,” invited talk at ICSDS, Lisbon, Portugal.
 
 (391) Genton, M. G. (2023), "Exascale Geostatistics for Environmental Data Science," Workshop, Lancaster, UK.
 
