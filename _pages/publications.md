@@ -709,7 +709,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”](https://marcgenton.github.io/2003.EGG.Bernoulli.pdf) *Bernoulli*, **9**, 1-9. ["Acknowledgement of priority"](https://marcgenton.github.io/2004.EGG.Priority.pdf).
+**[38]** Ehm, W., Genton, M. G., and Gneiting, T. (2003), [“Stationary covariances associated with exponentially convex functions,”](https://marcgenton.github.io/2003.EGG.Bernoulli.pdf) *Bernoulli*, **9**, 1-9. [Acknowledgement of priority](https://marcgenton.github.io/2004.EGG.Priority.pdf).
 
 **[37]** Genton, M. G. (2003), [“Breakdown-point for spatially and temporally correlated observations,”](https://marcgenton.github.io/2003.G.RSbookchapter.pdf) in *Developments in Robust Statistics, International Conference on Robust Statistics 2001*, R. Dutter, P. Filzmoser, U. Gather and P. J. Rousseeuw (eds), Springer, 148-159.
 
