@@ -707,26 +707,27 @@ functions", Ninth Annual Winter Workshop, Gainesville, USA.
 
 **---**
 
-(126) Genton, M. G. (2006), "Climate, Environment and Economy", Inaugural Lesson, Geneva,
-Switzerland.
-(125) Genton, M. G. (2006), "Modeling and inference based on the multivariate skew-t
-distribution", Swiss Statistics Seminars, Bern, Switzerland.
-(124) Genton, M. G. (2006), "Statistical modeling and inference under selections", Swiss
-Statistics Meeting, Lugano, Switzerland.
-(123) Genton, M. G. (2006), "Space-time separability", METMA3, Pamplona, Spain.
-(122) Genton, M. G. (2006), "Minimum distance inference in unilateral autoregressive lattice
-processes", JSM, Seattle, USA.
-(121) Genton, M. G. (2006), "Selections", ICORS06, Lisbon, Portugal.
-(120) Genton, M. G. (2006), "Space-time separability", PROBASTAT, Smolenice Castle, Slovak
-Republic.
-(119) Genton, M. G. (2006), "Statistical modeling and inference under selections", Cornell
-University, Ithaca, USA.
-(118) Genton, M. G. (2006), "Statistical modeling and inference under selections", University of
-Sao Paulo, Sao Paulo, Brasil.
-(117) Genton, M. G. (2006), "A unified view on skewed distributions arising from selections",
-EBEB 8, Buzios, Brasil.
-(116) Genton, M. G. (2006), "Statistical modeling and inference under selections", University of
-Geneva, Geneva, Switzerland.
+**(126)** "Climate, Environment and Economy," Inaugural Lesson, Geneva, Switzerland.
+
+**(125)** "Modeling and Inference based on the Multivariate Skew-t Distribution," Swiss Statistics Seminars, Bern, Switzerland.
+
+**(124)** "Statistical Modeling and Inference under Selections," Swiss Statistics Meeting, Lugano, Switzerland.
+
+**(123)** "Space-Time Separability," METMA3, Pamplona, Spain.
+
+**(122)** "Minimum Distance Inference in Unilateral Autoregressive Lattice Processes," JSM, Seattle, USA.
+
+**(121)** "Selections," ICORS06, Lisbon, Portugal.
+
+**(120)** "Space-Time Separability," PROBASTAT, Smolenice Castle, Slovak Republic.
+
+**(119)** "Statistical Modeling and Inference under Selections," Cornell University, Ithaca, USA.
+
+**(118)** "Statistical Modeling and Inference under Selections," University of Sao Paulo, Sao Paulo, Brasil.
+
+**(117)** "A Unified View on Skewed Distributions Arising from Selections," EBEB 8, Buzios, Brasil.
+
+**(116)** "Statistical Modeling and Inference under Selections," University of Geneva, Geneva, Switzerland.
 
 **---**
 
@@ -734,26 +735,23 @@ Geneva, Geneva, Switzerland.
 
 **---**
 
-(115) Genton, M. G. (2005), "Statistical modeling and inference under selections", Pontificia
-Universidad Catolica de Chile, Santiago, Chile.
+**(115)** "Statistical Modeling and Inference under Selections," Pontificia Universidad Catolica de Chile, Santiago, Chile.
 
-(114) Genton, M. G. (2006), "Statistical modeling and inference under selections", University of
-Geneva, Geneva, Switzerland.
-(113) Genton, M. G. (2005), "Selections", Chris Field's retirement symposium, Halifax, Canada.
-(112) Genton, M. G. (2005), "On deformations reducing nonstationary stochastic processes to
-stationarity", JSM, Minneapolis, USA.
-(111) Genton, M. G. (2005), "Skew-elliptical distributions and their applications: a trip beyond
-normality", MSI Colloquium, Australian National University, Canberra, Australia.
-(110) Genton, M. G. (2005), "Skew-elliptical distributions and their applications: a trip beyond
-normality", COTS, Dallas, USA.
-(109) Genton, M. G. (2005), "Modeling size of large catastrophic wildfires using skew-elliptical
-distributions", ENAR, Austin, USA.
-(108) Genton, M. G. (2005), "Skew-elliptical distributions and their applications: a trip beyond
-normality", UC Santa Barbara, Santa Barbara, USA.
-(107) 
-"A quantile estimator with
-parametric and nonparametric features", ASA Workshop on Nonparametric Statistics, College
-Station, USA.
+**(114)** "Statistical Modeling and Inference under Selections," University of Geneva, Geneva, Switzerland.
+
+**(113)** "Selections," Chris Field's retirement symposium, Halifax, Canada.
+
+**(112)** "On Deformations Reducing Nonstationary Stochastic Processes to Stationarity," JSM, Minneapolis, USA.
+
+**(111)** "Skew-Elliptical Distributions and Their Applications: A Trip Beyond Normality," MSI Colloquium, Australian National University, Canberra, Australia.
+
+**(110)** "Skew-Elliptical Distributions and Their Applications: A Trip Beyond Normality," COTS, Dallas, USA.
+
+**(109)** "Modeling Size of Large Catastrophic Wildfires using Skew-Elliptical Distributions," ENAR, Austin, USA.
+
+**(108)** "Skew-Elliptical Distributions and Their Applications: A Trip Beyond Normality," UC Santa Barbara, Santa Barbara, USA.
+
+**(107)** "A Quantile Estimator with Parametric and Nonparametric Features," ASA Workshop on Nonparametric Statistics, College Station, USA.
 
 **---**
 
@@ -761,27 +759,25 @@ Station, USA.
 
 **---**
 
-(106) Genton, M. G. (2004), "A unified view on selection distributions", Workshop on skew
-distributions, Guanajuato, Mexico.
-(105) Genton, M. G. (2004), "Separable approximations of space-time covariances", CLATSE
-VI, Concepcion, Chile.
-(104) Genton, M. G. (2004), "Separable approximations of space-time covariances",
-GeoEnv2004, Neuchatel, Switzerland.
-(103) Genton, M. G. (2004), discussion of "Models for spatial-temporal covariances" by Michael
-Stein, IMS Medallion Lecture, JSM, Toronto, Canada.
-(102) Genton, M. G. (2004), "Separable approximations of space-time covariances", TIES /
-Spatial accuracy, Portland (ME), USA.
-(101) Genton, M. G.(2004), "Data mining classification: from Fisher's linear discriminant function
-to Support Vector Machines", Workshop on robustness for large data sets, Banff, Canada.
-(100) Genton, M. G. (2004), "Predictive spatio-temporal models for spatially sparse
-environmental data", Pontificia Universidad Catolica de Chile, Santiago, Chile.
-(99) Genton, M. G. (2004), "Linear mixed effects models with flexible generalized skew-elliptical
-random effects", ISBA, Vina del Mar, Chile.
+**(106)** "A Unified View on Selection Distributions," Workshop on skew distributions, Guanajuato, Mexico.
 
-(98) Genton, M. G. (2004), "Separable approximations of space-time covariances", ENAR,
-Pittsburg, USA.
-(97) Genton, M. G. (2004), "On Fundamental skew distributions", IX CLAPEM, Punta del Este,
-Uruguay.
+**(105)** "Separable Approximations of Space-Time Covariances," CLATSE VI, Concepcion, Chile.
+
+**(104)** "Separable Approximations of Space-Time Covariances," GeoEnv2004, Neuchatel, Switzerland.
+
+**(103)** discussion of "Models for Spatial-Temporal Covariances" by Michael Stein, IMS Medallion Lecture, JSM, Toronto, Canada.
+
+**(102)** "Separable Approximations of Space-Time Covariances," TIES / Spatial accuracy, Portland (ME), USA.
+
+**(101)** "Data Mining Classification: From Fisher's Linear Discriminant Function to Support Vector Machines" Workshop on robustness for large data sets, Banff, Canada.
+
+**(100)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," Pontificia Universidad Catolica de Chile, Santiago, Chile.
+
+**(99)** "Linear Mixed Effects Models with Flexible Generalized Skew-Elliptical Random Effects," ISBA, Vina del Mar, Chile.
+
+**(98)** "Separable Approximations of Space-Time Covariances," ENAR, Pittsburg, USA.
+
+**(97)** "On Fundamental Skew Distributions," IX CLAPEM, Punta del Este, Uruguay.
 
 **(96)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Texas A&M University, College Station, USA.
 
