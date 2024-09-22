@@ -97,22 +97,33 @@ title: Talks
 
 **---**
 
-(369) Genton, M. G. (2020), "Visualization of Functional Data: Curves, Surfaces, and
-Trajectories," Get Together: Friends of CIMAT, 40th Anniversary, Guanajuato, Mexico.
-(368) Genton, M. G. (2020), "Statistical visualization of Complex Data Structures: Curves,
-Surfaces, and Trajectories," AMCS/STAT Winter School, KAUST, KSA.
-(367) Genton, M. G. (2019), "Visualization of Functional Data: Curves, Surfaces, and
-Trajectories," 45th SOCHE, Puerto Varas, Chile.
-(366) Genton, M. G. (2019), "Functional Boxplots for Multivariate Curves," ISI, Kuala Lumpur,
-Malaysia.
-(365) Genton, M. G. (2019), "Reinaldo Arellano-Valle: Mahalanobis Award," ISI, Kuala Lumpur,
-Malaysia.
-(364) Genton, M. G. (2019), "Assessing Wind Energy Resources in the New Mega-City NEOM,"
-JSM, Denver, USA.
-(363) Genton, M. G. (2019), "Trajectory Functional Boxplots," GRASPA-SIS-TIES, Pescara,
-Italy.
-(362) Genton, M. G. (2019), "Functional Data Visualization for Medical Data Science,"
-Workshop on Statistical Challenges in Medical Data Science, Ascona, Switzerland.
+**(369)** "Visualization of Functional Data: Curves, Surfaces, and Trajectories," Get Together: Friends of CIMAT, 40th Anniversary, Guanajuato, Mexico.
+
+**(368)** "Statistical visualization of Complex Data Structures: Curves, Surfaces, and Trajectories," AMCS/STAT Winter School, KAUST, KSA.
+
+**---**
+
+**---2019---------------------------**
+
+**---**
+
+**(367)** "Visualization of Functional Data: Curves, Surfaces, and Trajectories," 45th SOCHE, Puerto Varas, Chile.
+
+**(366)** "Functional Boxplots for Multivariate Curves," ISI, Kuala Lumpur, Malaysia.
+
+**(365)** "Reinaldo Arellano-Valle: Mahalanobis Award," ISI, Kuala Lumpur, Malaysia.
+
+**(364)** "Assessing Wind Energy Resources in the New Mega-City NEOM," JSM, Denver, USA.
+
+**(363)** "Trajectory Functional Boxplots," GRASPA-SIS-TIES, Pescara, Italy.
+
+**(362)** "Functional Data Visualization for Medical Data Science," Workshop on Statistical Challenges in Medical Data Science, Ascona, Switzerland.
+
+**---**
+
+**---2018---------------------------**
+
+**---**
 
 (361) Genton, M. G. (2018), "Functional Boxplots for Multivariate Curves," Workshop on
 Econometrics and Data Science, Monterrey, Mexico.
@@ -141,6 +152,13 @@ g-and-h Autoregressive Processes," University of Florida, Gainesville, USA.
 g-and-h Autoregressive Processes," Florida State University, Tallahassee, USA.
 (348) Genton, M. G. (2018), "Directional Outlyingness for Multivariate Functional Data," TSIMF,
 Sanya, China.
+
+**---**
+
+**---2017---------------------------**
+
+**---**
+
 (347) Genton, M. G. (2017), "Assessing Potential Wind Energy Resources with a Skew-t
 Distribution," Memorial Workshop for Antonella Capitanio, Bologna, Italy.
 (346) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data,"
@@ -187,6 +205,13 @@ A&M University, College Station, USA.
 University, Houston, USA.
 (324) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," PUC,
 Santiago, Chile.
+
+**---**
+
+**---2016---------------------------**
+
+**---**
+
 (323) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data," ERCIM,
 Seville, Spain.
 (322) Genton, M. G. (2016), "Visuanimation in Statistics," Workshop on Statistics for
@@ -230,6 +255,13 @@ Cincinnati, USA.
 India.
 (301) Genton, M. G. (2016), "Tukey g-and-h Random Fields," Indian Statistical Institute, Kolkata,
 India.
+
+**---**
+
+**---2015---------------------------**
+
+**---**
+
 (300) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," CSA
 Triennials, Kolkata, India.
 (299) Genton, M. G. (2015), "Tukey g-and-h Random Fields," International Conference on
@@ -275,6 +307,13 @@ Catolica de Chile, Santiago, Chile.
 
 (280) Genton, M. G. (2015), "High-order composite likelihood inference for max-stable
 distributions and processes," Seismomatics, Valparaiso, Chile.
+
+**---**
+
+**---2014---------------------------**
+
+**---**
+
 (279) Genton, M. G. (2014), "High-order composite likelihood inference for max-stable
 distributions and processes," CFE-ERCIM, Pisa, Italy.
 (278) Genton, M. G. (2014), "High-order composite likelihood inference for max-stable
@@ -313,6 +352,13 @@ space-time short-term wind speed forecasting and power system dispatch," Isaac N
 Institute, Cambridge, UK.
 (262) Genton, M. G. (2014), "Multivariate spatial max-stable processes," Workshop on UQ,
 Thuwal, Saudi Arabia.
+
+**---**
+
+**---2013---------------------------**
+
+**---**
+
 (261) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
 An application to precipitation and climate model output" and "Paradigms for a 21st century
 university," Ohio State University, Columbus, USA.
@@ -350,6 +396,13 @@ university," University of Wisconsin Madison, Madison, USA.
 (248) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
 An application to precipitation and climate model output" and "Paradigms for a 21st century
 university," University of Illinois at Urbana-Champaign, Urbana, USA.
+
+**---**
+
+**---2012---------------------------**
+
+**---**
+
 (247) Genton, M. G. (2012), "Weighted composite likelihood for spatial max-stable processes,"
 Spatial Statistics Conference, Miami, USA.
 (246) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
@@ -384,6 +437,13 @@ Biomedicine and Geophysics Workshop, Salt Lake City, USA.
 Texas A&M University, College Station, USA.
 (232) Genton, M. G. (2012), "A new look at skew-normal distributions," Skew-tea, Texas A&M
 University, College Station, USA.
+
+**---**
+
+**---2011---------------------------**
+
+**---**
+
 (231) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
 An application to precipitation and climate model output," University of Geneva, Geneva,
 Switzerland.
@@ -454,6 +514,13 @@ workshop on data visualization, College Station, USA.
 University, Fort Collins, USA.
 (201) Genton, M. G. (2011), "Functional boxplots for complex data visualization," Hong Kong
 Baptist University, Hong Kong, China.
+
+**---**
+
+**---2010---------------------------**
+
+**---**
+
 (200) Genton, M. G. (2010), "Powering up with space-time wind forecasting," Shanghai
 University of Finance and Economics, Shanghai, China.
 (199) Genton, M. G. (2010), "Powering up with space-time wind forecasting," Xiamen University,
@@ -512,6 +579,13 @@ Advances And Challenges In Space-time Modelling Of Natural Events, Toledo, Spain
 Space-time Modelling Of Natural Events, Toledo, Spain.
 (173) Genton, M. G. (2010), "Correcting for signal attenuation from noise: Sharpening the focus
 on past climate," Climate Change Workshop at SAMSI, RTP, USA.
+
+**---**
+
+**---2009---------------------------**
+
+**---**
+
 (172) Genton, M. G. (2009), "An overview of geostatistical space-time models: Stationarity,
 separability, full symmetry, and beyond,'' Spatio-temporal extremes and applications, EPFL,
 Lausanne, Switzerland.
@@ -549,6 +623,13 @@ on past climate," Poster at Conference on Statistical Methods for Complex Data: 
 Ray Carroll's 60th birthday, College Station, USA.
 (157) Genton, M. G. (2009), "Powering up with space-time wind forecasting," 11th Regression
 School, Recife, Brasil.
+
+**---**
+
+**---2008---------------------------**
+
+**---**
+
 (156) Genton, M. G. (2008), "Powering up with space-time wind forecasting," University of
 Toulouse 1, Toulouse, France.
 (155) Genton, M. G. (2008), "Powering up with space-time wind forecasting," ENAC-EPFL,
@@ -585,6 +666,13 @@ distributions," University of Zuerich, Zuerich, Switzerland.
 EBEB, Sao Sebastiao, Brasil.
 (140) Genton, M. G. (2008), "Kronecker product approximation of covariance and other
 matrices," NCAR, USA.
+
+**---**
+
+**---2007---------------------------**
+
+**---**
+
 (139) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions," Free University of Bruxelles, Bruxelles, Belgium.
 (138) Genton, M. G. (2007), "Kronecker product approximation," International Workshop on
@@ -612,6 +700,13 @@ functions," 10th Regression School, Salvador, Brazil.
 distribution", 10th Regression School, Salvador, Brazil.
 (127) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions", Ninth Annual Winter Workshop, Gainesville, USA.
+
+**---**
+
+**---2006---------------------------**
+
+**---**
+
 (126) Genton, M. G. (2006), "Climate, Environment and Economy", Inaugural Lesson, Geneva,
 Switzerland.
 (125) Genton, M. G. (2006), "Modeling and inference based on the multivariate skew-t
@@ -632,6 +727,13 @@ Sao Paulo, Sao Paulo, Brasil.
 EBEB 8, Buzios, Brasil.
 (116) Genton, M. G. (2006), "Statistical modeling and inference under selections", University of
 Geneva, Geneva, Switzerland.
+
+**---**
+
+**---2005---------------------------**
+
+**---**
+
 (115) Genton, M. G. (2005), "Statistical modeling and inference under selections", Pontificia
 Universidad Catolica de Chile, Santiago, Chile.
 
@@ -648,9 +750,17 @@ normality", COTS, Dallas, USA.
 distributions", ENAR, Austin, USA.
 (108) Genton, M. G. (2005), "Skew-elliptical distributions and their applications: a trip beyond
 normality", UC Santa Barbara, Santa Barbara, USA.
-(107) Genton, M. G. (with. M. Hagmann and O. Scaillet) (2005), "A quantile estimator with
+(107) 
+"A quantile estimator with
 parametric and nonparametric features", ASA Workshop on Nonparametric Statistics, College
 Station, USA.
+
+**---**
+
+**---2004---------------------------**
+
+**---**
+
 (106) Genton, M. G. (2004), "A unified view on selection distributions", Workshop on skew
 distributions, Guanajuato, Mexico.
 (105) Genton, M. G. (2004), "Separable approximations of space-time covariances", CLATSE
@@ -672,201 +782,262 @@ random effects", ISBA, Vina del Mar, Chile.
 Pittsburg, USA.
 (97) Genton, M. G. (2004), "On Fundamental skew distributions", IX CLAPEM, Punta del Este,
 Uruguay.
-(96) Genton, M. G. (2004), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", Texas A&M University, College Station, USA.
-(95) Genton, M. G. (2004), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", UC Santa Cruz, Santa Cruz, USA.
-(94) Genton, M. G. (2004), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", UC Irvine, Irvine, USA.
-(93) Genton, M. G. (2004), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", Ohio State University, Columbus, USA.
-(92) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", Dalhousie University, Halifax, Canada.
-(91) Genton, M. G. (2003), "Predictive spatio-temporal models for spatially sparse
-environmental data", Environmental Working Group, North Carolina State University, Raleigh,
-USA.
-(90) Genton, M. G. (2003), "Spatio-temporal autoregressive models for US unemployment rate",
-LSU Econometrics Conference on Spatial and Spatiotemporal Econometrics, Baton Rouge,
-USA.
-(89) Genton, M. G. (2003), "Predictive spatio-temporal models for spatially sparse
-environmental data", SCRA 2003, Portland (ME), USA.
-(88) Genton, M. G. (2003), "Predictive spatio-temporal models for spatially sparse
-environmental data", NSF/NBER Time Series Conference in Honor of George C. Tiao's
-retirement, Chicago, USA.
-(87) Genton, M. G. (2003), "From Fisher's linear discriminant function to Support Vector
-Machines", GlaxoSmithKlein, Research Triangle Park, USA.
-(86) Genton, M. G. (2003), "Predictive spatio-temporal models for spatially sparse
-environmental data", JSM, San Francisco, USA.
-(85) Genton, M. G. (with D. Boos and L. Stefanski) (2003), "Robust likelihood for correlated
-data," International Conference on ROBUST STATISTICS, Antwerpen, Belgium.
-(84) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality," University Toulouse I, Toulouse, France.
 
-(83) Genton, M. G. (2003), "Predictive spatio-temporal models for spatially sparse
-environmental data", SAMSI/GSP Workshop on Spatio-Temporal Modeling, Boulder, USA.
-(82) Genton, M. G. (2003), "Skew-elliptical distributions for environmental data", SAMSI/GSP
-Workshop on Spatio-Temporal Modeling, Boulder, USA.
-(81) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", NCAR, Boulder, USA.
-(80) Genton, M. G. (with Yanyuan Ma) (2003), "A semiparametric class of generalized
-skew-elliptical distributions", 17th New England Statistics Symposium, Storrs, USA.
-(79) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", Harvard University, Cambridge, USA.
-(78) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", Boston University, Boston, USA.
-(77) Genton, M. G. (2003), "Skew-symmetric and skew-elliptical distributions: a trip beyond
-normality", NCSU, ECE Department, Raleigh, USA.
-(76) Genton, M. G. (2003), "On a time deformation reducing nonstationary stochastic processes
-to local stationarity", ENAR, Tampa, USA.
-(75) Genton, M. G. (with Yanyuan Ma) (2003), "Semiparametric skew-elliptical distributions",
-ENAR, Tampa, USA.
-(74) Genton, M. G. (2003), "Skew-symmetric and generalized skew-elliptical distributions: theory
-and applications", 8a Escola de Modelos de Regressao, Conservatoria - Rio de Janeiro, Brazil.
-(73) Genton, M. G. (with Yanyuan Ma) (2003), "Semiparametric generalized skew-elliptical
-distributions", 8a Escola de Modelos de Regressao, Conservatoria - Rio de Janeiro, Brazil.
-(72) Genton, M. G.(2002), "Skew-elliptical distributions and their applications", Swiss Federal
-Institute of Technology, Lausanne, Switzerland.
-(71) Genton, M. G. (2002), "Skew-elliptical distributions and their applications", Umea
-University, Umea, Sweden.
-(70) Genton, M. G. (2002), "Breakdown-point for spatial and temporal econometric models",
-Triangle Econometrics Conference, Research Triangle Park, USA.
-(69) Genton, M. G.(2002), "Data mining classification: from Fisher's linear discriminant function
-to Support Vector Machines", GlaxoSmithKline, Research Triangle Park, USA.
-(68) Genton, M. G. (2002), "Skew-elliptical distributions and their applications", U.S. Army
-Conference on Applied Statistics, Raleigh, USA.
+**(96)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Texas A&M University, College Station, USA.
 
-(67) Genton, M. G. (with X. de Luna) (2002), "Predictive models for nonstationary
-spatio-temporal data", JSM, New York, USA.
-(66) Genton, M. G. (2002), "Robust Indirect Inference for Stochastic Differential Equations",
-JSM, New York, USA.
-(65) Genton, M. G. (with N. Loperfido)(2002), "Generalized skew-elliptical distributions and their
-quadratic forms", JSM, New York, USA.
-(64) Genton, M. G. (2002), "Robustness issues for spatially and temporally correlated data",
-IMS Annual Meeting, Banff, Canada.
-(63) Genton, M. G. (2002), "Skew-elliptical distributions and their applications", University of
-Geneva, Geneva, Switzerland.
-(62)Genton, M. G. (2002), "Robust Indirect Inference", Fudan University, Shanghai, China.
-(61) Genton, M. G. (with X. de Luna) (2002), "Predictive models for nonstationary
-spatio-temporal data", invited to SRCOS/ASA Summer Research Conference, Natchez, USA.
-(60) Genton, M. G. (2002), "Robust Indirect Inference", University of Washington, Seattle, USA.
-(59) Genton, M. G. (2002), "Support Vector Machines and Robust Regression for Large Data
-Sets: What's the link?", International Workshop on Computational Methods for Robust Statistics,
-Vancouver, Canada.
-(58) Genton, M. G. (2002), "Robust Indirect Inference for Dependent Observations", Invited to
-the International Conference on ROBUST STATISTICS, Vancouver, Canada.
-(57) Genton, M. G. (2002), "Robust Indirect Inference", Nestle Research Center,
-Vers-chez-les-Blanc, Switzerland.
-(56) Genton, M. G. (2002), "Robust Indirect Inference", NCSU, ECE Department, Raleigh, USA.
-(55) Genton, M. G. (2002), "Robust Indirect Inference", UCLA, Los Angeles, USA.
-(54) Genton, M. G. (2001), "Breakdown-point for spatially correlated observations", VIII Latin
-American congress in Probability and Mathematical Statistics, NSF Travel Award, Havana,
-Cuba.
-(53) Genton, M. G. (2001), "Robustness for Correlated Data", Dalhousie University, Halifax,
-Canada.
-(52) Genton, M. G. (2001), "Robust Indirect Inference", Dalhousie University, Halifax, Canada.
-(51) Genton, M. G. (2001), "Robustness, Distributions, and Nonstationarity in Spatial Statistics",
-NCAR, Boulder, USA.
+**(95)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," UC Santa Cruz, Santa Cruz, USA.
 
-(50) Genton, M. G. (2001), "Robust Indirect Inference", NCAR, Boulder, USA.
-(49) Genton, M. G. (2001), "Robust Indirect Inference", Colorado State University, Fort Collins,
-USA.
-(48) Genton, M. G. (2001), "Robust Indirect Inference", Colorado University, Denver, USA.
-(47) Genton, M. G. (2001), "Global Measures of Robustness for Correlated Data", Invited
-speaker to the Joint Statistical Meeting, Atlanta, USA.
-(46) Genton, M. G. (2001), "Breakdown-point for Correlated Observations", Invited speaker to
-the International Conference on ROBUST STATISTICS, Vorau, Austria.
-(45) Genton, M. G. (2001), "Spatial Statistics and Linear Algebra", Minisymposium, SIAM
-Annual Meeting, San Diego, USA.
-(44) Genton, M. G. (2001), "Robust Indirect Inference", Universite Toulouse 1, Toulouse, France
-(43) Genton, M. G. (2001), "Robust Indirect Inference", ECARES, Bruxelles, Belgium.
-(42) Genton, M. G. (2001), "Robust Indirect Inference", EURandom, Eindhoven, The
-Netherlands.
-(41) Genton, M. G. (2001), "Robust Indirect Inference", Vrije University, Amsterdam, The
-Netherlands.
-(40) Genton, M. G. (2001), "Robust Indirect Inference", University of Fribourg, Fribourg,
-Switzerland.
-(39) Genton, M. G. (2001), "Robust Inference for Correlated Data", Contemporary methods of
-data analysis: theory and practice, Conference dedicated to the memory of John W. Tukey,
-Buenos Aires, Argentina.
-(38) Genton, M. G. (2001), "Robust Inference for Correlated Data", University of North Carolina
-at Chapel Hill, Chapel Hill, USA.
-(37) Genton, M. G. (2001), "Robust Indirect Inference", Wayne State University, Detroit, USA.
-(36) Genton, M. G. (2001), "Spatial Models for Road Roughness Characterization", U.S. Army
-TACOM, Warren, USA.
-(35) Genton, M. G. (2001), "Robust Indirect Inference", Michigan State University, East Lansing,
-USA
-(34) Genton, M. G. (2000), "Robust Inference for Correlated Data", University of Geneva,
-Geneva, Switzerland.
+**(94)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," UC Irvine, Irvine, USA.
 
-(33) Gorsich, D., Genton, M. G. (2000), "Road Characterization for Vehicle Contract
-Specification", 22nd Army Science Conference, Baltimore, USA.
-(32) Genton, M. G. (2000), "On Nonparametric Variogram and Covariogram Estimation",
-Environmental Working Group, North Carolina State University, Raleigh, USA.
-(31) Genton, M. G. (2000), "A sampler of faculty research programs," North Carolina State
-University, Raleigh, USA.
-(30) Genton, M. G. (2000), "Simulation-based Inference for Simultaneous Processes", Invited
-speaker to the International Conference on Statistics in the 21st Century, University of Maine,
-Orono, USA.
-(29) Genton, M. G. (2000), "Robust Simulation-based Estimation", New England Statistics
-Symposium, Brown University, Providence, USA.
-(28) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-Yale University, New Heaven, USA.
-(27) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-The University of Chicago, Chicago, USA.
-(26) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-Swiss Federal Institute of Technology, Lausanne, Switzerland.
-(25) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-University of Southern California, Los Angeles, USA.
-(24) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-Stochastic Systems Group, M.I.T., Cambridge, USA.
-(23) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-University of Wisconsin, Madison, USA.
-(22) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-North Carolina State University, Raleigh, USA.
-(21) Genton, M. G. (2000), "Robust Simulation-based Estimation of ARMA and STAR Models",
-University of Connecticut, Storrs, USA.
-(20) Genton, M. G. (1999), "Robust Interpolation of Spatial Data", NACOG 99, Austin, Texas,
-USA.
-(19) Genton, M. G. (1999), "Simulation-based Robust Estimation of ARMA and STAR Models",
-Columbia University, New York City, USA.
+**(93)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Ohio State University, Columbus, USA.
 
-(18) Genton, M. G. (1999), "Indirect inference for spatio-temporal autoregression models",
-Spatial-temporal modeling and its application, Leeds, UK.
-(17) Genton, M. G. (1999), "Robust Spatial Prediction of Global Radiation in Switzerland",
-Statistics in the Sciences: Environmetrics, Genetics, and Related Topics, Ascona, Switzerland.
-(16) Genton, M. G. (1999),"Simulation-based Robust Estimation of ARMA Models", 13th New
-England Statistics Symposium, University of Connecticut, Storrs, USA.
-(15) Genton, M. G. (1999), "Simulation-based Robust Estimation of ARMA Models", M.I.T.
-Statistics Seminar, Cambridge, USA.
-(14) Genton, M. G. (1999), "Robustness Issues in Spatial Statistics", Stochastic Systems Group,
-M.I.T., Cambridge, USA.
-(13) Genton, M. G. (1999), "On some Robustness Problems in Spatial Statistics", U.S. Army
-TACOM, Warren, Michigan, USA.
-(12) Genton, M. G. (1998), "Robust Variogram Analysis of Spatial Data", University College
-London, London, UK.
-(11) Genton, M. G. (1998), "Robustness Problems in the Analysis of Spatial Data", Workshop on
-Applications of Spatial Statistics in Earth, Environmental and Health Sciences, Montreal,
-Canada.
-(10) Genton, M. G. (1998), "On the Correlation Structure of the Classical Variogram Estimator
-and the Sample Autocovariance Function for Elliptically Contoured Distributions", 12th New
-England Statistics Symposium, M.I.T., Cambridge, USA.
-(9) Genton, M. G. (1998), "On the robustness properties of variogram estimators and their fit,"
-Department of Statistics at North Carolina State University, Raleigh, USA.
-(8) Genton, M. G. (1997), "Robustness is spatial statistics", 50th Anniversary of the Department
-of Statistics at Iowa State University, Ames, USA.
-(7) Genton, M. G. (1997), "Robustness in Spatial Data Analysis", M.I.T. Statistics Seminar,
-Cambridge, USA.
-(6) Genton, M. G. (1997), "Robust variogram fitting", 3ème cycle Romand de Statistique, Villars,
-Switzerland.
-(5) Genton, M. G. (1997), "Introduction à la Géostatistique", séminaire de préparation au 3ème
-cycle Romand de Statistique, Lausanne, Switzerland.
-(4) Genton, M. G. (1996), "Variogram fitting by generalized least squares using an explicit
-formula for the covariance structure", 4th World Congress of the Bernoulli Society, Vienna,
-Austria.
+**---**
 
-(3) Genton, M. G. (1995), "Robustness in variogram estimation", Bulletin of the International
-Statistical Institute, Beijing, China.
-(2) Genton, M. G., Rousseeuw, P. J. (1994), "The change-of-variance function of M-estimators
-of scale under general contamination", XXVIe Journées de Statistique, Neuchâtel, Switzerland.
-(1) Genton, M. G. (1993), "Mixed numerical / Monte Carlo integration," Bulletin of the
-International Statistical Institute, Firenze, Italy.
+**---2003---------------------------**
+
+**---**
+
+**(92)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Dalhousie University, Halifax, Canada.
+
+**(91)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," Environmental Working Group, North Carolina State University, Raleigh, USA.
+
+**(90)** "Spatio-Temporal Autoregressive Models for US Unemployment Rate", LSU Econometrics Conference on Spatial and Spatiotemporal Econometrics, Baton Rouge, USA.
+
+**(89)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," SCRA 2003, Portland (ME), USA.
+
+**(88)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," NSF/NBER Time Series Conference in Honor of George C. Tiao's retirement, Chicago, USA.
+
+**(87)** "From Fisher's Linear Discriminant Function to Support Vector Machines," GlaxoSmithKlein, Research Triangle Park, USA.
+
+**(86)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," JSM, San Francisco, USA.
+
+**(85)** "Robust Likelihood for Correlated Data," International Conference on ROBUST STATISTICS, Antwerpen, Belgium.
+
+**(84)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," University Toulouse I, Toulouse, France.
+
+**(83)** "Predictive Spatio-Temporal Models for Spatially Sparse Environmental Data," SAMSI/GSP Workshop on Spatio-Temporal Modeling, Boulder, USA.
+
+**(82)** "Skew-Elliptical Distributions for Environmental Data," SAMSI/GSP Workshop on Spatio-Temporal Modeling, Boulder, USA.
+
+**(81)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," NCAR, Boulder, USA.
+
+**(80)** "A Semiparametric Class of Generalized Skew-Elliptical Distributions," 17th New England Statistics Symposium, Storrs, USA.
+
+**(79)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Harvard University, Cambridge, USA.
+
+**(78)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," Boston University, Boston, USA.
+
+**(77)** "Skew-Symmetric and Skew-Elliptical Distributions: A Trip Beyond Normality," NCSU, ECE Department, Raleigh, USA.
+
+**(76)** "On a Time Deformation Reducing Nonstationary Stochastic Processes to Local Stationarity," ENAR, Tampa, USA.
+
+**(75)** "Semiparametric Skew-Elliptical Distributions," ENAR, Tampa, USA.
+
+**(74)** "Skew-Symmetric and Generalized Skew-Elliptical Distributions: Theory and Applications," 8a Escola de Modelos de Regressao, Conservatoria - Rio de Janeiro, Brazil.
+
+**(73)** "Semiparametric Generalized Skew-Elliptical Distributions," 8a Escola de Modelos de Regressao, Conservatoria - Rio de Janeiro, Brazil.
+
+**---**
+
+**---2002---------------------------**
+
+**---**
+
+**(72)** "Skew-Elliptical Distributions and Their Applications," Swiss Federal Institute of Technology, Lausanne, Switzerland.
+
+**(71)** "Skew-Elliptical Distributions and Their Applications," Umea University, Umea, Sweden.
+
+**(70)** "Breakdown-point for Spatial and Temporal Econometric Models," Triangle Econometrics Conference, Research Triangle Park, USA.
+
+**(69)** "Data Mining Classification: from Fisher's Linear Discriminant Function to Support Vector Machines," GlaxoSmithKline, Research Triangle Park, USA.
+
+**(68)** "Skew-Elliptical Distributions and Their Applications," U.S. Army Conference on Applied Statistics, Raleigh, USA.
+
+**(67)** "Predictive Models for Nonstationary Spatio-Temporal Data," JSM, New York, USA.
+
+**(66)** "Robust Indirect Inference for Stochastic Differential Equations", JSM, New York, USA.
+
+**(65)** "Generalized Skew-Elliptical Distributions and Their Quadratic Forms," JSM, New York, USA.
+
+**(64)** "Robustness Issues for Spatially and Temporally Correlated Data," IMS Annual Meeting, Banff, Canada.
+
+**(63)** "Skew-Elliptical Distributions and Their Applications," University of Geneva, Geneva, Switzerland.
+
+**(62)** "Robust Indirect Inference," Fudan University, Shanghai, China.
+
+**(61)** "Predictive Models for Nonstationary Spatio-Temporal Data," invited to SRCOS/ASA Summer Research Conference, Natchez, USA.
+
+**(60)** "Robust Indirect Inference," University of Washington, Seattle, USA.
+
+**(59)** "Support Vector Machines and Robust Regression for Large Data Sets: What's the link?," International Workshop on Computational Methods for Robust Statistics, Vancouver, Canada.
+
+**(58)** "Robust Indirect Inference for Dependent Observations," Invited to the International Conference on ROBUST STATISTICS, Vancouver, Canada.
+
+**(57)** "Robust Indirect Inference," Nestle Research Center, Vers-chez-les-Blanc, Switzerland.
+
+**(56)** "Robust Indirect Inference," NCSU, ECE Department, Raleigh, USA.
+
+**(55)** "Robust Indirect Inference," UCLA, Los Angeles, USA.
+
+**---**
+
+**---2001---------------------------**
+
+**---**
+
+**(54)** "Breakdown-point for spatially correlated observations," VIII Latin American congress in Probability and Mathematical Statistics, NSF Travel Award, Havana, Cuba.
+
+**(53)** "Robustness for Correlated Data," Dalhousie University, Halifax, Canada.
+
+**(52)** "Robust Indirect Inference," Dalhousie University, Halifax, Canada.
+
+**(51)** "Robustness, Distributions, and Nonstationarity in Spatial Statistics," NCAR, Boulder, USA.
+
+**(50)** "Robust Indirect Inference," NCAR, Boulder, USA.
+
+**(49)** "Robust Indirect Inference," Colorado State University, Fort Collins, USA.
+
+**(48)** "Robust Indirect Inference," Colorado University, Denver, USA.
+
+**(47)** "Global Measures of Robustness for Correlated Data," Invited speaker to the Joint Statistical Meeting, Atlanta, USA.
+
+**(46)** "Breakdown-point for Correlated Observations," Invited speaker to the International Conference on ROBUST STATISTICS, Vorau, Austria.
+
+**(45)** "Spatial Statistics and Linear Algebra," Minisymposium, SIAM Annual Meeting, San Diego, USA.
+
+**(44)** "Robust Indirect Inference," Universite Toulouse 1, Toulouse, France
+
+**(43)** "Robust Indirect Inference," ECARES, Bruxelles, Belgium.
+
+**(42)** "Robust Indirect Inference," EURandom, Eindhoven, The Netherlands.
+
+**(41)** "Robust Indirect Inference," Vrije University, Amsterdam, The Netherlands.
+
+**(40)** "Robust Indirect Inference," University of Fribourg, Fribourg, Switzerland.
+
+**(39)** "Robust Inference for Correlated Data," Contemporary methods of data analysis: theory and practice, Conference dedicated to the memory of John W. Tukey, Buenos Aires, Argentina.
+
+**(38)** "Robust Inference for Correlated Data," University of North Carolina at Chapel Hill, Chapel Hill, USA.
+
+**(37)** "Robust Indirect Inference," Wayne State University, Detroit, USA.
+
+**(36)** "Spatial Models for Road Roughness Characterization," U.S. Army TACOM, Warren, USA.
+
+**(35)** "Robust Indirect Inference," Michigan State University, East Lansing, USA
+
+**---**
+
+**---2000---------------------------**
+
+**---**
+
+**(34)** "Robust Inference for Correlated Data," University of Geneva, Geneva, Switzerland.
+
+**(33)** "Road Characterization for Vehicle Contract Specification," 22nd Army Science Conference, Baltimore, USA.
+
+**(32)** "On Nonparametric Variogram and Covariogram Estimation," Environmental Working Group, North Carolina State University, Raleigh, USA.
+
+**(31)** "A Sampler of Faculty Research Programs," North Carolina State University, Raleigh, USA.
+
+**(30)** "Simulation-based Inference for Simultaneous Processes," Invited speaker to the International Conference on Statistics in the 21st Century, University of Maine, Orono, USA.
+
+**(29)** "Robust Simulation-based Estimation," New England Statistics Symposium, Brown University, Providence, USA.
+
+**(28)** "Robust Simulation-based Estimation of ARMA and STAR Models," Yale University, New Heaven, USA.
+
+**(27)** "Robust Simulation-based Estimation of ARMA and STAR Models," The University of Chicago, Chicago, USA.
+
+**(26)** "Robust Simulation-based Estimation of ARMA and STAR Models," Swiss Federal Institute of Technology, Lausanne, Switzerland.
+
+**(25)** "Robust Simulation-based Estimation of ARMA and STAR Models," University of Southern California, Los Angeles, USA.
+
+**(24)** "Robust Simulation-based Estimation of ARMA and STAR Models," Stochastic Systems Group, M.I.T., Cambridge, USA.
+
+**(23)** "Robust Simulation-based Estimation of ARMA and STAR Models," University of Wisconsin, Madison, USA.
+
+**(22)** "Robust Simulation-based Estimation of ARMA and STAR Models," North Carolina State University, Raleigh, USA.
+
+**(21)** "Robust Simulation-based Estimation of ARMA and STAR Models," University of Connecticut, Storrs, USA.
+
+**---**
+
+**---1999---------------------------**
+
+**---**
+
+**(20)** "Robust Interpolation of Spatial Data," NACOG 99, Austin, Texas, USA.
+
+**(19)** "Simulation-based Robust Estimation of ARMA and STAR Models," Columbia University, New York City, USA.
+
+**(18)** "Indirect Inference for Spatio-Temporal Autoregression Models," Spatial-temporal modeling and its application, Leeds, UK.
+
+**(17)** Genton, M. G. (1999), "Robust Spatial Prediction of Global Radiation in Switzerland," Statistics in the Sciences: Environmetrics, Genetics, and Related Topics, Ascona, Switzerland.
+
+**(16)** "Simulation-based Robust Estimation of ARMA Models," 13th New England Statistics Symposium, University of Connecticut, Storrs, USA.
+
+**(15)** "Simulation-based Robust Estimation of ARMA Models," M.I.T. Statistics Seminar, Cambridge, USA.
+
+**(14)** "Robustness Issues in Spatial Statistics," Stochastic Systems Group, M.I.T., Cambridge, USA.
+
+**(13)** "On some Robustness Problems in Spatial Statistics," U.S. Army TACOM, Warren, Michigan, USA.
+
+**---**
+
+**---1998---------------------------**
+
+**---**
+
+**(12)** "Robust Variogram Analysis of Spatial Data," University College London, London, UK.
+
+**(11)** Genton, M. G. (1998), "Robustness Problems in the Analysis of Spatial Data," Workshop on Applications of Spatial Statistics in Earth, Environmental and Health Sciences, Montreal, Canada.
+
+**(10)** "On the Correlation Structure of the Classical Variogram Estimator and the Sample Autocovariance Function for Elliptically Contoured Distributions," 12th New England Statistics Symposium, M.I.T., Cambridge, USA.
+
+**(9)** "On the Robustness Properties of Variogram Estimators and their Fit," Department of Statistics at North Carolina State University, Raleigh, USA.
+
+**---**
+
+**---1997---------------------------**
+
+**---**
+
+**(8)** "Robustness is Spatial Statistics," 50th Anniversary of the Department of Statistics at Iowa State University, Ames, USA.
+
+**(7)** "Robustness in Spatial Data Analysis," M.I.T. Statistics Seminar, Cambridge, USA.
+
+**(6)** "Robust Variogram Fitting," 3ème cycle Romand de Statistique, Villars, Switzerland.
+
+**(5)** "Introduction à la Géostatistique," séminaire de préparation au 3ème cycle Romand de Statistique, Lausanne, Switzerland.
+
+**---**
+
+**---1996---------------------------**
+
+**---**
+
+**(4)** "Variogram Fitting by Generalized Least Squares using an Explicit Formula for the Covariance Structure," 4th World Congress of the Bernoulli Society, Vienna, Austria.
+
+**---**
+
+**---1995---------------------------**
+
+**---**
+
+**(3)** "Robustness in Variogram Estimation," Bulletin of the International Statistical Institute, Beijing, China.
+
+**---**
+
+**---1994---------------------------**
+
+**---**
+
+**(2)** "The Change-of-Variance Function of M-Estimators of Scale under General Contamination," XXVIe Journées de Statistique, Neuchâtel, Switzerland.
+
+**---**
+
+**---1993---------------------------**
+
+**---**
+
+**(1)** "Mixed Numerical / Monte Carlo Integration," Bulletin of the International Statistical Institute, Firenze, Italy.
+
