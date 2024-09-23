@@ -673,32 +673,43 @@ matrices," NCAR, USA.
 
 **---**
 
-(139) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+**(139)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions," Free University of Bruxelles, Bruxelles, Belgium.
-(138) Genton, M. G. (2007), "Kronecker product approximation," International Workshop on
+
+**(138)** Genton, M. G. (2007), "Kronecker product approximation," International Workshop on
 Robust Statistics and R, Banff, Canada.
-(137) Genton, M. G. (2007), "Selections 2: The Return," ICORS07, Buenos Aires, Argentina.
-(136) Genton, M. G. (2007), "Estimation of covariogram models by minimum prediction contrast
+
+**(137)** Genton, M. G. (2007), "Selections 2: The Return," ICORS07, Buenos Aires, Argentina.
+
+**(136)** Genton, M. G. (2007), "Estimation of covariogram models by minimum prediction contrast
 for kriging," JSM, Salt Lake City, USA.
-(135) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(135)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions," University of Padova, Padova, Italy.
-(134) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(134)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions," Workshop on Spatial Statistics, University of Paris 1, Paris, France.
-(133) Genton, M. G. (2007), "Robust likelihood methods based on the skew-t and related
+
+**(133)** Genton, M. G. (2007), "Robust likelihood methods based on the skew-t and related
 distributions," International Workshop on Computational and Financial Econometrics, Geneva,
 Switzerland.
-(132) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(132)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions", 32nd Spring Lecture Series, University of Arkansas, Fayetteville, USA.
-(131) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(131**) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions", Pontificia Universidad Catolica de Chile, Santiago, Chile.
 
-(130) Genton, M. G. (2007), "Climate, Environment and Economy", Federal University of Minas
+**(130)** Genton, M. G. (2007), "Climate, Environment and Economy", Federal University of Minas
 Gerais, Belo Horizonte, Brazil.
-(129) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(129)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions," 10th Regression School, Salvador, Brazil.
-(128) Genton, M. G. (2007), "Modeling and inference based on the multivariate skew-t
+
+**(128)** Genton, M. G. (2007), "Modeling and inference based on the multivariate skew-t
 distribution", 10th Regression School, Salvador, Brazil.
-(127) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
+
+**(127)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
 functions", Ninth Annual Winter Workshop, Gainesville, USA.
 
 **---**
