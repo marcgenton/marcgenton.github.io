@@ -630,42 +630,39 @@ School, Recife, Brasil.
 
 **---**
 
-(156) Genton, M. G. (2008), "Powering up with space-time wind forecasting," University of
-Toulouse 1, Toulouse, France.
-(155) Genton, M. G. (2008), "Powering up with space-time wind forecasting," ENAC-EPFL,
-Lausanne, Switzerland.
-(154) Genton, M. G. (2008), "Skew-elliptical distributions and their applications: a trip beyond
-normality," Purdue University, West Lafayette, USA.
-(153) Genton, M. G. (2008), "Testing the covariance structure of multivariate random fields,"
-ENVR Workshop, Boulder, USA.
-(152) Genton, M. G. (2008), "Powering up with space-time wind forecasting," METMA4,
-Alghero, Sardinia.
-(151) Genton, M. G. (2008), "Testing and modeling the cross-covariance structure of
-multivariate random fields," Workshop on Positive Definite Functions in Numerical Analysis and
-Statistics, Goettingen, Germany.
-(150) Genton, M. G. (2008), "Robustness in Heckman selection models," ICORS, Antalya,
-Turkey.
-(149) Genton, M. G. (2008), "Powering up with space-time wind forecasting," RSS, Nottingham,
-UK.
-(148) Genton, M. G. (2008), "Robust likelihood methods based on the skew-t and related
-distributions," JSM, Denver, USA.
-(147) Genton, M. G. (2008), "Testing the covariance structure of multivariate random fields,"
-TIES, Kelowna, Canada.
+**(156)** "Powering Up with Space-Time Wind Forecasting," University of Toulouse 1, Toulouse, France.
 
-(146) Genton, M. G. (2008), "Modeling and testing properties of space-time covariance
-functions," David Ruppert's 60th birthday, Keystone, USA.
-(145) Genton, M. G. (2008), "Robust likelihood methods based on the skew-t and related
-distributions," Joint Meeting of the Canadian and French Statistical Societies, Ottawa, Canada.
-(144) Genton, M. G. (2008), "Testing the covariance structure of multivariate random fields,"
-Workshop on Spatial Statistics and Image Analysis in Biology, Toulouse, France.
-(143) Genton, M. G. (2008), "Multivariate extended skew-t distributions: perhaps the last
-proposal?," Workshop on Skew-Symmetric Probability Distributions, Bertinoro, Italy.
-(142) Genton, M. G. (2008), "Robust likelihood methods based on the skew-t and related
-distributions," University of Zuerich, Zuerich, Switzerland.
-(141) Genton, M. G. (2008), "Robust time series analysis via measurement error modeling," 9
-EBEB, Sao Sebastiao, Brasil.
-(140) Genton, M. G. (2008), "Kronecker product approximation of covariance and other
-matrices," NCAR, USA.
+**(155)** "Powering Up with Space-Time Wind Forecasting," ENAC-EPFL, Lausanne, Switzerland.
+
+**(154)** "Skew-Elliptical Distributions and Their Applications: A Trip Beyond Normality," Purdue University, West Lafayette, USA.
+
+**(153)** "Testing the Covariance Structure of Multivariate Random Fields," ENVR Workshop, Boulder, USA.
+
+**(152)** "Powering Up with Space-Time Wind Forecasting," METMA4, Alghero, Sardinia.
+
+**(151)** "Testing and Modeling the Cross-Covariance Structure of Multivariate Random Fields," Workshop on Positive Definite Functions in Numerical Analysis and Statistics, Goettingen, Germany.
+
+**(150)** "Robustness in Heckman Selection Models," ICORS, Antalya, Turkey.
+
+**(149)** "Powering Up with Space-Time Wind Forecasting," RSS, Nottingham, UK.
+
+**(148)** "Robust Likelihood Methods Based on the Skew-t and Related Distributions," JSM, Denver, USA.
+
+**(147)** "Testing the Covariance Structure of Multivariate Random Fields," TIES, Kelowna, Canada.
+
+**(146)** "Modeling and Testing Properties of Space-Time Covariance Functions," David Ruppert's 60th birthday, Keystone, USA.
+
+**(145)** "Robust Likelihood Methods Based on the Skew-t and Related Distributions," Joint Meeting of the Canadian and French Statistical Societies, Ottawa, Canada.
+
+**(144)** "Testing the Covariance Structure of Multivariate Random Fields," Workshop on Spatial Statistics and Image Analysis in Biology, Toulouse, France.
+
+**(143)** "Multivariate Extended Skew-t Distributions: Perhaps the Last Proposal?," Workshop on Skew-Symmetric Probability Distributions, Bertinoro, Italy.
+
+**(142)** "Robust Likelihood Methods Based on the Skew-t and Related Distributions," University of Zuerich, Zuerich, Switzerland.
+
+**(141)** "Robust Time Series Analysis via Measurement Error Modeling," 9 EBEB, Sao Sebastiao, Brasil.
+
+**(140)** "Kronecker Product Approximation of Covariance and Other Matrices," NCAR, USA.
 
 **---**
 
@@ -673,44 +670,31 @@ matrices," NCAR, USA.
 
 **---**
 
-**(139)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions," Free University of Bruxelles, Bruxelles, Belgium.
+**(139)** "Modeling and Testing Properties of Space-Time Covariance Functions," Free University of Bruxelles, Bruxelles, Belgium.
 
-**(138)** Genton, M. G. (2007), "Kronecker product approximation," International Workshop on
-Robust Statistics and R, Banff, Canada.
+**(138)** "Kronecker Product Approximation," International Workshop on Robust Statistics and R, Banff, Canada.
 
-**(137)** Genton, M. G. (2007), "Selections 2: The Return," ICORS07, Buenos Aires, Argentina.
+**(137)** "Selections 2: The Return," ICORS07, Buenos Aires, Argentina.
 
-**(136)** Genton, M. G. (2007), "Estimation of covariogram models by minimum prediction contrast
-for kriging," JSM, Salt Lake City, USA.
+**(136)** "Estimation of Covariogram Models by Minimum Prediction Contrast for Kriging," JSM, Salt Lake City, USA.
 
-**(135)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions," University of Padova, Padova, Italy.
+**(135)** "Modeling and Testing Properties of Space-Time Covariance Functions," University of Padova, Padova, Italy.
 
-**(134)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions," Workshop on Spatial Statistics, University of Paris 1, Paris, France.
+**(134)** "Modeling and Testing Properties of Space-Time Covariance Functions," Workshop on Spatial Statistics, University of Paris 1, Paris, France.
 
-**(133)** Genton, M. G. (2007), "Robust likelihood methods based on the skew-t and related
-distributions," International Workshop on Computational and Financial Econometrics, Geneva,
-Switzerland.
+**(133)** "Robust Likelihood Methods Based on the Skew-t and Related Distributions," International Workshop on Computational and Financial Econometrics, Geneva, Switzerland.
 
-**(132)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions", 32nd Spring Lecture Series, University of Arkansas, Fayetteville, USA.
+**(132)** "Modeling and Testing Properties of Space-Time Covariance Functions," 32nd Spring Lecture Series, University of Arkansas, Fayetteville, USA.
 
-**(131**) Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions", Pontificia Universidad Catolica de Chile, Santiago, Chile.
+**(131**) "Modeling and Testing Properties of Space-Time Covariance Functions," Pontificia Universidad Catolica de Chile, Santiago, Chile.
 
-**(130)** Genton, M. G. (2007), "Climate, Environment and Economy", Federal University of Minas
-Gerais, Belo Horizonte, Brazil.
+**(130)** "Climate, Environment and Economy," Federal University of Minas Gerais, Belo Horizonte, Brazil.
 
-**(129)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions," 10th Regression School, Salvador, Brazil.
+**(129)** "Modeling and Testing Properties of Space-Time Covariance Functions," 10th Regression School, Salvador, Brazil.
 
-**(128)** Genton, M. G. (2007), "Modeling and inference based on the multivariate skew-t
-distribution", 10th Regression School, Salvador, Brazil.
+**(128)** "Modeling and Inference based on the Multivariate Skew-t Distribution," 10th Regression School, Salvador, Brazil.
 
-**(127)** Genton, M. G. (2007), "Modeling and testing properties of space-time covariance
-functions", Ninth Annual Winter Workshop, Gainesville, USA.
+**(127)** "Modeling and Testing Properties of Space-Time Covariance Functions," Ninth Annual Winter Workshop, Gainesville, USA.
 
 **---**
 
