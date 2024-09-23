@@ -403,40 +403,37 @@ university," University of Illinois at Urbana-Champaign, Urbana, USA.
 
 **---**
 
-(247) Genton, M. G. (2012), "Weighted composite likelihood for spatial max-stable processes,"
-Spatial Statistics Conference, Miami, USA.
-(246) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
-applications," KAUST-Earth Sciences and Engineering, Thuwal, Saudi Arabia.
-(245) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
-applications," NTNU, Trondheim, Norway.
-(244) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
-applications," IAMCS Workshop, College Station, USA.
-(243) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
-applications," ENVR Workshop, Raleigh, USA.
-(242) Genton, M. G. (2012), "Functional median polish with climate applications," ICORS,
-Burlington, USA.
-(241) Genton, M. G. (2012), "Space-time wind speed forecasting for improved power system
-dispatch," JSM, San Diego, USA.
-(240) Genton, M. G. (2012), "Statistics: Towards even better Science and innovation at KAUST,"
-KAUST, Thuwal, Saudi Arabia.
-(239) Genton, M. G. (2012), "Analysis of variance for functional and image data, with climate
-applications," KAUST, Thuwal, Saudi Arabia.
-(238) Genton, M. G. (2012), "Functional median polish with climate applications," The University
-of Melbourne, Melbourne, Australia.
-(237) Genton, M. G. (2012), "Functional median polish with climate applications," Workshop on
-Spatial Statistics and Image Analysis in Biology, Avignon, France.
+**(247)** "Weighted Composite Likelihood for Spatial Max-Stable Processes," Spatial Statistics Conference, Miami, USA.
 
-(236) Genton, M. G. (2012), "Ecology of whale sharks and butterflyfishes in the Red Sea,"
-IAMCS Spring Symposium at KAUST, Thuwal, Saudi Arabia.
-(235) Genton, M. G. (2012), "On the likelihood of Gaussian max-stable processes: Weighted
-composite likelihood for spatio-temporal extremes," Composite Likelihood Workshop, Banff,
-Canada.
-(234) Genton, M. G. (2012), "Functional median polish with climate applications," Computational
-Biomedicine and Geophysics Workshop, Salt Lake City, USA.
-(233) Genton, M. G. (2012), "Functional median polish with climate applications," CMG meeting,
-Texas A&M University, College Station, USA.
-(232) Genton, M. G. (2012), "A new look at skew-normal distributions," Skew-tea, Texas A&M
-University, College Station, USA.
+**(246)** "Analysis of Variance for Functional and Image Data, with Climate Applications," KAUST-Earth Sciences and Engineering, Thuwal, Saudi Arabia.
+
+**(245)** "Analysis of Variance for Functional and Image Data, with Climate Applications," NTNU, Trondheim, Norway.
+
+**(244)** "Analysis of Variance for Functional and Image Data, with Climate Applications," IAMCS Workshop, College Station, USA.
+
+**(243)** "Analysis of Variance for Functional and Image Data, with Climate Applications," ENVR Workshop, Raleigh, USA.
+
+**(242)** "Functional Median Polish with Climate Applications," ICORS, Burlington, USA.
+
+**(241)** "Space-Time Wind Speed Forecasting for Improved Power System Dispatch," JSM, San Diego, USA.
+
+**(240)** "Statistics: Towards Even Better Science and Innovation at KAUST," KAUST, Thuwal, Saudi Arabia.
+
+**(239)** "Analysis of Variance for Functional and Image Data, with Climate Applications," KAUST, Thuwal, Saudi Arabia.
+
+**(238)** "Functional Median Polish with Climate Applications," The University of Melbourne, Melbourne, Australia.
+
+**(237)** "Functional Median Polish with Climate Applications," Workshop on Spatial Statistics and Image Analysis in Biology, Avignon, France.
+
+**(236)** "Ecology of Whale Sharks and Butterflyfishes in the Red Sea," IAMCS Spring Symposium at KAUST, Thuwal, Saudi Arabia.
+
+**(235)** "On the Likelihood of Gaussian Max-Stable Processes: Weighted Composite Likelihood for Spatio-Temporal Extremes," Composite Likelihood Workshop, Banff, Canada.
+
+**(234)** "Functional Median Polish with Climate Applications," Computational Biomedicine and Geophysics Workshop, Salt Lake City, USA.
+
+**(233)** "Functional Median Polish with Climate Applications," CMG meeting, Texas A&M University, College Station, USA.
+
+**(232)** "A New Look at Skew-Normal Distributions," Skew-tea, Texas A&M University, College Station, USA.
 
 **---**
 
@@ -444,76 +441,67 @@ University, College Station, USA.
 
 **---**
 
-(231) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," University of Geneva, Geneva,
-Switzerland.
-(230) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," ETHZ, Zuerich, Switzerland.
-(229) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," EPFL, Lausanne, Switzerland.
-(228) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," University of Neuchatel, Neuchatel,
-Switzerland.
-(227) Genton, M. G. (2011), "A Heckman selection-t model," Shanghai University of Finance
-and Economics, Shanghai, China.
-(226) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," Zhe Jiang A&F University, Lin'An,
-China.
-(225) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," East China Normal University,
-Shanghai, China.
-(224) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," Fudan University, Shanghai, China.
+**(231)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," University of Geneva, Geneva, Switzerland.
 
-(223) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," Shanghai University of Finance and
-Economics, Shanghai, China.
-(222) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," Renmin University, Beijing, China.
-(221) Genton, M. G. (2011), "Skew-elliptical distributions and their applications: a trip beyond
-normality," Shanghai University of Finance and Economics, Shanghai, China.
-(220) Genton, M. G. (2011), "Power system economic dispatch with spatio-temporal wind
-forecasts," SAMSI Workshop, Research Triangle Park, USA.
-(219) Genton, M. G. (2011), "Correlation models for temperature fields," SAMSI Workshop,
-Pleasanton, USA.
-(218) Genton, M. G. (2011), "A valid Matern class of cross-covariance functions for multivariate
-random fields with any number of components," ISI, Dublin, Ireland.
-(217) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data,"
-NCAR, Boulder, USA.
-(216) Genton, M. G. (2011), "Functional boxplots for complex data visualization," JSM, Miami
-Beach, USA.
-(215) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data,"
-University College London, London, UK.
-(214) Genton, M. G. (2011), "A Heckman Selection-t Model," ICORS, Valladolid, Spain.
-(213) Genton, M. G. (2011), "Comparing spatial predictions," Symposium on Statistical
-Space-Time Modelling of Wind Power Forecasts at Technische University Muenchen,
-Muenchen, Germany.
-(212) Genton, M. G. (2011), "Power system economic dispatch with spatio-temporal wind
-forecasts," Symposium on Statistical Space-Time Modelling of Wind Power Forecasts at
-Technische University Muenchen, Muenchen, Germany.
-(211) Genton, M. G. (2011), "Characteristic function based inference for skew-symmetric
-models," IV Workshop on Probabilistic and Inferential Aspects of Skew-Symmetric Models, in
-Honour of Adelchi Azzalini's 60th Birthday, Santiago, Chile.
-(210) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data,"
-King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
-(209) Genton, M. G. (2011), "Functional boxplots for complex data visualization," ADVANCE
-Distinguished Lecture Series at Kansas State University, Manhattan, USA.
+**(230)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," ETHZ, Zuerich, Switzerland.
 
-(208) Genton, M. G. (2011), "Functional boxplots for complex data visualization," COTS, College
-Station, USA.
-(207) Genton, M. G. (2011), "Cross-covariance functions for multivariate random fields," ENAR,
-Miami, USA.
-(206) Genton, M. G. (2011), "Functional boxplots," XII EMR, Fortaleza, Brazil.
-(205) Genton, M. G. (2011), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output," Rutgers University, Piscataway, USA.
-(204) Genton, M. G. (2011), "Functional boxplots for complex data visualization," Umea
-University, Umea, Sweden.
-(203) Genton, M. G. (2011), "Functional boxplots for complex data visualization," IAMCS
-workshop on data visualization, College Station, USA.
-(202) Genton, M. G. (2011), "Functional boxplots for complex data visualization," Colorado State
-University, Fort Collins, USA.
-(201) Genton, M. G. (2011), "Functional boxplots for complex data visualization," Hong Kong
-Baptist University, Hong Kong, China.
+**(229)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," EPFL, Lausanne, Switzerland.
+
+**(228)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," University of Neuchatel, Neuchatel, Switzerland.
+
+**(227)** "A Heckman Selection-t Model," Shanghai University of Finance and Economics, Shanghai, China.
+
+**(226)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Zhe Jiang A&F University, Lin'An, China.
+
+**(225)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," East China Normal University, Shanghai, China.
+
+**(224)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Fudan University, Shanghai, China.
+
+**(223)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Shanghai University of Finance and Economics, Shanghai, China.
+
+**(222)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Renmin University, Beijing, China.
+
+**(221)** "Skew-Elliptical Distributions and Their Applications: A Trip Beyond Normality," Shanghai University of Finance and Economics, Shanghai, China.
+
+**(220)** "Power System Economic Dispatch with Spatio-Temporal Wind Forecasts," SAMSI Workshop, Research Triangle Park, USA.
+
+**(219)** "Correlation Models for Temperature Fields," SAMSI Workshop, Pleasanton, USA.
+
+**(218)** "A Valid Matern Class of Cross-Covariance Functions for Multivariate Random Fields with Any Number of Components," ISI, Dublin, Ireland.
+
+**(217)** "Functional Boxplots for Visualization of Complex Curve/Image Data," NCAR, Boulder, USA.
+
+**(216)** "Functional Boxplots for Complex Data Visualization," JSM, Miami Beach, USA.
+
+**(215)** "Functional Boxplots for Visualization of Complex Curve/Image Data," University College London, London, UK.
+
+**(214)** "A Heckman Selection-t Model," ICORS, Valladolid, Spain.
+
+**(213)** "Comparing Spatial Predictions," Symposium on Statistical Space-Time Modelling of Wind Power Forecasts at Technische University Muenchen, Muenchen, Germany.
+
+**(212)** "Power System Economic Dispatch with Spatio-Temporal Wind Forecasts," Symposium on Statistical Space-Time Modelling of Wind Power Forecasts at Technische University Muenchen, Muenchen, Germany.
+
+**(211)** "Characteristic Function Based Inference for Skew-Symmetric Models," IV Workshop on Probabilistic and Inferential Aspects of Skew-Symmetric Models, in Honour of Adelchi Azzalini's 60th Birthday, Santiago, Chile.
+
+**(210)** "Functional Boxplots for Visualization of Complex Curve/Image Data," King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+
+**(209)** "Functional Boxplots for Complex Data Visualization," ADVANCE Distinguished Lecture Series at Kansas State University, Manhattan, USA.
+
+**(208)** "Functional Boxplots for Complex Data Visualization," COTS, College Station, USA.
+
+**(207)** "Cross-Covariance Functions for Multivariate Random Fields," ENAR, Miami, USA.
+
+**(206)** "Functional ****oxplots," XII EMR, Fortaleza, Brazil.
+
+**(205)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Rutgers University, Piscataway, USA.
+
+**(204)** "Functional Boxplots for Complex Data Visualization," Umea University, Umea, Sweden.
+
+**(203)** "Functional Boxplots for Complex Data Visualization," IAMCS workshop on data visualization, College Station, USA.
+
+**(202)** "Functional Boxplots for Complex Data Visualization," Colorado State University, Fort Collins, USA.
+
+**(201)** "Functional Boxplots for Complex Data Visualization," Hong Kong Baptist University, Hong Kong, China.
 
 **---**
 
@@ -521,64 +509,61 @@ Baptist University, Hong Kong, China.
 
 **---**
 
-(200) Genton, M. G. (2010), "Powering up with space-time wind forecasting," Shanghai
-University of Finance and Economics, Shanghai, China.
-(199) Genton, M. G. (2010), "Powering up with space-time wind forecasting," Xiamen University,
-Xiamen, China.
-(198) Genton, M. G. (2010), "Extended Skew-t Distributions and Heckman Selection Models,"
-International Conference on Emerging Issues and Challenges to Statistics, Gulangyu, China.
-(197) Genton, M. G. (2010), "Functional boxplots for complex data visualization," Temple
-University, Philadelphia, USA.
-(196) Genton, M. G. (2010), "Functional boxplots," The International Symposium on Statistical
-Analysis of Spatio-Temporal Data, Kamakura City, Japan.
-(195) Genton, M. G. (2010), "Powering up with space-time wind forecasting," The University of
-Tokyo, Tokyo, Japan.
-(194) Genton, M. G. (2010), "Functional boxplots for complex data visualization," Workshop on
-Environmetrics, Boulder, USA.
-(193) Genton, M. G. (2010), "A sample of current research in spatial statistics," Brown Bag
-Seminar, College Station, USA.
+**(200)** "Powering Up with Space-Time Wind Forecasting," Shanghai University of Finance and Economics, Shanghai, China.
 
-(192) Genton, M. G. (2010), "Functional boxplots for complex data visualization," Pontificia
-Universidad Catolica de Chile, Santiago, Chile.
-(191) Genton, M. G. (2010), "Functional boxplots for complex data visualization," University of
-Concepcion, Concepcion, Chile.
-(190) Genton, M. G. (2010), "Cross-covariance functions for multivariate random fields based on
-latent dimensions," Federal University of Minas Gerais, Belo Horizonte, Brasil.
-(189) Genton, M. G. (2010), "Functional boxplots for complex data visualization," 7th
-Conference on Multivariate Distributions with Applications, Maresias, Brasil.
-(188) Genton, M. G. (2010), "Extended Skew-t Distributions and Heckman Selection Models,"
-7th Conference on Multivariate Distributions with Applications, Maresias, Brasil.
-(187) Genton, M. G. (2010), "Cross-covariance functions for multivariate random fields based on
-latent dimensions" JSM, Vancouver, Canada.
-(186) Genton, M. G. (2010), "Functional boxplots for complex data visualization," Penn State,
-State College, USA.
-(185) Genton, M. G. (2010), "Cross-covariance functions for multivariate random fields based on
-latent dimensions," International Workshop on Applied Probability, Colmenarejo, Spain.
-(184) Genton, M. G. (2010), "Functional boxplots for complex data visualization," METMA 5,
-Santiago de Compostela, Spain.
-(183) Genton, M. G. (2010), "Functional boxplots for complex data visualization," ICORS,
-Prague, Czech Republic.
-(182) Genton, M. G. (2010), "Spatial statistics for computational earth science," King Abdullah
-University of Science and Technology, Thuwal, Saudi Arabia.
-(181) Genton, M. G. (2010), "Functional boxplots for complex data visualization," University of
-Heidelberg, Heidelberg, Germany.
-(180) Genton, M. G. (2010), "Powering up with space-time wind forecasting," University of
-Heidelberg, Heidelberg, Germany.
-(179) Genton, M. G. (2010), "Functional boxplots for complex data visualization," Functional
-Data Analysis: Future Directions, Banff, Canada.
-(178) Genton, M. G. (2010), "Functional boxplots for complex space-time data visualization,"
-SAMSI Workshop on Statistical Aspects of Environmental Risk, RTP, USA.
-(177) Genton, M. G. (2010), "Correcting for signal attenuation from noisy proxy data in climate
-reconstructions," CMG meeting, College Station, USA.
+**(199)** "Powering Up with Space-Time Wind Forecasting," Xiamen University, Xiamen, China.
 
-(176) Genton, M. G. (2010), "Powering up with space-time wind forecasting," Advances And
-Challenges In Space-time Modelling Of Natural Events, Toledo, Spain.
-(175) Genton, M. G. (2010), "Robustness and Influential Observations in Spatial Statistics,"
-Advances And Challenges In Space-time Modelling Of Natural Events, Toledo, Spain.
-(174) Genton, M. G. (2010), "Multivariate Random Fields," Advances And Challenges In
-Space-time Modelling Of Natural Events, Toledo, Spain.
-(173) Genton, M. G. (2010), "Correcting for signal attenuation from noise: Sharpening the focus
-on past climate," Climate Change Workshop at SAMSI, RTP, USA.
+**(198)** "Extended Skew-t Distributions and Heckman Selection Models," International Conference on Emerging Issues and Challenges to Statistics, Gulangyu, China.
+
+**(197)** "Functional Boxplots for Complex Data Visualization," Temple University, Philadelphia, USA.
+
+**(196)** "Functional Boxplots," The International Symposium on Statistical Analysis of Spatio-Temporal Data, Kamakura City, Japan.
+
+**(195)** "Powering Up with Space-Time Wind Forecasting," The University of Tokyo, Tokyo, Japan.
+
+**(194)** "Functional Boxplots for Complex Data Visualization," Workshop on Environmetrics, Boulder, USA.
+
+**(193)** "A Sample of Current Research in Spatial Statistics," Brown Bag Seminar, College Station, USA.
+
+**(192)** "Functional Boxplots for Complex Data Visualization," Pontificia Universidad Catolica de Chile, Santiago, Chile.
+
+**(191)** "Functional Boxplots for Complex Data Visualization," University of Concepcion, Concepcion, Chile.
+
+**(190)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," Federal University of Minas Gerais, Belo Horizonte, Brasil.
+
+**(189)** "Functional Boxplots for Complex Data Visualization," 7th Conference on Multivariate Distributions with Applications, Maresias, Brasil.
+
+**(188)** "Extended Skew-t Distributions and Heckman Selection Models," 7th Conference on Multivariate Distributions with Applications, Maresias, Brasil.
+
+**(187)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," JSM, Vancouver, Canada.
+
+**(186)** "Functional Boxplots for Complex Data Visualization," Penn State, State College, USA.
+
+**(185)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," International Workshop on Applied Probability, Colmenarejo, Spain.
+
+**(184)** "Functional Boxplots for Complex Data Visualization," METMA 5, Santiago de Compostela, Spain.
+
+**(183)** "Functional Boxplots for Complex Data Visualization," ICORS, Prague, Czech Republic.
+
+**(182)** "Spatial Statistics for Computational Earth Science," King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+
+**(181)** "Functional Boxplots for Complex Data Visualization," University of Heidelberg, Heidelberg, Germany.
+
+**(180)** "Powering Up with Space-Time Wind Forecasting," University of Heidelberg, Heidelberg, Germany.
+
+**(179)** "Functional Boxplots for Complex Data Visualization," Functional Data Analysis: Future Directions, Banff, Canada.
+
+**(178)** "Functional Boxplots for Complex Data Visualization," SAMSI Workshop on Statistical Aspects of Environmental Risk, RTP, USA.
+
+**(177)** "Correcting for Signal Attenuation from Noisy Proxy Data in Climate Reconstructions," CMG meeting, College Station, USA.
+
+**(176)** "Powering Up with Space-Time Wind Forecasting," Advances And Challenges In Space-time Modelling Of Natural Events, Toledo, Spain.
+
+**(175)** "Robustness and Influential Observations in Spatial Statistics," Advances And Challenges In Space-time Modelling Of Natural Events, Toledo, Spain.
+
+**(174)** "Multivariate Random Fields," Advances And Challenges In Space-time Modelling Of Natural Events, Toledo, Spain.
+
+**(173)** "Correcting for Signal Attenuation from Noise: Sharpening the Focus on Past Climate," Climate Change Workshop at SAMSI, RTP, USA.
 
 **---**
 
@@ -586,43 +571,37 @@ on past climate," Climate Change Workshop at SAMSI, RTP, USA.
 
 **---**
 
-(172) Genton, M. G. (2009), "An overview of geostatistical space-time models: Stationarity,
-separability, full symmetry, and beyond,'' Spatio-temporal extremes and applications, EPFL,
-Lausanne, Switzerland.
-(171) Genton, M. G. (2009), "Powering up with space-time wind forecasting," UIUC,
-Urbana-Champaign, USA.
-(170) Genton, M. G. (2009), "Powering up with space-time wind forecasting," NBER-NSF Time
-Series Conference, Davis, USA.
-(169) Genton, M. G. (2009), "Cross-covariance functions for multivariate random fields based on
-latent dimensions," Workshop on Challenges in Statistical Theory: Complex Data Structures and
-Algorithmic Optimization, Oberwolfach, Germany.
-(168) Genton, M. G. (2009), "Correcting for signal attenuation from noise: Sharpening the focus
-on past climate," JSM, Washington DC, USA.
-(167) Genton, M. G. (2009), "Powering up with space-time wind forecasting," International
-Symposium on Statistics and Management Science, Shanghai, China.
-(166) Genton, M. G. (2009), "Single-index additive vector autoregressive time series models ,"
-International Conference on Financial Statistics and Financial Econometrics, Chengdu, China.
-(165) Genton, M. G. (2009), "Cross-covariance functions for multivariate random fields based on
-latent dimensions," 2nd IMS-China, Weihai, China.
-(164) Genton, M. G. (2009), "Cross-covariance functions for multivariate random fields based on
-latent dimensions," 1st IMS-APRM, Seoul, Korea.
-(163) Genton, M. G. (2009), "Visualizing influential observations in dependent data," ICORS,
-Parma, Italy.
-(162) Genton, M. G. (2009), "Correcting for signal attenuation from noise: Sharpening the focus
-on past climate," Poster at Climate, Statistics, and Satellites: A Symposium in Honor of Gerald
-North's 70th birthday, College Station, USA.
+**(172)** "An Overview of Geostatistical Space-Time Models: Stationarity, Separability, Full Symmetry, and Beyond," Spatio-temporal extremes and applications, EPFL, Lausanne, Switzerland.
 
-(161) Genton, M. G. (2009), "Powering up with space-time wind forecasting," Workshop on
-Wind Power, Santiago de Compostelle, Spain.
-(160) Genton, M. G. (2009), "Testing and modeling the cross-covariance structure of
-multivariate random fields," CMG meeting, College Station, USA.
-(159) Genton, M. G. (2009), "Testing and modeling the cross-covariance structure of
-multivariate random fields," ENAR, San Antonio, USA.
-(158) Genton, M. G. (2009), "Correcting for signal attenuation from noise: Sharpening the focus
-on past climate," Poster at Conference on Statistical Methods for Complex Data: in Honor of
-Ray Carroll's 60th birthday, College Station, USA.
-(157) Genton, M. G. (2009), "Powering up with space-time wind forecasting," 11th Regression
-School, Recife, Brasil.
+**(171)** "Powering Up with Space-Time Wind Forecasting," UIUC, Urbana-Champaign, USA.
+
+**(170)** "Powering Up with Space-Time Wind Forecasting," NBER-NSF Time Series Conference, Davis, USA.
+
+**(169)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," Workshop on Challenges in Statistical Theory: Complex Data Structures and Algorithmic Optimization, Oberwolfach, Germany.
+
+**(168)** "Correcting for Signal Attenuation from Noise: Sharpening the Focus on Past Climate," JSM, Washington DC, USA.
+
+**(167)** "Powering Up with Space-Time Wind Forecasting," International Symposium on Statistics and Management Science, Shanghai, China.
+
+**(166)** "Single-Index Additive Vector Autoregressive Time Series Models," International Conference on Financial Statistics and Financial Econometrics, Chengdu, China.
+
+**(165)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," 2nd IMS-China, Weihai, China.
+
+**(164)** "Cross-Covariance Functions for Multivariate Random Fields Based on Latent Dimensions," 1st IMS-APRM, Seoul, Korea.
+
+**(163)** "Visualizing Influential Observations in Dependent Data," ICORS, Parma, Italy.
+
+**(162)** "Correcting for Signal Attenuation from Noise: Sharpening the Focus on Past Climate," Poster at Climate, Statistics, and Satellites: A Symposium in Honor of Gerald North's 70th birthday, College Station, USA.
+
+**(161)** "Powering Up with Space-Time Wind Forecasting," Workshop on Wind Power, Santiago de Compostelle, Spain.
+
+**(160)** "Testing and Modeling the Cross-Covariance Structure of Multivariate Random Fields," CMG meeting, College Station, USA.
+
+**(159)** "Testing and Modeling the Cross-Covariance Structure of Multivariate Random Fields," ENAR, San Antonio, USA.
+
+**(158)** "Correcting for Signal Attenuation from Noise: Sharpening the Focus on Past Climate," Poster at Conference on Statistical Methods for Complex Data: in Honor of Ray Carroll's 60th birthday, College Station, USA.
+
+**(157)** "Powering Up with Space-Time Wind Forecasting," 11th Regression School, Recife, Brasil.
 
 **---**
 
