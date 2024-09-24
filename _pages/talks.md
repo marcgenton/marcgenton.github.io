@@ -125,33 +125,33 @@ title: Talks
 
 **---**
 
-(361) Genton, M. G. (2018), "Functional Boxplots for Multivariate Curves," Workshop on
-Econometrics and Data Science, Monterrey, Mexico.
-(360) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," IPAM-UCLA, Los Angeles, USA.
-(359) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," JSM, Vancouver, Canada.
-(358) Genton, M. G. (2018), "Functional Boxplots for Multivariate Curves," University of Notre
-Dame, South Bend, USA.
-(357) Genton, M. G. (2018), "Data Visualization Tools," Ocean University of China, Qingdao,
-China.
-(356) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," IMS-China, Qingdao, China.
-(355) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," IMS-Pacific Rim, Singapore, Singapore.
-(354) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," 49th ISS, Palermo, Italy.
-(353) Genton, M. G. (2018), "Functional Boxplots for Multivariate Curves," ISNPS, Salerno, Italy.
-(352) Genton, M. G. (2018), "Functional Boxplots for Multivariate Curves," Georgetown
-University, Washington DC, USA.
-(351) Genton, M. G. (2018), "An Introduction to Spatio-Temporal Statistics," George Washington
-University, Washington DC, USA.
-(350) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," University of Florida, Gainesville, USA.
-(349) Genton, M. G. (2018), "A Stochastic Generator of Global Monthly Wind Energy with Tukey
-g-and-h Autoregressive Processes," Florida State University, Tallahassee, USA.
-(348) Genton, M. G. (2018), "Directional Outlyingness for Multivariate Functional Data," TSIMF,
-Sanya, China.
+**(361)** "Functional Boxplots for Multivariate Curves," Workshop on Econometrics and Data Science, Monterrey, Mexico.
+
+**(360)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," IPAM-UCLA, Los Angeles, USA.
+
+**(359)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," JSM, Vancouver, Canada.
+
+**(358)** "Functional Boxplots for Multivariate Curves," University of Notre Dame, South Bend, USA.
+
+**(357)** "Data Visualization Tools," Ocean University of China, Qingdao, China.
+
+**(356)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," IMS-China, Qingdao, China.
+
+**(355)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," IMS-Pacific Rim, Singapore, Singapore.
+
+**(354)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," 49th ISS, Palermo, Italy.
+
+**(353)** "Functional Boxplots for Multivariate Curves," ISNPS, Salerno, Italy.
+
+**(352)** "Functional Boxplots for Multivariate Curves," Georgetown University, Washington DC, USA.
+
+**(351)** "An Introduction to Spatio-Temporal Statistics," George Washington University, Washington DC, USA.
+
+**(350)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," University of Florida, Gainesville, USA.
+
+**(349)** "A Stochastic Generator of Global Monthly Wind Energy with Tukey g-and-h Autoregressive Processes," Florida State University, Tallahassee, USA.
+
+**(348)** "Directional Outlyingness for Multivariate Functional Data," TSIMF, Sanya, China.
 
 **---**
 
@@ -159,52 +159,53 @@ Sanya, China.
 
 **---**
 
-(347) Genton, M. G. (2017), "Assessing Potential Wind Energy Resources with a Skew-t
-Distribution," Memorial Workshop for Antonella Capitanio, Bologna, Italy.
-(346) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data,"
-University of Padova, Padova, Italy.
+**(347)** "Assessing Potential Wind Energy Resources with a Skew-t Distribution," Memorial Workshop for Antonella Capitanio, Bologna, Italy.
 
-(345) Genton, M. G. (2017), "Reinaldo Arellano-Valle: A Selectively Sampled (Skewed) Story
-from Cuba to Chile via Brazil," Skewed World of Data, Santiago, Chile.
-(344) Genton, M. G. (2017), "Transformed Gaussian Random Fields," Skewed World of Data,
-Santiago, Chile.
-(343) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data," CMO,
-Oaxaca, Mexico.
-(342) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data," ESTE,
-Sao Carlos, Brazil.
-(341) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," ESTE,
-Sao Carlos, Brazil.
-(340) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data,"
-University of Minas Gerais, Belo Horizonte, Brazil.
-(339) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data,"
-University of Sao Paolo, Sao Paolo, Brazil.
-(338) Genton, M. G. (2017), "Space-time Wind Emulators," NCAR, Boulder, USA.
-(337) Genton, M. G. (2017), "3D Visualization og Emulators of Climate Model Output on Smart
-Phones with Virtual Reality," JSM, Baltimore, USA.
-(336) Genton, M. G. (2017), "Stat: Wiley authors workshop," JSM, Baltimore, USA.
-(335) Genton, M. G. (2017), "Statistics-Based Compression of Global Wind Fields," TIES,
-Bergamo, Italy.
-(334) Genton, M. G. (2017), "Discussion: Spatiotemporal Models for Skewed Processes,"
-ISI-WSC, Marrakech, Morocco.
-(333) Genton, M. G. (2017), "Stat: Wiley authors workshop," ISI-WSC, Marrakech, Morocco.
-(332) Genton, M. G. (2017), "Visuanimation in Statistics," ISI-WSC, Marrakech, Morocco.
-(331) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," Hong
-Kong Baptist University, Hong Kong, China.
-(330) Genton, M. G. (2017), "Transformed Gaussian Random Fields," EcoSta, Hong Kong,
-China.
-(329) Genton, M. G. (2017), "Directional Outlyingness for Multivariate Functional Data,"
-SRCOS, Jekyll Island, USA.
+**(346)** "Directional Outlyingness for Multivariate Functional Data," University of Padova, Padova, Italy.
 
-(328) Genton, M. G. (2017), "Statistics-Based Compression of Global Wind Fields," SPUQ,
-Atlanta, USA.
-(327) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," Baylor
-University, Waco, USA.
-(326) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," Texas
-A&M University, College Station, USA.
-(325) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," Rice
-University, Houston, USA.
-(324) Genton, M. G. (2017), "Computational Challenges with Big Environmental Data," PUC,
-Santiago, Chile.
+**(345)** "Reinaldo Arellano-Valle: A Selectively Sampled (Skewed) Story from Cuba to Chile via Brazil," Skewed World of Data, Santiago, Chile.
+
+**(344)** "Transformed Gaussian Random Fields," Skewed World of Data, Santiago, Chile.
+
+**(343)** "Directional Outlyingness for Multivariate Functional Data," CMO, Oaxaca, Mexico.
+
+**(342)** "Directional Outlyingness for Multivariate Functional Data," ESTE, Sao Carlos, Brazil.
+
+**(341)** "Computational Challenges with Big Environmental Data," ESTE, Sao Carlos, Brazil.
+
+**(340)** "Directional Outlyingness for Multivariate Functional Data," University of Minas Gerais, Belo Horizonte, Brazil.
+
+**(339)** "Directional Outlyingness for Multivariate Functional Data," University of Sao Paolo, Sao Paolo, Brazil.
+
+**(338)** "Space-time Wind Emulators," NCAR, Boulder, USA.
+
+**(337)** "3D Visualization og Emulators of Climate Model Output on Smart Phones with Virtual Reality," JSM, Baltimore, USA.
+
+**(336)** "Stat: Wiley authors workshop," JSM, Baltimore, USA.
+
+**(335)** "Statistics-Based Compression of Global Wind Fields," TIES, Bergamo, Italy.
+
+**(334)** "Discussion: Spatiotemporal Models for Skewed Processes," ISI-WSC, Marrakech, Morocco.
+
+**(333)** "Stat: Wiley authors workshop," ISI-WSC, Marrakech, Morocco.
+
+**(332)** "Visuanimation in Statistics," ISI-WSC, Marrakech, Morocco.
+
+**(331)** "Computational Challenges with Big Environmental Data," Hong Kong Baptist University, Hong Kong, China.
+
+**(330)** "Transformed Gaussian Random Fields," EcoSta, Hong Kong, China.
+
+**(329)** "Directional Outlyingness for Multivariate Functional Data," SRCOS, Jekyll Island, USA.
+
+**(328)** "Statistics-Based Compression of Global Wind Fields," SPUQ, Atlanta, USA.
+
+**(327)** "Computational Challenges with Big Environmental Data," Baylor University, Waco, USA.
+
+**(326)** "Computational Challenges with Big Environmental Data," Texas A&M University, College Station, USA.
+
+**(325)** "Computational Challenges with Big Environmental Data," Rice University, Houston, USA.
+
+**(324)** "Computational Challenges with Big Environmental Data," PUC, Santiago, Chile.
 
 **---**
 
@@ -212,49 +213,51 @@ Santiago, Chile.
 
 **---**
 
-(323) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data," ERCIM,
-Seville, Spain.
-(322) Genton, M. G. (2016), "Visuanimation in Statistics," Workshop on Statistics for
-High-dimensional and Complex Data, Thuwal, KSA.
-(321) Genton, M. G. (2016), "Tukey g-and-h Random Fields and Max-stable Processes,"
-ICOSDA, Niagara Falls, Canada.
-(320) Genton, M. G. (2016), "Tukey g-and-h Random Fields and Max-stable Processes," FSM,
-Ghent, Belgium.
-(319) Genton, M. G. (2016), "Directional Depth and Outlyingness for Multivariate Functional
-Data," CompStat, Oviedo, Spain.
-(318) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data," UC
-Irvine, Irvine, USA.
-(317) Genton, M. G. (2016), "Tukey g-and-h Random Fields," UC Santa Barbara, Santa
-Barbara, USA.
-(316) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data," UCLA,
-Los Angeles, USA.
-(315) Genton, M. G. (2016), "Visuanimation in Statistics," JSM, Chicago, USA.
-(314) Genton, M. G. (2016), "Tukey g-and-h Random Fields," ICORS, Geneva, Switzerland.
-(313) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data,"
-IMS-APRM, Hong Kong, China.
+**(323)** "Computational Challenges with Big Environmental Data," ERCIM, Seville, Spain.
 
-(312) Genton, M. G. (2016), "Computational Challenges with Big Environmental Data,"
-Academia Sinica, Taipei, Taiwan.
-(311) Genton, M. G. (2016), "Tukey g-and-h Random Fields," Peking University, Beijing, China.
-(310) Genton, M. G. (2016), "Tukey g-and-h Random Fields," SSIAB, Rennes, France.
-(309) Genton, M. G. (2016), "Tukey g-and-h Random Fields," Workshop on Stochastic Weather
-Generators, Vannes, France.
-(308) Genton, M. G. (2016), "Functional Boxplots for Visualization of Complex Curve/Image
-Data," Newcastle University, Newcastle, UK.
-(307) Genton, M. G. (2016), "Tukey g-and-h Random Fields," International Workshop on
-Spatio-Temporal Statistics - Imperial College, London, UK.
-(306) Genton, M. G. (2016), "Nonstationary Multivariate Random Fields," Analysis of
-Nonstationary Multivariate Time Series Workshop, Lancaster, UK.
-(305) Genton, M. G. (2016), "Tukey g-and-h Random Fields," SIAM-UQ, EPFL-Lausanne,
-Switzerland.
-(304) Genton, M. G. (2016), "Gaussian Likelihood Inference on Data From Non-Gaussian
-Random Fields," ENVR, Columbus, USA.
-(303) Genton, M. G. (2016), "Tukey g-and-h Random Fields," University of Cincinnati,
-Cincinnati, USA.
-(302) Genton, M. G. (2016), "Functional Boxplots for Complex Curve/Image Data," IITK, Kanpur,
-India.
-(301) Genton, M. G. (2016), "Tukey g-and-h Random Fields," Indian Statistical Institute, Kolkata,
-India.
+**(322)** "Visuanimation in Statistics," Workshop on Statistics for High-dimensional and Complex Data, Thuwal, KSA.
+
+**(321)** "Tukey g-and-h Random Fields and Max-stable Processes," ICOSDA, Niagara Falls, Canada.
+
+**(320)** "Tukey g-and-h Random Fields and Max-stable Processes," FSM, Ghent, Belgium.
+
+**(319)** "Directional Depth and Outlyingness for Multivariate Functional Data," CompStat, Oviedo, Spain.
+
+**(318)** "Computational Challenges with Big Environmental Data," UC Irvine, Irvine, USA.
+
+**(317)** "Tukey g-and-h Random Fields," UC Santa Barbara, Santa Barbara, USA.
+
+**(316)** "Computational Challenges with Big Environmental Data," UCLA, Los Angeles, USA.
+
+**(315)** "Visuanimation in Statistics," JSM, Chicago, USA.
+
+**(314)** "Tukey g-and-h Random Fields," ICORS, Geneva, Switzerland.
+
+**(313)** "Computational Challenges with Big Environmental Data," IMS-APRM, Hong Kong, China.
+
+**(312)** "Computational Challenges with Big Environmental Data," Academia Sinica, Taipei, Taiwan.
+
+**(311)** "Tukey g-and-h Random Fields," Peking University, Beijing, China.
+
+**(310)** "Tukey g-and-h Random Fields," SSIAB, Rennes, France.
+
+**(309)** "Tukey g-and-h Random Fields," Workshop on Stochastic Weather Generators, Vannes, France.
+
+**(308)** "Functional Boxplots for Visualization of Complex Curve/Image Data," Newcastle University, Newcastle, UK.
+
+**(307)** "Tukey g-and-h Random Fields," International Workshop on Spatio-Temporal Statistics - Imperial College, London, UK.
+
+**(306)** "Nonstationary Multivariate Random Fields," Analysis of Nonstationary Multivariate Time Series Workshop, Lancaster, UK.
+
+**(305)** "Tukey g-and-h Random Fields," SIAM-UQ, EPFL-Lausanne, Switzerland.
+
+**(304)** "Gaussian Likelihood Inference on Data From Non-Gaussian Random Fields," ENVR, Columbus, USA.
+
+**(303)** "Tukey g-and-h Random Fields," University of Cincinnati, Cincinnati, USA.
+
+**(302)** "Functional Boxplots for Complex Curve/Image Data," IITK, Kanpur, India.
+
+**(301)** "Tukey g-and-h Random Fields," Indian Statistical Institute, Kolkata, India.
 
 **---**
 
@@ -262,28 +265,27 @@ India.
 
 **---**
 
-(300) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," CSA
-Triennials, Kolkata, India.
-(299) Genton, M. G. (2015), "Tukey g-and-h Random Fields," International Conference on
-Statistics, Special Session A.N.M. Muniruzzaman, Dhaka, Bangladesh.
-(298) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," UAE
-University, Al Ain, UAE.
-(297) Genton, M. G. (2015), "Tukey g-and-h Random Fields," TIES, Al Ain, UAE.
-(296) Genton, M. G. (2015), "Tukey g-and-h Random Fields," Current and Future Challenges in
-Robust Statistics, Banff, Canada.
+**(300)** "Computational Challenges with Big Environmental Data," CSA Triennials, Kolkata, India.
 
-(295) Genton, M. G. (2015), "Tukey g-and-h Random Fields," Computational Space-Time
-Statistics Workshop, KAUST, Saudi Arabia.
-(294) Genton, M. G. (2015), "Tukey g-and-h Random Fields," GOF Conference, Athens,
-Greece.
-(293) Genton, M. G. (2015), "Statistics @ KAUST," Summer Camp at KAUST, Thuwal, Saudi
-Arabia.
-(292) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," JSM,
-Seattle, USA.
-(291) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," ISI
-Meeting, Rio de Janeiro, Brazil.
-(290) Genton, M. G. (2015), "Publishing a Paper in Stat," Wiley Author Workshop, Rio de
-Janeiro, Brazil.
+**(299)** "Tukey g-and-h Random Fields," International Conference on Statistics, Special Session A.N.M. Muniruzzaman, Dhaka, Bangladesh.
+
+**(298)** "Computational Challenges with Big Environmental Data," UAE University, Al Ain, UAE.
+
+**(297)** "Tukey g-and-h Random Fields," TIES, Al Ain, UAE.
+
+**(296)** "Tukey g-and-h Random Fields," Current and Future Challenges in Robust Statistics, Banff, Canada.
+
+**(295)** "Tukey g-and-h Random Fields," Computational Space-Time Statistics Workshop, KAUST, Saudi Arabia.
+
+**(294)** "Tukey g-and-h Random Fields," GOF Conference, Athens, Greece.
+
+**(293)** "Statistics @ KAUST," Summer Camp at KAUST, Thuwal, Saudi Arabia.
+
+**(292)** "Computational Challenges with Big Environmental Data," JSM, Seattle, USA.
+
+**(291)** "Computational Challenges with Big Environmental Data," ISI Meeting, Rio de Janeiro, Brazil.
+
+**(290)** "Publishing a Paper in Stat," Wiley Author Workshop, Rio de Janeiro, Brazil.
 
 **(289)** "Computational Challenges with Big Environmental Data," University of Sao Paulo, Sao Paulo, Brazil.
 
@@ -301,8 +303,7 @@ Janeiro, Brazil.
 
 **(282)** "Incorporating Geostrophic Wind Information for Improved Space-Time Short-Term Wind Speed Forecasting and Power System Dispatch," Biometrisches Kolloquium, Dortmund, Germany.
 
-**(281)** "Visualization and Ranking of Functional Data," Pontificia Universidad
-Catolica de Chile, Santiago, Chile.
+**(281)** "Visualization and Ranking of Functional Data," Pontificia Universidad Catolica de Chile, Santiago, Chile.
 
 **(280)** "High-Order Composite Likelihood Inference for Max-Stable Distributions and Processes," Seismomatics, Valparaiso, Chile.
 
