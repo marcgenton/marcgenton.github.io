@@ -284,29 +284,27 @@ Seattle, USA.
 Meeting, Rio de Janeiro, Brazil.
 (290) Genton, M. G. (2015), "Publishing a Paper in Stat," Wiley Author Workshop, Rio de
 Janeiro, Brazil.
-(289) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data,"
-University of Sao Paulo, Sao Paulo, Brazil.
-(288) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," Telecom
-Bretagne, Brest, France.
-(287) Genton, M. G. (2015), "An Introduction to Spatio-Temporal Statistics," Synergy Summer
-School at Telecom Bretagne, Brest, France.
-(286) Genton, M. G. (2015), "Functional Data Visualization," Frontiers in Functional Data
-Analysis, Banff, Canada.
-(285) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," Spatial
-Statistics, Avignon, France.
-(284) Genton, M. G. (2015), "Incorporating geostrophic wind information for improved
-space-time short-term wind speed forecasting and power system dispatch," Mathematical and
-Statistical Analysis of Spatial Data, Aalborg, Denmark.
-(283) Genton, M. G. (2015), "Computational Challenges with Big Environmental Data," SEIO
-Conference, Pamplona, Spain.
-(282) Genton, M. G. (2015), "Incorporating geostrophic wind information for improved
-space-time short-term wind speed forecasting and power system dispatch," Biometrisches
-Kolloquium, Dortmund, Germany.
-(281) Genton, M. G. (2015), "Visualization and ranking of functional data," Pontificia Universidad
+
+**(289)** "Computational Challenges with Big Environmental Data," University of Sao Paulo, Sao Paulo, Brazil.
+
+**(288)** "Computational Challenges with Big Environmental Data," Telecom Bretagne, Brest, France.
+
+**(287)** "An Introduction to Spatio-Temporal Statistics," Synergy Summer School at Telecom Bretagne, Brest, France.
+
+**(286)** "Functional Data Visualization," Frontiers in Functional Data Analysis, Banff, Canada.
+
+**(285)** "Computational Challenges with Big Environmental Data," Spatial Statistics, Avignon, France.
+
+**(284)** "Incorporating Geostrophic Wind Information for Improved Space-Time Short-Term Wind Speed Forecasting and Power System Dispatch," Mathematical and Statistical Analysis of Spatial Data, Aalborg, Denmark.
+
+**(283)** "Computational Challenges with Big Environmental Data," SEIO Conference, Pamplona, Spain.
+
+**(282)** "Incorporating Geostrophic Wind Information for Improved Space-Time Short-Term Wind Speed Forecasting and Power System Dispatch," Biometrisches Kolloquium, Dortmund, Germany.
+
+**(281)** "Visualization and Ranking of Functional Data," Pontificia Universidad
 Catolica de Chile, Santiago, Chile.
 
-(280) Genton, M. G. (2015), "High-order composite likelihood inference for max-stable
-distributions and processes," Seismomatics, Valparaiso, Chile.
+**(280)** "High-Order Composite Likelihood Inference for Max-Stable Distributions and Processes," Seismomatics, Valparaiso, Chile.
 
 **---**
 
@@ -314,44 +312,41 @@ distributions and processes," Seismomatics, Valparaiso, Chile.
 
 **---**
 
-(279) Genton, M. G. (2014), "High-order composite likelihood inference for max-stable
-distributions and processes," CFE-ERCIM, Pisa, Italy.
-(278) Genton, M. G. (2014), "High-order composite likelihood inference for max-stable
-distributions and processes," KAUST Workshop on Statistics of Extreme Events, Thuwal, Saudi
-Arabia.
-(277) Genton, M. G. (2014), "Cross-covariance functions for multivariate geostatistics," KIT,
-Karlsruhe, Germany.
-(276) Genton, M. G. (2014), "Statistics @ KAUST," HITS, Heidelberg, Germany.
-(275) Genton, M. G. (2014), "Cross-covariance functions for multivariate geostatistics,"
-SWGEN, Avignon, France.
-(274) Genton, M. G. (2014), "Visualization and ranking of functional data," INRA, Avignon,
-France.
-(273) Genton, M. G. (2014), "Visualization of environmental data," COMPSTAT, Geneva,
-Switzerland.
-(272) Genton, M. G. (2014), "Incorporating geostrophic wind information for improved
-space-time short-term wind speed forecasting and power system dispatch," JSM, Boston, USA.
-(271) Genton, M. G. (2014), "Multivariate spatial max-stable processes," GeoEnv, Paris, France.
-(270) Genton, M. G. (2014), "Nonparametric identification of copula structures" and "Paradigms
-for a 21st century university," University of Miami, Miami, USA.
-(269) Genton, M. G. (2014), "Cross-covariance functions for multivariate geostatistics," 10th
-SSIAB, Aalborg, Denmark.
-(268) Genton, M. G. (2014), "Visualization and ranking of functional data," FIRBE SNAPLE
-Workshop at Politecnico di Milano, Milano, Italy.
-(267) Genton, M. G. (2014), "Spatio-temporal statistics and data analytics," 4th Annual KICP
-Research Symposium, Thuwal, Saudi Arabia.
-(266) Genton, M. G. (2014), "Visualization of functional data," Visual Computing Center Summit,
-Thuwal, Saudi Arabia.
-(265) Genton, M. G. (2014), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," Purdue University, West Lafayette, USA.
+**(279)** "High-Order Composite Likelihood Inference for Max-Stable Distributions and Processes," CFE-ERCIM, Pisa, Italy.
 
-(264) Genton, M. G. (2014), "Spatio-temporal statistics for marine science," Workshop on
-Biogeography, Thuwal, Saudi Arabia.
-(263) Genton, M. G. (2014), "Incorporating geostrophic wind information for improved
-space-time short-term wind speed forecasting and power system dispatch," Isaac Newton
-Institute, Cambridge, UK.
-(262) Genton, M. G. (2014), "Multivariate spatial max-stable processes," Workshop on UQ,
-Thuwal, Saudi Arabia.
+**(278)** "High-Order Composite Likelihood Inference for Max-Stable Distributions and Processes," KAUST Workshop on Statistics of Extreme Events, Thuwal, Saudi Arabia.
+
+**(277)** "Cross-Covariance Functions for Multivariate Geostatistics," KIT, Karlsruhe, Germany.
+
+**(276)** "Statistics @ KAUST," HITS, Heidelberg, Germany.
+
+**(275)** "Cross-Covariance Functions for Multivariate Geostatistics," SWGEN, Avignon, France.
+
+**(274)** "Visualization and ranking of functional data," INRA, Avignon, France.
+
+**(273)** "Visualization of Environmental Data," COMPSTAT, Geneva, Switzerland.
+
+**(272)** "Incorporating Geostrophic Wind Information for Improved Space-Time Short-Term Wind Speed Forecasting and Power System Dispatch," JSM, Boston, USA.
+
+**(271)** "Multivariate Spatial Max-Stable Processes," GeoEnv, Paris, France.
+
+**(270)** "Nonparametric Identification of Copula Structures," and "Paradigms for a 21st Century University," University of Miami, Miami, USA.
+
+**(269)** "Cross-Covariance Functions for Multivariate Geostatistics," 10th SSIAB, Aalborg, Denmark.
+
+**(268)** "Visualization and Ranking of Functional Data," FIRBE SNAPLE Workshop at Politecnico di Milano, Milano, Italy.
+
+**(267)** "Spatio-Temporal Statistics and Data Analytics," 4th Annual KICP Research Symposium, Thuwal, Saudi Arabia.
+
+**(266)** "Visualization of Functional Data," Visual Computing Center Summit, Thuwal, Saudi Arabia.
+
+**(265)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," Purdue University, West Lafayette, USA.
+
+**(264)** "Spatio-Temporal Statistics for Marine Science," Workshop on Biogeography, Thuwal, Saudi Arabia.
+
+**(263)** "Incorporating Geostrophic Wind Information for Improved Space-Time Short-Term Wind Speed Forecasting and Power System Dispatch," Isaac Newton Institute, Cambridge, UK.
+
+**(262)** "Multivariate Spatial Max-Stable Processes," Workshop on UQ, Thuwal, Saudi Arabia.
 
 **---**
 
@@ -359,43 +354,33 @@ Thuwal, Saudi Arabia.
 
 **---**
 
-(261) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," Ohio State University, Columbus, USA.
-(260) Genton, M. G. (2013), "Multivariate spatial max-stable processes," Workshop on
-Multivariate Analysis and Random Matrices, New Tendencies, Guanajuato, Mexico.
-(259) Genton, M. G. (2013), "Spatio-temporal statistics and data analysis: An overview of my
-research group," AMCS-KAUST, Thuwal, Saudi Arabia.
-(258) Genton, M. G. (2013), "Multivariate spatial max-stable processes," JSM, Montreal,
-Canada.
-(257) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," NCAR, Boulder, USA.
-(256) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," Colorado School of Mines, Golden, USA.
-(255) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," University of Bocconi, Milan, Italy.
-(254) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," University of Padova, Padova, Italy.
-(253) Genton, M. G. (2013), "Semiparametric efficient and robust estimation of an unknown
-symmetric population under arbitrary sample selection bias," SSC, Edmonton, Canada.
-(252) Genton, M. G. (2013), "Nonparametric identification of copula structures," BIRS, Banff,
-Canada.
+**(261)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," Ohio State University, Columbus, USA.
 
-(251) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," McMaster University, Hamilton, Canada.
-(250) Genton, M. G. (2013), "Robust analysis of variance for functional and image data,"
-Columbia University, New York, USA.
-(249) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," University of Wisconsin Madison, Madison, USA.
-(248) Genton, M. G. (2013), "Functional boxplots for visualization of complex curve/image data:
-An application to precipitation and climate model output" and "Paradigms for a 21st century
-university," University of Illinois at Urbana-Champaign, Urbana, USA.
+**(260)** "Multivariate Spatial Max-Stable Processes," Workshop on Multivariate Analysis and Random Matrices, New Tendencies, Guanajuato, Mexico.
+
+**(259)** "Spatio-Temporal Statistics and Data Analysis: An Overview of my Research Group," AMCS-KAUST, Thuwal, Saudi Arabia.
+
+**(258)** "Multivariate Spatial Max-Stable Processes," JSM, Montreal, Canada.
+
+**(257)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," NCAR, Boulder, USA.
+
+**(256)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," Colorado School of Mines, Golden, USA.
+
+**(255)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," University of Bocconi, Milan, Italy.
+
+**(254)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," University of Padova, Padova, Italy.
+
+**(253)** "Semiparametric Efficient and Robust Estimation of an Unknown Symmetric Population Under Arbitrary Sample Selection Bias," SSC, Edmonton, Canada.
+
+**(252)** "Nonparametric Identification of Copula Structures," BIRS, Banff, Canada.
+
+**(251)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," McMaster University, Hamilton, Canada.
+
+**(250)** "Robust Analysis of Variance for Functional and Image Data," Columbia University, New York, USA.
+
+**(249)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," University of Wisconsin Madison, Madison, USA.
+
+**(248)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output" and "Paradigms for a 21st Century University," University of Illinois at Urbana-Champaign, Urbana, USA.
 
 **---**
 
