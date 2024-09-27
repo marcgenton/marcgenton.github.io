@@ -17,7 +17,7 @@ title: Publications
 
 **[318]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
-**[317]** Song, Y., Khalid, Z., and Genton, M. G. (2024), [“Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+**[317]** Song, Y., Khalid, Z., and Genton, M. G. (2025), [“Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
 **---**
 
