@@ -9,11 +9,17 @@ title: Publications
 
 **---** 
 
+**[322]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
 **[321]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
-**[320]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+**[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/) *TEST*, to appear.
 
-**[319]** Song, Y., Khalid, Z., and Genton, M. G. (2024), [“Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+**[319]** Qu, Z., Dai, W., and Genton, M. G. (2025), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, to appear.
+
+**[318]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+
+**[317]** Song, Y., Khalid, Z., and Genton, M. G. (2025), [“Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
 **---**
 
@@ -21,29 +27,25 @@ title: Publications
 
 **---** 
 
-**[318]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/) *SC24* (GB Climate Modelling finalist), to appear.
+**[316]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/) *SC24* (GB Climate Modelling finalist), to appear.
 
-**[317]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
+**[315]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
 
-**[316]** Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), [“On the impact of spatial covariance matrix ordering on tile low-rank estimation of Matern parameters,”](https://marcgenton.github.io/2024.CASG.Environmetrics.pdf) *Environmetrics*, **35**:e2868.
+**[314]** Chen, S., Abdulah, S., Sun, Y., and Genton, M. G. (2024), [“On the impact of spatial covariance matrix ordering on tile low-rank estimation of Matern parameters,”](https://marcgenton.github.io/2024.CASG.Environmetrics.pdf) *Environmetrics*, **35**:e2868.
 
-**[315]** Chowdhury, J., Khalid, Z., and Genton, M. G. (2024), [“Fast and accurate spherical harmonic transform for spatio-temporal regular grid data,”](https://marcgenton.github.io/2024.CKG.SPL.pdf) *IEEE Signal Processing Letters*, **31**, 1825-1829.
+**[313]** Chowdhury, J., Khalid, Z., and Genton, M. G. (2024), [“Fast and accurate spherical harmonic transform for spatio-temporal regular grid data,”](https://marcgenton.github.io/2024.CKG.SPL.pdf) *IEEE Signal Processing Letters*, **31**, 1825-1829.
 
-**[314]** Hu, Z., Tong, T., and Genton, M. G. (2024), [“A pairwise Hotelling method for testing high-dimensional mean vectors,”](https://marcgenton.github.io/2024.HTG.SS.pdf) *Statistica Sinica*, **34**, 229-256.
+**[312]** Hu, Z., Tong, T., and Genton, M. G. (2024), [“A pairwise Hotelling method for testing high-dimensional mean vectors,”](https://marcgenton.github.io/2024.HTG.SS.pdf) *Statistica Sinica*, **34**, 229-256.
 
-**[313]** Karling, M., Durante, D., and Genton, M. G. (2024), [“Conjugacy properties of multivariate unified skew-elliptical distributions,”](https://marcgenton.github.io/2024.KDG.JMVA.pdf) *Journal of Multivariate Analysis*, **204**:105357.
+**[311]** Karling, M., Durante, D., and Genton, M. G. (2024), [“Conjugacy properties of multivariate unified skew-elliptical distributions,”](https://marcgenton.github.io/2024.KDG.JMVA.pdf) *Journal of Multivariate Analysis*, **204**:105357.
 
-**[312]** Martinez-Hernandez, I., and Genton, M. G. (2024), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[310]** Mondal, S., Arellano-Valle, R. B., and Genton, M. G. (2024), [“A multivariate modified skew- normal distribution,”](https://marcgenton.github.io/2024.MAG.SP.pdf) *Statistical Papers*, **65**, 511-555.
 
-**[311]** Mondal, S., Arellano-Valle, R. B., and Genton, M. G. (2024), [“A multivariate modified skew- normal distribution,”](https://marcgenton.github.io/2024.MAG.SP.pdf) *Statistical Papers*, **65**, 511-555.
+**[309]** Mondal, S., and Genton, M. G. (2024), [“A multivariate skew-normal-Tukey-h distribution,”](https://marcgenton.github.io/2024.MG.JMVA.pdf) *Journal of Multivariate Analysis*, **200**:105260.
 
-**[310]** Mondal, S., and Genton, M. G. (2024), [“A multivariate skew-normal-Tukey-h distribution,”](https://marcgenton.github.io/2024.MG.JMVA.pdf) *Journal of Multivariate Analysis*, **200**:105260.
+**[308]** Mondal, S., Krupskii, P., and Genton, M. G. (2024), [“A non-stationary factor copula model for non-Gaussian spatial data,”](https://marcgenton.github.io/2024.MKG.Stat.pdf) *Stat*, **13**:e715.
 
-**[309]** Mondal, S., Krupskii, P., and Genton, M. G. (2024), [“A non-stationary factor copula model for non-Gaussian spatial data,”](https://marcgenton.github.io/2024.MKG.Stat.pdf) *Stat*, **13**:e715.
-
-**[308]** Pan, Q., Abdulah, S., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y. (2024), [“GPU- accelerated Vecchia approximations of Gaussian processes for geospatial data using batched matrix computations,”](https://marcgenton.github.io/2024.PAGKLS.ISC.pdf) *ISC High Performance Research Paper Proceedings*, 39th International Conference, Hamburg, Germany, pp. 1-12.
-
-**[307]** Qu, Z., Dai, W., and Genton, M. G. (2024), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, to appear.
+**[307]** Pan, Q., Abdulah, S., Genton, M. G., Keyes, D. E., Ltaief, H., and Sun, Y. (2024), [“GPU- accelerated Vecchia approximations of Gaussian processes for geospatial data using batched matrix computations,”](https://marcgenton.github.io/2024.PAGKLS.ISC.pdf) *ISC High Performance Research Paper Proceedings*, 39th International Conference, Hamburg, Germany, pp. 1-12.
 
 **[306]** Wang, K., Karling, M., Arellano-Valle, R. B., and Genton, M. G. (2024), [“Multivariate unified skew-t distributions and their properties,”](https://marcgenton.github.io/2024.WKAG.JMVA.pdf) *Journal of Multivariate Analysis*, **203**:105322.
 
