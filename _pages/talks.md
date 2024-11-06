@@ -9,6 +9,8 @@ title: Talks
 
 **---** 
 
+**(402)** “Exascale Geostatistics for Environmental Data Science,” San Antonio ASA Chapter, San Antonio, USA, Virtual.
+
 **(401)** “Exascale Geostatistics for Environmental Data Science,” Politecnico MOX Colloquium, Milan, Italy.
 
 **(400)** “Exascale Geostatistics for Environmental Data Science,” University of Padova, Padova, Italy.
