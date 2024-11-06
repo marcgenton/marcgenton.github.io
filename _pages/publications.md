@@ -436,7 +436,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), [“Shannon entropy and mutual information for multivariate skew-elliptical distributions,”](https://marcgenton.github.io/2013.ACG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 42-62. ([Corrigendum](https://marcgenton.github.io/2024.ACG.SJS.corr.pdf))
+**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), [“Shannon entropy and mutual information for multivariate skew-elliptical distributions,”](https://marcgenton.github.io/2013.ACG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 42-62. ([Corrigendum](https://marcgenton.github.io/2024.ACG.SJS.corr.pdf)) 
 
 **[145]** Branco, M. D., Genton, M. G., and Liseo, B. (2013), [“Objective Bayesian analysis of skew-t distributions,”](https://marcgenton.github.io/2013.BGL.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 63-85.
 
