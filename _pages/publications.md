@@ -9,6 +9,8 @@ title: Publications
 
 **---** 
 
+**[324]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
 **[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
 **[322]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
