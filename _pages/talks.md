@@ -9,6 +9,8 @@ title: Talks
 
 **---** 
 
+**(403)** "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," finalist GB Climate talk at SC24, Atlanta, USA.
+
 **(402)** “Exascale Geostatistics for Environmental Data Science,” San Antonio ASA Chapter, San Antonio, USA, Virtual.
 
 **(401)** “Exascale Geostatistics for Environmental Data Science,” Politecnico MOX Colloquium, Milan, Italy.
