@@ -47,6 +47,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - Genton, M. G. (2004), Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality, Edited Volume, Chapman & Hall/CRC, Boca Raton, FL, 416 pp
 
 # Honors and Awards
+- *2024* ACM Gordon Bell Prize in Climate Modeling
 - *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
 - *2024* Don Owen Award from the American Statistical Association's San Antonio Chapter
 - *2023* Barnett Award from the Royal Statistical Society, UK
