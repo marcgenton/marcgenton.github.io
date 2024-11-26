@@ -24,6 +24,7 @@ I am the Al-Khawarizmi Distinguished Professor of Statistics at King Abdullah Un
 My research interests include **spatio-temporal statistics**, **computational statistics**, **HPC**, and **skewed non-Gaussian multivariate distributions**, with applications in **Environmental and Climate Sciences**, as well as **renewable energy**. 
 
 # News
+- *2024.11*: &nbsp; [KAUST team wins ACM Gordon Bell Prize for Climate Modelling](https://kaust.edu.sa/en/news/kaust-wins-prestigious-gordon-bell-prize-for-innovation-in-climate-modelling))
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # Education
