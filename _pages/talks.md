@@ -481,7 +481,7 @@ title: Talks
 
 **(207)** "Cross-Covariance Functions for Multivariate Random Fields," ENAR, Miami, USA.
 
-**(206)** "Functional ****oxplots," XII EMR, Fortaleza, Brazil.
+**(206)** "Functional boxplots," XII EMR, Fortaleza, Brazil.
 
 **(205)** "Functional Boxplots for Visualization of Complex Curve/Image Data: An Application to Precipitation and Climate Model Output," Rutgers University, Piscataway, USA.
 
