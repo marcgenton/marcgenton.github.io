@@ -9,9 +9,13 @@ title: Publications
 
 **---** 
 
-**[322]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[324]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
-**[321]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
+**[322]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
+**[321]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/) *Computers and Geosciences*, to appear.
 
 **[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/) *TEST*, to appear.
 
@@ -436,7 +440,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), [“Shannon entropy and mutual information for multivariate skew-elliptical distributions,”](https://marcgenton.github.io/2013.ACG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 42-62.
+**[146]** Arellano-Valle, R. B., Contreras-Reyes, J., and Genton, M. G. (2013), [“Shannon entropy and mutual information for multivariate skew-elliptical distributions,”](https://marcgenton.github.io/2013.ACG.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 42-62. ([Corrigendum](https://marcgenton.github.io/2024.ACG.SJS.corr.pdf)) 
 
 **[145]** Branco, M. D., Genton, M. G., and Liseo, B. (2013), [“Objective Bayesian analysis of skew-t distributions,”](https://marcgenton.github.io/2013.BGL.SJS.pdf) *Scandinavian Journal of Statistics*, **40**, 63-85.
 

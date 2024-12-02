@@ -9,6 +9,8 @@ title: Talks
 
 **---** 
 
+**(403)** "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," finalist GB Climate talk at SC24, Atlanta, USA.
+
 **(402)** “Exascale Geostatistics for Environmental Data Science,” San Antonio ASA Chapter, San Antonio, USA, Virtual.
 
 **(401)** “Exascale Geostatistics for Environmental Data Science,” Politecnico MOX Colloquium, Milan, Italy.
@@ -929,7 +931,7 @@ title: Talks
 
 **(18)** "Indirect Inference for Spatio-Temporal Autoregression Models," Spatial-temporal modeling and its application, Leeds, UK.
 
-**(17)** Genton, M. G. (1999), "Robust Spatial Prediction of Global Radiation in Switzerland," Statistics in the Sciences: Environmetrics, Genetics, and Related Topics, Ascona, Switzerland.
+**(17)** "Robust Spatial Prediction of Global Radiation in Switzerland," Statistics in the Sciences: Environmetrics, Genetics, and Related Topics, Ascona, Switzerland.
 
 **(16)** "Simulation-based Robust Estimation of ARMA Models," 13th New England Statistics Symposium, University of Connecticut, Storrs, USA.
 
@@ -947,7 +949,7 @@ title: Talks
 
 **(12)** "Robust Variogram Analysis of Spatial Data," University College London, London, UK.
 
-**(11)** Genton, M. G. (1998), "Robustness Problems in the Analysis of Spatial Data," Workshop on Applications of Spatial Statistics in Earth, Environmental and Health Sciences, Montreal, Canada.
+**(11)** "Robustness Problems in the Analysis of Spatial Data," Workshop on Applications of Spatial Statistics in Earth, Environmental and Health Sciences, Montreal, Canada.
 
 **(10)** "On the Correlation Structure of the Classical Variogram Estimator and the Sample Autocovariance Function for Elliptically Contoured Distributions," 12th New England Statistics Symposium, M.I.T., Cambridge, USA.
 
