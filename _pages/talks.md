@@ -5,11 +5,25 @@ title: Talks
 
 **---**
 
+**---2025---------------------------**
+
+**---**
+
+
+
+**---**
+
 **---2024---------------------------**
 
 **---** 
 
-**(403)** "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," finalist GB Climate talk at SC24, Atlanta, USA.
+**(406)** “Large-Scale Spatial Data Science with ExaGeoStat,” University of Sao Paulo, Sao Paolo, Brazil.
+
+**(405)** “SUE, SUT, SUN, and SUNSET Multivariate Distributions for Conjugate Bayesian Inference,” EBEB and COBAL, Bello Horizonte, Brazil.
+
+**(404)** “Large-Scale Spatial Data Science with ExaGeoStat,” Federal University of Minas Gerais, Bello Horizonte, Brazil.
+
+**(403)** "Boosting Earth System Model Outputs and Saving Petabytes in Their Storage Using Exascale Climate Emulators," finalist GB Climate talk at SC24, Atlanta, USA.
 
 **(402)** “Exascale Geostatistics for Environmental Data Science,” San Antonio ASA Chapter, San Antonio, USA, Virtual.
 
