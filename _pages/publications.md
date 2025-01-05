@@ -19,7 +19,7 @@ title: Publications
 
 **[321]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
 
-**[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/) *TEST*, to appear.
+**[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.temp.pdf) *TEST*, to appear.
 
 **[319]** Qu, Z., Dai, W., and Genton, M. G. (2025), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, to appear.
 
