@@ -67,6 +67,9 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2008* Elected to the International Statistical Institute
 - *2007* Fellow of the American Statistical Association
 
+# Students
+[Students Link](https://genealogy.math.ndsu.nodak.edu/id.php?id=35404&fChrono=1)
+
 # Codes
 [Codes Link](https://marcgenton.github.io/_pages/codes)
 
