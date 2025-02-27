@@ -13,7 +13,7 @@ title: Publications
 
 **[324]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
 
-**[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
 
 **[322]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
