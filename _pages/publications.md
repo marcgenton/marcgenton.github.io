@@ -33,7 +33,7 @@ title: Publications
 
 **---** 
 
-**[317]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/2024.ABBCCGKKLSSS.SC24.pdf) *SC24* (GB Climate Modelling finalist), Article No. 2, 1-12.
+**[317]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/2024.ABBCCGKKLSSS.SC24.pdf) *SC24* (GB Climate Modelling finalist and award), Article No. 2, 1-12.
 
 **[316]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
 
