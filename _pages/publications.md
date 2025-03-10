@@ -428,7 +428,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”](https://marcgenton.github.io/2014.GJPSS.Stat.pdf) *Stat*, **3**, 1-11. ([code](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.39&file=sta439-sup-0001-SurfaceBoxplots.zip))
 
-**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) Journal of Multivariate Analysis*, **123**, 228-251.
+**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) *Journal of Multivariate Analysis*, **123**, 228-251.
 
 **[151]** Lopez-Pintado, S., Sun, Y., Lin, J. K., and Genton, M. G. (2014), [“Simplicial band depth for multivariate functional data,”](https://marcgenton.github.io/2014.LSLG.ADAC.pdf) *Advances in Data Analysis and Classification*, **8**, 321-338.
 
