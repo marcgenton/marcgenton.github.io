@@ -9,15 +9,21 @@ title: Publications
 
 **---** 
 
-**[325]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[328]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/) *Journal of Data Science, Statistics, and Visualisation*, to appear. 
 
-**[324]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
+**[327]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/) *ISC*, to appear.
 
-**[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
+**[326]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
-**[322]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[325]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
 
-**[321]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
+**[324]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
+
+**[323]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+
+**[322]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
+
+**[321]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/) *Technometrics*, to appear.
 
 **[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.temp.pdf) *TEST*, to appear.
 
@@ -31,7 +37,7 @@ title: Publications
 
 **---** 
 
-**[317]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/2024.ABBCCGKKLSSS.SC24.pdf) *SC24* (GB Climate Modelling finalist), Article No. 2, 1-12.
+**[317]** Abdulah, S., Baker, A. H., Bosilca, G., Cao, Q., Castruccio, S., Genton, M. G., Keyes, D. E., Khalid, Z., Ltaief, H., Song, Y., Stenchikov, G. L., and Sun, Y. (2024), [“Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators,”](https://marcgenton.github.io/2024.ABBCCGKKLSSS.SC24.pdf) *SC24* (GB Climate Modelling finalist and award), Article No. 2, 1-12.
 
 **[316]** Abdulah, S., Ejarque, J., Marzouk, O., Ltaief, H., Sun, Y., Genton, M. G., Badia, R. M., and Keyes, D. E. (2024), [“Portability and scalability evaluation of large-scale statistical modeling and prediction software through HPC-ready containers,”](https://marcgenton.github.io/2024.AEMLSGBK.FGCS.pdf) *Future Generation Computer Systems*, **161**, 248-258.
 
@@ -424,7 +430,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[153]** Genton, M. G., Johnson, C., Potter, K., Stenchikov, G., and Sun, Y. (2014), [“Surface boxplots,”](https://marcgenton.github.io/2014.GJPSS.Stat.pdf) *Stat*, **3**, 1-11. ([code](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.39&file=sta439-sup-0001-SurfaceBoxplots.zip))
 
-**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) Journal of Multivariate Analysis*, **123**, 228-251.
+**[152]** Kim, H.-M., Ryu, D., Mallick, B., and Genton, M. G. (2014), [“Mixtures of skewed Kalman filters,”](https://marcgenton.github.io/2014.KRMG.JMVA.pdf) *Journal of Multivariate Analysis*, **123**, 228-251.
 
 **[151]** Lopez-Pintado, S., Sun, Y., Lin, J. K., and Genton, M. G. (2014), [“Simplicial band depth for multivariate functional data,”](https://marcgenton.github.io/2014.LSLG.ADAC.pdf) *Advances in Data Analysis and Classification*, **8**, 321-338.
 
