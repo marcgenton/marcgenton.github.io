@@ -9,7 +9,9 @@ title: Talks
 
 **---**
 
+**(408)** “Publishing for Impact in the Mathematical and Statistical Sciences," workshop at KAUST, Thuwal, KSA.
 
+**(407)** “Large-Scale Spatial Data Science," shortcourse at PNU, Riyadh, KSA.
 
 **---**
 
