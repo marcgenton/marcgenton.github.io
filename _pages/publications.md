@@ -63,7 +63,7 @@ title: Publications
 
 **[305]** Zhang, J., Crippa, P., Genton, M. G., and Castruccio, S. (2024), [“Sensitivity analysis of wind energy resources with Bayesian non-Gaussian and non-stationary functional ANOVA,”](https://marcgenton.github.io/2024.ZCGC.AOAS.pdf) *Annals of Applied Statistics*, **18**, 23-41.
 
-**[304]** Zhang, X., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2024), [“Parallel approximations for high-dimensional multivariate normal probability computation in confidence region detection applications,”](https://marcgenton.github.io/2024.ZACLSGK.IPDPS.pdf) *IEEE International Parallel and Distributed Processing Symposium (IPDPS)*, San Francisco, CA, USA, pp. 265-276.
+**[304]** Zhang, X., Abdulah, S., Cao, J., Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2024), [“Parallel approximations for high-dimensional multivariate normal probability computation in confidence region detection applications,”](https://marcgenton.github.io/2024.ZACLSGK.IPDPS.pdf) *IEEE International Parallel and Distributed Processing Symposium (IPDPS)*, San Francisco, CA, USA, pp. 265-276.
 
 **---**
 
