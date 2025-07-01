@@ -33,7 +33,7 @@ title: Publications
 
 **[320]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/) *Technometrics*, to appear.
 
-**[319]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.temp.pdf) *TEST*, **34**, 459-482. (Discussion [1](https://marcgenton.github.io/2025.Disc1.TEST.pdf),[2](https://marcgenton.github.io/2025.Disc2.TEST.pdf),[3](https://marcgenton.github.io/2025.Disc3.TEST.pdf),[4](https://marcgenton.github.io/2025.Disc4.TEST.pdf),[5](https://marcgenton.github.io/2025.Disc5.TEST.pdf),[rejoinder](https://marcgenton.github.io/2025.Rejoinder.TEST.pdf))
+**[319]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.pdf) *TEST*, **34**, 459-482. (Discussion [1](https://marcgenton.github.io/2025.Disc1.TEST.pdf),[2](https://marcgenton.github.io/2025.Disc2.TEST.pdf),[3](https://marcgenton.github.io/2025.Disc3.TEST.pdf),[4](https://marcgenton.github.io/2025.Disc4.TEST.pdf),[5](https://marcgenton.github.io/2025.Disc5.TEST.pdf),[rejoinder](https://marcgenton.github.io/2025.Rejoinder.TEST.pdf))
 
 **[318]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
