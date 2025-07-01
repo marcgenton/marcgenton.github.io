@@ -9,6 +9,8 @@ title: Talks
 
 **---**
 
+**(409)** “Large-Scale Spatial Data Science with ExaGeoStat," Shandong University of Finance and Economics, Jinan, China.
+
 **(408)** “Publishing for Impact in the Mathematical and Statistical Sciences," workshop at KAUST, Thuwal, KSA.
 
 **(407)** “Large-Scale Spatial Data Science," shortcourse at PNU, Riyadh, KSA.
