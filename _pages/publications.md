@@ -27,7 +27,7 @@ title: Publications
 
 **[324]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
 
-**[323]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[323]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/2025.NHAQGS.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 683-696.
 
 **[322]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
 
