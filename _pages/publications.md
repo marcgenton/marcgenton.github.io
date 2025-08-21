@@ -19,7 +19,7 @@ title: Publications
 
 **[328]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
 
-**[327]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/) *ISC*, to appear.
+**[327]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
 
 **[326]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
@@ -31,7 +31,7 @@ title: Publications
 
 **[322]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
 
-**[321]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/2025.PAGS.Technometrics.pdf) *Technometrics*, **67**, 546-568.
+**[321]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/2025.PAGS.Technometrics.pdf) *Technometrics*, **67**, 546-558.
 
 **[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.pdf) *TEST*, **34**, 459-482. (Discussion [1](https://marcgenton.github.io/2025.Disc1.TEST.pdf),[2](https://marcgenton.github.io/2025.Disc2.TEST.pdf),[3](https://marcgenton.github.io/2025.Disc3.TEST.pdf),[4](https://marcgenton.github.io/2025.Disc4.TEST.pdf),[5](https://marcgenton.github.io/2025.Disc5.TEST.pdf),[rejoinder](https://marcgenton.github.io/2025.Rejoinder.TEST.pdf))
 
