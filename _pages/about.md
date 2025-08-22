@@ -52,7 +52,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *2024* Gordon Bell Prize in Climate Modeling finalist for exascale climate emulator at SC24
 - *2024* Don Owen Award from the American Statistical Association's San Antonio Chapter
 - *2023* Barnett Award from the Royal Statistical Society, UK
-- *2022* Gordon Bell Prize  finalist for ExaGeoStat software at SC22
+- *2022* Gordon Bell Prize finalist for ExaGeoStat software at SC22
 - *2020* Georges Matheron Lecturer Award of the International Association for Mathematical Geosciences
 - *2019* Service Award from the International Statistical Institute (ISI) for serving as Editor-in-Chief of the journal Stat (Jan. 2015 - Dec. 2017)
 - *2018* JRSS-A paper read before the Royal Statistical Society, UK
