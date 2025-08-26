@@ -9,7 +9,11 @@ title: Publications
 
 **---** 
 
-**[329]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+**[331]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+
+**[330]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
+
+**[329]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
 
 **---**
 
@@ -17,27 +21,27 @@ title: Publications
 
 **---** 
 
-**[328]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
+**[328]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
 
-**[327]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
+**[327]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
 
-**[326]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[326]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
 
-**[325]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
+**[325]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
-**[324]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
+**[324]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
 
-**[323]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/2025.NHAQGS.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 683-696.
+**[323]** Martinez-Hernandez, I., and Genton, M. G. (2025), [“Functional time series analysis and visualization based on records,”](https://marcgenton.github.io/2025.MG.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 72-83.
 
-**[322]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
+**[322]** Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., and Sun, Y. (2025), [“Efficient large-scale nonstationary spatial covariance function estimation using convolutional neural networks,”](https://marcgenton.github.io/2025.NHAQGS.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 683-696.
 
-**[321]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/2025.PAGS.Technometrics.pdf) *Technometrics*, **67**, 546-558.
+**[321]** Ojo, O. T., and Genton, M. G. (2025), [“Functional multiple-point simulations,”](https://marcgenton.github.io/2025.OG.CG.pdf) *Computers and Geosciences*, **195**:105767.
 
-**[320]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.pdf) *TEST*, **34**, 459-482. (Discussion [1](https://marcgenton.github.io/2025.Disc1.TEST.pdf),[2](https://marcgenton.github.io/2025.Disc2.TEST.pdf),[3](https://marcgenton.github.io/2025.Disc3.TEST.pdf),[4](https://marcgenton.github.io/2025.Disc4.TEST.pdf),[5](https://marcgenton.github.io/2025.Disc5.TEST.pdf),[rejoinder](https://marcgenton.github.io/2025.Rejoinder.TEST.pdf))
+**[320]** Pan, Q., Abdulah, S., Genton, M. G., and Sun, Y. (2025), [“Block Vecchia approximation for scalable and efficient Gaussian process computations,”](https://marcgenton.github.io/2025.PAGS.Technometrics.pdf) *Technometrics*, **67**, 546-558.
 
-**[319]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/2025.SDG.JASA.pdf) *Journal of the American Statistical Association*, **120**, 1189-1200.
+**[319]** Qu, Z., Dai, W., Euan, C., Sun, Y., and Genton, M. G. (2025), [“Exploratory functional data analysis (with discussion),”](https://marcgenton.github.io/2025.QDESG.TEST.pdf) *TEST*, **34**, 459-482. (Discussion [1](https://marcgenton.github.io/2025.Disc1.TEST.pdf),[2](https://marcgenton.github.io/2025.Disc2.TEST.pdf),[3](https://marcgenton.github.io/2025.Disc3.TEST.pdf),[4](https://marcgenton.github.io/2025.Disc4.TEST.pdf),[5](https://marcgenton.github.io/2025.Disc5.TEST.pdf),[rejoinder](https://marcgenton.github.io/2025.Rejoinder.TEST.pdf))
 
-**[318]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2025), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2025.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
+**[318]** Song, Y., Dai, W., and Genton, M. G. (2025), [“Large-scale low-rank Gaussian process prediction with support points,”](https://marcgenton.github.io/2025.SDG.JASA.pdf) *Journal of the American Statistical Association*, **120**, 1189-1200.
 
 **---**
 
