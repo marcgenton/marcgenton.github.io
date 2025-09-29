@@ -9,11 +9,11 @@ title: Publications
 
 **---** 
 
-**[331]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+**[332]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
 
-**[330]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
+**[331]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
 
-**[329]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
+**[330]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
 
 **---**
 
@@ -21,13 +21,15 @@ title: Publications
 
 **---** 
 
-**[328]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
+**[329]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
+
+**[328]** Cavazzutti, M., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2025), ["Functional data depth for the analysis of Earth surface temperatures,"](https://marcgenton.github.io/2025.CASGS.IWFOS.pdf) in: Aneiros, G., Bongiorno, E. G., Goia, A., Hušková, M. (eds), *New Trends in Functional Statistics and Related Fields*, IWFOS 2025, Contributions to Statistics, Springer, Chapter 15, 119-126.
 
 **[327]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
 
 **[326]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
 
-**[325]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
+**[325]** Jimenez-Varon, C. F., Lee, H., Genton, M. G., and Sun, Y.  (2025), ["Visualization and assessment of copula symmetry,"](https://marcgenton.github.io/2025.JLGS.JCGS.pdf) *Journal of Computational and Graphical Statistics*, **34**, 1140-1152.
 
 **[324]** Kim, M., Genton, M. G., Huser, R., and Castruccio, S.  (2025), ["A neural network-based adaptive cut-off approach to normality testing for dependent data,"](https://marcgenton.github.io/2025.KGHC.SC.pdf) *Statistics and Computing*, **35**, Article No. 22, 1-15.
 
