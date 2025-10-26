@@ -5,9 +5,19 @@ title: Talks
 
 **---**
 
+**---2026---------------------------**
+
+**---**
+
+**(411)** “Multivariate SUN, SUNNY, and SUNSET Distributions: Properties and Applications," Skew26, Padova, Italy.
+
+**---**
+
 **---2025---------------------------**
 
 **---**
+
+**(410)** “High-Performance Statistical Computing: The Case of ExaGeoStat for Large-Scale Spatial Data Science," MBZUAI, Abu Dhabi, UAE.
 
 **(409)** “Large-Scale Spatial Data Science with ExaGeoStat," Shandong University of Finance and Economics, Jinan, China.
 
