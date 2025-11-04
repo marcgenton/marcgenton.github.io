@@ -9,6 +9,8 @@ title: Publications
 
 **---** 
 
+**[333]** Abdulah, S., Salvana, M., Sun, Y., Keyes, D. E., and Genton, M. G. (2026), ["High-Performance Statistical Computing (HPSC): Challenges, opportunities, and future directions,"](https://marcgenton.github.io/) *WIREs: Computational Statistics*, to appear.
+
 **[332]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
 
 **[331]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
