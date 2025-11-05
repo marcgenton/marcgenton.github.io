@@ -31,7 +31,7 @@ title: Talks
 
 **---** 
 
-**(406)** “Large-Scale Spatial Data Science with ExaGeoStat,” University of Sao Paulo, Sao Paolo, Brazil.
+**(406)** “Large-Scale Spatial Data Science with ExaGeoStat,” University of Sao Paulo, Sao Paulo, Brazil.
 
 **(405)** “SUE, SUT, SUN, and SUNSET Multivariate Distributions for Conjugate Bayesian Inference,” EBEB and COBAL, Bello Horizonte, Brazil.
 
