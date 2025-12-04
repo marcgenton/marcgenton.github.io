@@ -9,19 +9,19 @@ title: Publications
 
 **---** 
 
-**[333]** Abdulah, S., Salvana, M., Sun, Y., Keyes, D. E., and Genton, M. G. (2026), ["High-Performance Statistical Computing (HPSC): Challenges, opportunities, and future directions,"](https://marcgenton.github.io/) *WIREs: Computational Statistics*, to appear.
+**[333]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
 
-**[332]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+**[332]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
 
-**[331]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, to appear.
-
-**[330]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
+**[331]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
 
 **---**
 
 **---2025---------------------------**
 
 **---** 
+
+**[330]** Abdulah, S., Salvana, M., Sun, Y., Keyes, D. E., and Genton, M. G. (2025), ["High-Performance Statistical Computing (HPSC): Challenges, opportunities, and future directions,"](https://marcgenton.github.io/2025.ASSKG.WIREs.pdf) *WIREs: Computational Statistics*, **17**:e70052.
 
 **[329]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
 
