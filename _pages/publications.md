@@ -31,7 +31,7 @@ title: Publications
 
 **[328]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
 
-**[327]** Chen, S., and Genton, M. G. (2025), ["Maximum composite Lq-likelihood for robust spatial covariance estimation,"](https://marcgenton.github.io/2025.CG.ChJS.pdf) *Chilean Journal of Statistics*, to appear. 
+**[327]** Chen, S., and Genton, M. G. (2025), ["Maximum composite Lq-likelihood for robust spatial covariance estimation,"](https://marcgenton.github.io/2025.CG.ChJS.pdf) *Chilean Journal of Statistics*, **16**, 234-255. 
 
 **[326]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
 
