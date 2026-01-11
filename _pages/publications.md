@@ -27,11 +27,11 @@ title: Publications
 
 **[330]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
 
-**[329]** Cavazzutti, M., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2025), ["Functional data depth for the analysis of Earth surface temperatures,"](https://marcgenton.github.io/2025.CASGS.IWFOS.pdf) in: Aneiros, G., Bongiorno, E. G., Goia, A., Hušková, M. (eds), *New Trends in Functional Statistics and Related Fields*, IWFOS 2025, Contributions to Statistics, Springer, Chapter 15, 119-126.
+**[329]** Cavazzutti, M., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2025), ["Functional data depth for the analysis of Earth surface temperatures,"](https://marcgenton.github.io/2025.CASGS.IWFOS.pdf) in: Aneiros, G., Bongiorno, E. G., Goia, A., Hušková, M. (eds), *New Trends in Functional Statistics and Related Fields*, IWFOS 2025, Contributions to Statistics, Springer, Chapter 15, 119-126. 
 
 **[328]** Chen, S., Chowdhury, J., and Genton, M. G. (2025), ["Robust maximum Lq-likelihood covariance estimation for replicated spatial data,"](https://marcgenton.github.io/2025.CCG.JDSSV.pdf) *Journal of Data Science, Statistics, and Visualisation*, **5**:4, 1-28. 
 
-**[327]** Chen, S., and Genton, M. G. (2025), ["Maximum composite Lq-likelihood for robust spatial covariance estimation,"](https://marcgenton.github.io/2025.CG.ChJS.pdf) *Chilean Journal of Statistics*, to appear. 
+**[327]** Chen, S., and Genton, M. G. (2025), ["Maximum composite Lq-likelihood for robust spatial covariance estimation,"](https://marcgenton.github.io/2025.CG.ChJS.pdf) *Chilean Journal of Statistics*, **16**, 234-255. 
 
 **[326]** Geng, Z., Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2025), ["GPU-accelerated modified Bessel function of the second kind for Gaussian processes,"](https://marcgenton.github.io/2025.GASLKG.ISC.pdf) *ISC High Performance 2025 Research Paper Proceedings (40th International Conference)*, Hamburg, Germany, 1-12.
 
