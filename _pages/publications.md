@@ -25,7 +25,7 @@ title: Publications
 
 **[331]** Abdulah, S., Salvana, M., Sun, Y., Keyes, D. E., and Genton, M. G. (2025), ["High-Performance Statistical Computing (HPSC): Challenges, opportunities, and future directions,"](https://marcgenton.github.io/2025.ASSKG.WIREs.pdf) *WIREs: Computational Statistics*, **17**:e70052.
 
-**[330]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/) *IEEE High Performance Extreme Computing Conference*, to appear.
+**[330]** Alomairy, R., Abdulah, S., Cao, Q., Genton, M. G., Keyes, D. E., and Ltaief, H. (2025), ["Sustainably modeling a sustainable future climate,"](https://marcgenton.github.io/2025.AACGKL.IEEEHPEC.pdf) *IEEE High Performance Extreme Computing Conference*, Wakefield, MA, USA, pp. 1-8.
 
 **[329]** Cavazzutti, M., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2025), ["Functional data depth for the analysis of Earth surface temperatures,"](https://marcgenton.github.io/2025.CASGS.IWFOS.pdf) in: Aneiros, G., Bongiorno, E. G., Goia, A., Hušková, M. (eds), *New Trends in Functional Statistics and Related Fields*, IWFOS 2025, Contributions to Statistics, Springer, Chapter 15, 119-126. 
 
