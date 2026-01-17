@@ -33,7 +33,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 - *1992*, Degree in Applied Mathematics Engineering, Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland 
 
 # Academic Positions
-- *2012-20xx*, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
+- *2012-2026*, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
 - *2009-2012*, Texas A&M University (TAMU), College Station, USA
 - *2006-2009*, University of Geneva (UNIGE), Geneva, Switzerland
 - *2004-2006*, Texas A&M University (TAMU), College Station, USA
@@ -44,7 +44,7 @@ My research interests include **spatio-temporal statistics**, **computational st
 [Publications Link](./publications.md)
 
 # Books
-- Arellano-Valle, R. B., and Genton, M. G. (2026), Multivariate Statistics Beyond Normality, Chapman & Hall/CRC, in preparation
+- Arellano-Valle, R. B., and Genton, M. G. (2026), [Multivariate Statistics Beyond Normality](./2026AGbook.md), Chapman & Hall/CRC. [BOOK LINK](./2026AGbook.md)
 - Genton, M. G. (2004), Skew-Elliptical Distributions and Their Applications: A Journey Beyond Normality, Edited Volume, Chapman & Hall/CRC, Boca Raton, FL, 416 pp
 
 # Honors and Awards
