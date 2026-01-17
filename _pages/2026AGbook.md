@@ -1,6 +1,6 @@
 ---
 layout: 2026AGbook
-title: BOOK
+title: 2026AGbook
 ---
 
 **---**
