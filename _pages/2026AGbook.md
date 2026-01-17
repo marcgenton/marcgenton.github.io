@@ -9,4 +9,6 @@ title: 2026AGbook
 
 Arellano-Valle, R. B., and Genton, M. G. (2026), Multivariate Statistics Beyond Normality, Chapman & Hall/CRC.
 
-**---** 
+**---**
+
+
