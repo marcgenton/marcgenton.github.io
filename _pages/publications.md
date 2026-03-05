@@ -832,7 +832,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **---** 
 
-**[9]** Genton, M. G. (1998), [“Highly robust variogram estimation,”](https://marcgenton.github.io/1998.G.MG.1.pdf) *Mathematical Geology*, **30**, 213- 221.
+**[9]** Genton, M. G. (1998), [“Highly robust variogram estimation,”](https://marcgenton.github.io/1998.G.MG.1.pdf) *Mathematical Geology*, **30**, 213-221.
 
 **[8]** Genton, M. G. (1998), [“Variogram fitting by generalized least squares using an explicit formula for the covariance structure,”](https://marcgenton.github.io/1998.G.MG.2.pdf) *Mathematical Geology*, **30**, 323-345.
 
