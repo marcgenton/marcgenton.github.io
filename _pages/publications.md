@@ -816,7 +816,7 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[15]** Eyer, L., and Genton, M. G. (1999), [“Characterization of variable stars by robust wave variograms: An application to Hipparcos mission,”](https://marcgenton.github.io/1999.EG.AA.pdf) *Astronomy and Astrophysics Supplement Series*, **136**, 421-428.
 
-**[14]** Furrer, R., and Genton, M. G. (1999), [“Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats,”](https://marcgenton.github.io/) *Systems Research and Information Systems*, special issue on Spatial Data Analysis and Modeling, **8**, 257-272.
+**[14]** Furrer, R., and Genton, M. G. (1999), [“Robust spatial data analysis of Lake Geneva sediments with S+SpatialStats,”](https://marcgenton.github.io/1999.FG.SRIS.pdf) *Systems Research and Information Systems*, special issue on Spatial Data Analysis and Modeling, **8**, 257-272.
 
 **[13]** Genton, M. G. (1999), [“The correlation structure of the sample autocovariance function for a particular class of time series with elliptically contoured distribution,”](https://marcgenton.github.io/1999.G.SPL.pdf) *Statistics and Probability Letters*, **41**, 131-137.
 
