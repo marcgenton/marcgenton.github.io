@@ -13,7 +13,7 @@ title: Publications
 
 **[335]** Wang, K., and Genton, M. G. (2026), ["A generalized unified skew-normal process with neural Bayes inference,"](https://marcgenton.github.io/2026.WG.SC.pdf) *Statistics and Computing*, **36**:64.
 
-**[334]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, **75**, 303–319.
+**[334]** Wang, K., Kim, M., Castruccio, S., and Genton, M. G. (2026), ["Modeling high-resolution spatio-temporal wind with deep echo state networks and stochastic partial differential equations,"](https://marcgenton.github.io/2026.WKCG.JRSSC.pdf) *Journal of the Royal Statistical Society, Series C*, **75**, 303-319.
 
 **[333]** Wang, Z., Harrou, F., Sun, Y., and Genton, M. G. (2026), [“Exploring the magnitude-shape plot framework for anomaly detection in crowded video scenes,”](https://marcgenton.github.io/2026.WHSG.chapter5.pdf) in *AI-Based Solutions for Engineering*, Melda Yücel and Hasan Volkan Oral (Eds), IGI-Global, 137-173.
 
