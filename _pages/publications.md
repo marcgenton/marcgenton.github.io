@@ -694,6 +694,8 @@ role in remote sensing of atmospheric carbon dioxide,"](https://marcgenton.githu
 
 **[58]** Arellano-Valle, R. B., and Genton, M. G. (2005), [“On fundamental skew distributions,”](https://marcgenton.github.io/2005.AG.JMVA.pdf) *Journal of Multivariate Analysis*, **96**, 93-116.
 
+**[58]** Baloch, S.H., Krim, H., and Genton, M. G. (2005), ["Robust independent component analysis,"](https://marcgenton.github.io/2005.BKG.SSPconf.pdf) In: IEEE/SP 13th Workshop on Statistical Signal Processing, Bordeaux, France, pp 61–64.
+
 **[57]** de Luna, X., and Genton, M. G. (2005), [“Predictive spatio-temporal models for spatially sparse environmental data,”](https://marcgenton.github.io/2005.dLG.SS.pdf) *Statistica Sinica*, special issue in honor of George Tiao’s retirement, **15**, 547-568.
 
 **[56]** Genton, M. G. (2005), ["discussion of The skew-normal distribution and related multivariate families”](https://marcgenton.github.io/2005.G.SJS.pdf) by A. Azzalini, *Scandinavian Journal of Statistics*, **32**, 189-198.
