@@ -9,7 +9,9 @@ title: Publications
 
 **---** 
 
-**[336]** Qu, Z., Dai, W., and Genton, M. G. (2026), [“Robust two-layer partition clustering of sparse multivariate functional data,”](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+**[337]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+
+**[336]** Shi, J., Abdulah, S., Sun, Y., and Genton, M. G. (2026), ["Fully decentralized inference for spatial data using low-rank models,"] (https://marcgenton.github.io/) *Journal of the Royal Statistical Society - Series B*, to appear.
 
 **[335]** Wang, K., and Genton, M. G. (2026), ["A generalized unified skew-normal process with neural Bayes inference,"](https://marcgenton.github.io/2026.WG.SC.pdf) *Statistics and Computing*, **36**:64.
 
