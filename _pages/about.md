@@ -19,8 +19,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Al-Khawarizmi Distinguished Professor of Statistics at King Abdullah University of Science and Technology (KAUST) where I lead the Spatio-Temporal Statistics and Data Science (STSDS) research group.
-
 My research interests include **spatio-temporal statistics**, **computational statistics**, **HPC**, and **skewed non-Gaussian multivariate distributions**, with applications in **Environmental and Climate Sciences**, as well as **renewable energy**. 
 
 # News
