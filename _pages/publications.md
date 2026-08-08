@@ -9,7 +9,7 @@ title: Publications
 
 **---** 
 
-**[338]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/) *Environmetrics*, to appear.
+**[338]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
 
 **[337]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
 
