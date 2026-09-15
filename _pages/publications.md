@@ -9,6 +9,8 @@ title: Publications
 
 **---** 
 
+**[340]** Cavazzutti, M., Palummo, A., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2026), ["Voronoi depth for functional data over non-convex multidimensional supports,"](https://marcgenton.github.io/) *Journal of Multivariate Analysis*, to appear.
+
 **[339]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
 
 **[338]** Pan, Q., Abdulah, S., Abduljabbar, M., Ltaief, H., Herten, A., Bode, M., Pratola, M., Fadikar, A., Genton, M. G., Keyes, D. E., and Sun, Y. (2026), ["Scaled block Vecchia approximation for high-dimensional Gaussian process emulation on GPUs,"](https://marcgenton.github.io/) *Transactions on Parallel and Distributed Systems*, to appear.
