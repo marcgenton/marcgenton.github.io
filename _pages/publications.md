@@ -13,9 +13,9 @@ title: Publications
 
 **[339]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
 
-**[338]** Pan, Q., Abdulah, S., Abduljabbar, M., Ltaief, H., Herten, A., Bode, M., Pratola, M., Fadikar, A., Genton, M. G., Keyes, D. E., and Sun, Y. (2026), ["Scaled block Vecchia approximation for high-dimensional Gaussian process emulation on GPUs,"](https://marcgenton.github.io/) *Transactions on Parallel and Distributed Systems*, to appear.
+**[338]** Pan, Q., Abdulah, S., Abduljabbar, M., Ltaief, H., Herten, A., Bode, M., Pratola, M., Fadikar, A., Genton, M. G., Keyes, D. E., and Sun, Y. (2026), ["Scaled block Vecchia approximation for high-dimensional Gaussian process emulation on GPUs,"](https://marcgenton.github.io/2026.PAALHBPFGKS.TPDS.pdf) *Transactions on Parallel and Distributed Systems*, **37**, 2554-2569.
 
-**[337]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/) *Econometrics and Statistics*, **40C**, xx-xx.
+**[337]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/2026.QDG.ES.pdf) *Econometrics and Statistics*, **40**, 153-172.
 
 **[336]** Shi, J., Abdulah, S., Sun, Y., and Genton, M. G. (2026), ["Fully decentralized inference for spatial data using low-rank models,"](https://marcgenton.github.io/) *Journal of the Royal Statistical Society - Series B*, to appear.
 
