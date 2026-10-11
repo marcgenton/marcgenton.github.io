@@ -2,6 +2,14 @@
 layout: publications
 title: Publications
 ---
+**---**
+
+**---2027---------------------------**
+
+**---** 
+
+**[341]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+
 
 **---**
 
