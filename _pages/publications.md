@@ -8,7 +8,9 @@ title: Publications
 
 **---** 
 
-**[341]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+**[340]** Cavazzutti, M., Palummo, A., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2027), ["Voronoi depth for functional data over non-convex multidimensional supports,"](https://marcgenton.github.io/2027.CPASGS.JMVA.pdf) *Journal of Multivariate Analysis*, **217**:105727.
+
+**[340]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
 
 **---**
@@ -16,8 +18,6 @@ title: Publications
 **---2026---------------------------**
 
 **---** 
-
-**[340]** Cavazzutti, M., Palummo, A., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2026), ["Voronoi depth for functional data over non-convex multidimensional supports,"](https://marcgenton.github.io/) *Journal of Multivariate Analysis*, to appear.
 
 **[339]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
 
