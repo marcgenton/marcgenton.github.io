@@ -13,7 +13,7 @@ title: Publications
 **[341]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
 **[340]** Zhang, X., Conejero, J., Abdulah, S., Ejarque, J., Sun, Y., Badia, R. M., Keyes, D. E., and Genton, M. G. (2027),
-["RCOMPSs: A task-based parallel programming model in R,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics, to appear.
+["RCOMPSs: A task-based parallel programming model in R,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
 **---**
 
