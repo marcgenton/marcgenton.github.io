@@ -8,10 +8,12 @@ title: Publications
 
 **---** 
 
-**[340]** Cavazzutti, M., Palummo, A., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2027), ["Voronoi depth for functional data over non-convex multidimensional supports,"](https://marcgenton.github.io/2027.CPASGS.JMVA.pdf) *Journal of Multivariate Analysis*, **217**:105727.
+**[342]** Cavazzutti, M., Palummo, A., Arnone, E., Sun, Y., Genton, M. G., and Sangalli, L. M. (2027), ["Voronoi depth for functional data over non-convex multidimensional supports,"](https://marcgenton.github.io/2027.CPASGS.JMVA.pdf) *Journal of Multivariate Analysis*, **217**:105727.
 
-**[340]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
+**[341]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
+**[340]** Zhang, X., Conejero, J., Abdulah, S., Ejarque, J., Sun, Y., Badia, R. M., Keyes, D. E., and Genton, M. G. (2027),
+["RCOMPSs: A task-based parallel programming model in R,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics, to appear.
 
 **---**
 
