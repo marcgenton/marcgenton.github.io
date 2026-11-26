@@ -12,7 +12,9 @@ title: Publications
 
 **[341]** Karmakar, R., Chowdhury, J., Dutta, S., and Genton, M. G.  (2027), ["Uniform-over-dimension location tests for multivariate and high-dimensional data,"](https://marcgenton.github.io/) *Journal of the American Statistical Association*, to appear.
 
-**[340]** Zhang, X., Conejero, J., Abdulah, S., Ejarque, J., Sun, Y., Badia, R. M., Keyes, D. E., and Genton, M. G. (2027),
+**[340]** Shi, J., Abdulah, S., Sun, Y., and Genton, M. G. (2027), ["Fully decentralized inference for spatial data using low-rank models,"](https://marcgenton.github.io/) *Journal of the Royal Statistical Society - Series B*, to appear.
+
+**[339]** Zhang, X., Conejero, J., Abdulah, S., Ejarque, J., Sun, Y., Badia, R. M., Keyes, D. E., and Genton, M. G. (2027),
 ["RCOMPSs: A task-based parallel programming model in R,"](https://marcgenton.github.io/) *Journal of Computational and Graphical Statistics*, to appear.
 
 **---**
@@ -21,13 +23,11 @@ title: Publications
 
 **---** 
 
-**[339]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
+**[338]** Geng, Z., Castruccio, S., and Genton, M. G. (2026), ["Spatial-awared deep echo state networks for high-resolution spatio-temporal wind speed nowcasting,"](https://marcgenton.github.io/2026.GCG.Environmetrics.pdf) *Environmetrics*, **37**:e70119.
 
-**[338]** Pan, Q., Abdulah, S., Abduljabbar, M., Ltaief, H., Herten, A., Bode, M., Pratola, M., Fadikar, A., Genton, M. G., Keyes, D. E., and Sun, Y. (2026), ["Scaled block Vecchia approximation for high-dimensional Gaussian process emulation on GPUs,"](https://marcgenton.github.io/2026.PAALHBPFGKS.TPDS.pdf) *Transactions on Parallel and Distributed Systems*, **37**, 2554-2569.
+**[337]** Pan, Q., Abdulah, S., Abduljabbar, M., Ltaief, H., Herten, A., Bode, M., Pratola, M., Fadikar, A., Genton, M. G., Keyes, D. E., and Sun, Y. (2026), ["Scaled block Vecchia approximation for high-dimensional Gaussian process emulation on GPUs,"](https://marcgenton.github.io/2026.PAALHBPFGKS.TPDS.pdf) *Transactions on Parallel and Distributed Systems*, **37**, 2554-2569.
 
-**[337]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/2026.QDG.ES.pdf) *Econometrics and Statistics*, **40**, 153-172.
-
-**[336]** Shi, J., Abdulah, S., Sun, Y., and Genton, M. G. (2026), ["Fully decentralized inference for spatial data using low-rank models,"](https://marcgenton.github.io/) *Journal of the Royal Statistical Society - Series B*, to appear.
+**[336]** Qu, Z., Dai, W., and Genton, M. G. (2026), ["Robust two-layer partition clustering of sparse multivariate functional data,"](https://marcgenton.github.io/2026.QDG.ES.pdf) *Econometrics and Statistics*, **40**, 153-172.
 
 **[335]** Wang, K., and Genton, M. G. (2026), ["A generalized unified skew-normal process with neural Bayes inference,"](https://marcgenton.github.io/2026.WG.SC.pdf) *Statistics and Computing*, **36**:64.
 
@@ -249,7 +249,7 @@ title: Publications
 
 **[244]** Porcu, E., Bevilacqua, M., and Genton, M. G. (2020), ["Nonseparable, dynamically and compactly supported space-time covariance functions,"](https://marcgenton.github.io/2020.PBG.SS.pdf) *Statistica Sinica*, **30**, 719-739.
 
-**[243]** Salvana, M. L., and Genton, M. G. (2020), ["Nonstationary cross-covariance functions for multivariate spatio-temporal random  fields,"](https://marcgenton.github.io/2020.SG.SpatStat.pdf) *Spatial Statistics*, **37**:100411.
+**[243]** Salvana, M. L., and Genton, M. G. (2020), ["Nonstationary cross-covariance functions for multivariate spatio-temporal random fields,"](https://marcgenton.github.io/2020.SG.SpatStat.pdf) *Spatial Statistics*, **37**:100411.
 
 **[242]** Shi, J., Tong, T., Wang, Y., and Genton, M. G. (2020), ["Estimating the mean and variance from the five-number summary of a log-normal distribution,"](https://marcgenton.github.io/2020.STWG.SII.pdf) *Statistics and Its Interface*, **13**, 519-531.
 
